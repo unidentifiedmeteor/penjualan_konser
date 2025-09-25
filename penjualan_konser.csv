@@ -1,0 +1,1576 @@
+Order_ID,Artist,City,Venue,Date,Ticket_Category,Ticket_Price,Buyer_Name,Quantity,Total_Price
+ORD00048527,Pamungkas,Semarang,Ciwalk,2025/05/20,Festival,127493,"Luthfi Kusmawati, S.Farm",3,382479
+ORD00593395,Tiara Andini,Semarang,Ciwalk,2024-12-09,Silver,,Jasmin Aryani,3,521007
+ORD00632619,Kunto Aji,Denpasar,,2024-06-05,Festival,127493,R. Adikara Usada,4,509972
+ORD00802637,efek rumah kaca,Balikpapan,lapangan gasibu,04-06-2025,Festival,127493,"T. Oskar Puspasari, S.E.",5,637465
+ORD00071085,Dewa 19,Medan,Trans Studio Bandung,2024-04-02,Gold,217869,Hesti Mangunsong,4,871476
+ORD00156169,raisa,Surabaya,gedung kesenian jakarta,2024-06-30,VIP,253466,"Puti Rahayu Mardhiyah, M.Pd",4,
+ORD00019001,Ardhito Pramono,Yogyakarta,Istora Senayan,2024-01-13,Gold,217869,H. Prakosa Uyainah,2,435738
+ORD00034682,,Jakarta,Gedung Kesenian Jakarta,2023-08-28,VIP,253466,Maria Haryanti,2,506932
+ORD00247604,Nadin Amizah,Jakarta,Lapangan Gasibu,2024/09/04,VIP,253466,"H. Sidiq Fujiati, S.E.",1,253466
+ORD00360142,Pamungkas,Semarang,JCC,2024-12-05,Gold,217869,R. Legawa Narpati,4,871476
+ORD00792348,banda neira,Jakarta,trans studio bandung,,Festival,127493,"Amelia Hutagalung, S.H.",2,254986
+ORD00597765,Ardhito Pramono,Semarang,Gedung Kesenian Jakarta,,Festival,127493,Soleh Laksmiwati,3,382479
+ORD00389602,pamungkas,Semarang,trans studio bandung,12-22-2024,Gold,500000000,Koko Maulana,2,435738
+ORD00700969,Fourtwnty,Jakarta,Taman Budaya,2024-07-09,Silver,173669,"Ir. Galar Safitri, S.E.I",2,347338
+ORD00609385,Tulus,Balikpapan,Ciwalk,2024-06-28,Gold,217869,Danu Siregar,2,435738
+ORD00602169,MALIQ & D'ESSENTIALS,Surabaya,JCC,2024-06-28,Festival,127493,Faizah Permata,4,509972
+ORD00767239,Nadin Amizah,Medan,Istora Senayan,,Silver,173669,"Dt. Bakiono Astuti, S.Gz",3,521007
+ORD00290482,Dewa 19,Bandung,Ciwalk,2024/11/29,Festival,127493,Parman Permadi,3,382479
+ORD00275695,Raisa,Denpasar,Istora Senayan,2025/04/12,Festival,127493,Baktianto Anggraini,3,382479
+ORD00650418,Tiara Andini,Bandung,Jogja Expo Center,04-24-2024,VIP,253466,Mursinin Rahayu,3,760398
+ORD00475470,Sal Priadi,Palembang,Jogja Expo Center,2024-12-02,Gold,217869,Septi Anggriawan,1,217869
+ORD00140243,Raisa,Surabaya,Taman Budaya,2025/02/13,Silver,173669,"Faizah Fujiati, S.E.",3,521007
+ORD00607628,Sal Priadi,Denpasar,Lapangan Gasibu,2024-08-04,VIP,253466,Karma Latupono,2,506932
+ORD00111245,BARASUARA,Balikpapan,SABUGA,2024/02/18,,127493,"Mumpuni Susanti, S.Farm",2,254986
+ORD00644705,Kunto Aji,Bandung,Ciwalk,2024/10/19,Festival,127493,Patricia Kusumo,2,254986
+ORD00695466,Isyana Sarasvati,Yogyakarta,Gedung Kesenian Jakarta,2024-06-13,Festival,127493,Violet Hastuti,1,127493
+ORD00217198,Barasuara,,Istora Senayan,2024-06-18,Gold,217869,"Jatmiko Wibowo, S.Farm",2,435738
+ORD00232710,Tiara Andini,Balikpapan,Taman Budaya,2025-05-18,Festival,127493,Kemal Ramadan,2,
+ORD00353908,Pamungkas,Yogyakarta,Taman Budaya,,Silver,173669,Jagaraga Budiyanto,1,173669
+ORD00313925,FOURTWNTY,Makassar,JCC,2023-11-18,Festival,127493,R. Jefri Habibi,2,254986
+ORD00375328,HINDIA,,ISTORA SENAYAN,06-23-2025,Gold,217869,"Karimah Nugroho, S.Ked",2,435738
+ORD00722438,maliq & d'essentials,Denpasar,ciwalk,2023-09-19,VIP,253466,"Yessi Hidayanto, S.E.",1,
+ORD00656017,,Yogyakarta,GEDUNG KESENIAN JAKARTA,2023-10-26,Gold,217869,Ina Mulyani,1,217869
+ORD00004272,Noah,Medan,Gedung Kesenian Jakarta,2025-02-17,Silver,,Fitriani Puspita,2,347338
+ORD00397861,Nadin Amizah,Bandung,Istora Senayan,2024-03-11,Gold,217869,Malik Zulaika,2,435738
+ORD00777876,Hindia,Balikpapan,,2024-12-21,Festival,127493,Enteng Widiastuti,5,637465
+ORD00048161,Pamungkas,Semarang,Ciwalk,2025-05-20,,127493,"Taufik Uwais, S.E.",5,637465
+ORD00477171,Raisa,,Jogja Expo Center,03-11-2025,VIP,253466,Eman Riyanti,1,253466
+ORD00142849,Banda Neira,Yogyakarta,Gedung Kesenian Jakarta,2025-03-11,VIP,253466,Rini Nashiruddin,3,760398
+ORD00324962,bernadya,Bandung,sabuga,2024-06-05,,173669,Rahmi Lailasari,5,868345
+ORD00224267,Banda Neira,Denpasar,Tennis Indoor Senayan,2024-01-11,Gold,217869,"Hj. Irma Najmudin, S.Pt",3,653607
+ORD00046795,Nadin Amizah,Denpasar,Tennis Indoor Senayan,2025-03-17,Gold,217869,"Jagapati Safitri, S.T.",4,871476
+ORD00570581,Kunto Aji,Balikpapan,,2024/03/23,VIP,253466,Restu Yuniar,2,506932
+ORD00015206,TULUS,Bandung,TAMAN BUDAYA,2023-12-27,Silver,173669,Mulya Novitasari,1,173669
+ORD00624775,RAISA,Semarang,ISTORA SENAYAN,2025-04-05,Festival,99999999,Diana Irawan,1,127493
+ORD00386990,Nadin Amizah,Denpasar,Istora Senayan,2023-09-18,Gold,217869,Endah Mandasari,4,871476
+ORD00089746,Kunto Aji,Denpasar,,2024-02-15,Silver,173669,Harsana Wasita,5,868345
+ORD00236053,Bernadya,Palembang,Tennis Indoor Senayan,2024-08-23,VIP,253466,Gilda Rahayu,5,1267330
+ORD00527316,pamungkas,Semarang,jcc,08-15-2023,Gold,217869,Harsanto Pradana,4,871476
+ORD00246646,DEWA 19,Denpasar,SABUGA,10-07-2024,Silver,173669,"Sutan Karsa Simanjuntak, S.Psi",4,694676
+ORD00577670,Efek Rumah Kaca,Surabaya,Jogja Expo Center,2023-09-23,Silver,173669,Michelle Namaga,3,521007
+ORD00130327,YURA YUNITA,Semarang,JOGJA EXPO CENTER,07-08-2025,Silver,173669,Kenzie Pratama,2,347338
+ORD00819084,Sal Priadi,Medan,Gedung Kesenian Jakarta,2024-07-26,VIP,,Titin Latupono,5,1267330
+ORD00419645,Nadin Amizah,Balikpapan,Gedung Kesenian Jakarta,03-02-2024,Gold,217869,Adiarja Situmorang,1,217869
+ORD00797766,hindia,Palembang,taman budaya,2025/07/15,Gold,217869,"Ade Widiastuti, S.I.Kom",3,653607
+ORD00689182,Bernadya,Medan,Istora Senayan,2023-09-05,VIP,253466,"Warji Nainggolan, S.Sos",4,1013864
+ORD00329110,BANDA NEIRA,Denpasar,TRANS STUDIO BANDUNG,11-29-2023,Festival,1,"dr. Tami Wacana, S.IP",4,509972
+ORD00548311,Bernadya,Jakarta,Lapangan Gasibu,2024/04/22,VIP,253466,Humaira Padmasari,1,253466
+ORD00425802,DEWA 19,Medan,TENNIS INDOOR SENAYAN,2024-01-16,VIP,253466,Sutan Daniswara Lestari,2,506932
+ORD00228868,ISYANA SARASVATI,Makassar,CIWALK,2023-09-08,,173669,Nilam Hidayat,2,347338
+ORD00726795,Noah,Bandung,Gedung Kesenian Jakarta,10-26-2024,VIP,253466,"Zamira Widiastuti, S.T.",5,
+ORD00259031,Isyana Sarasvati,Jakarta,Taman Budaya,2025-02-28,Gold,217869,R.A. Ellis Saptono,2,435738
+ORD00561931,Raisa,Bandung,Tennis Indoor Senayan,2025-01-19,Festival,127493,Dt. Jaya Nainggolan,2,254986
+ORD00686621,SAL PRIADI,Yogyakarta,TENNIS INDOOR SENAYAN,2023-09-14,Festival,127493,Jelita Saefullah,3,382479
+ORD00010012,Tiara Andini,Jakarta,Tennis Indoor Senayan,2023-08-19,VIP,253466,"Eka Palastri, S.I.Kom",4,1013864
+ORD00523862,NADIN AMIZAH,Jakarta,GEDUNG KESENIAN JAKARTA,05-08-2025,Festival,127493,Karman Januar,5,637465
+ORD00276413,Efek Rumah Kaca,Balikpapan,Sabuga,2024-12-14,Festival,127493,Yuliana Palastri,1,
+ORD00462823,ISYANA SARASVATI,Bandung,JOGJA EXPO CENTER,2025-06-17,Gold,217869,Lidya Damanik,4,871476
+ORD00197806,Dewa 19,Denpasar,Trans Studio Bandung,2025-06-04,Silver,173669,"Dt. Ganjaran Riyanti, S.Psi",2,347338
+ORD00699018,Nadin Amizah,Surabaya,Jogja Expo Center,2024-09-03,Gold,217869,Cut Nova Marpaung,,217869
+ORD00230378,NADIN AMIZAH,Jakarta,ISTORA SENAYAN,2024/10/21,Gold,217869,dr. Caket Usamah,3,
+ORD00209636,Ardhito Pramono,Makassar,Jogja Expo Center,2025-05-27,,127493,Nasim Utami,5,637465
+ORD00132779,Maliq & D'Essentials,Balikpapan,Ciwalk,2023/10/20,Gold,217869,Samiah Zulaika,2,435738
+ORD00358532,,Jakarta,Trans Studio Bandung,2025/03/17,Silver,173669,"Mala Simbolon, M.TI.",2,347338
+ORD00256507,Maliq & D'Essentials,Medan,Trans Studio Bandung,2024-07-15,Festival,99999999,Titin Gunawan,1,127493
+ORD00348485,Kunto Aji,Denpasar,JCC,12-28-2023,Gold,217869,Mumpuni Mayasari,4,871476
+ORD00173552,FIERSA BESARI,Denpasar,JOGJA EXPO CENTER,2024-01-08,Gold,217869,Slamet Natsir,5,1089345
+ORD00065114,Hindia,Yogyakarta,Lapangan Gasibu,,Festival,127493,Sutan Kasiran Dabukke,4,509972
+ORD00410407,MALIQ & D'ESSENTIALS,Palembang,JOGJA EXPO CENTER,2024/10/18,VIP,253466,R. Estiawan Nasyiah,5,1267330
+ORD00118230,Hindia,Medan,Gedung Kesenian Jakarta,2025/02/03,Festival,127493,Ir. Yusuf Tampubolon,2,254986
+ORD00571149,Hindia,Yogyakarta,Gedung Kesenian Jakarta,10-17-2024,Gold,217869,"Dt. Bagus Padmasari, M.Pd",1,217869
+ORD00195106,BARASUARA,Jakarta,LAPANGAN GASIBU,06-17-2024,Gold,217869,Kasim Widodo,2,435738
+ORD00129375,Efek Rumah Kaca,Medan,Taman Budaya,2024/09/09,Silver,173669,"Tgk. Baktiono Usamah, S.Farm",2,347338
+ORD00257290,efek rumah kaca,Yogyakarta,tennis indoor senayan,2024/03/27,VIP,1,Kamaria Adriansyah,5,1267330
+ORD00150815,Ardhito Pramono,Medan,JCC,2025-03-03,Gold,217869,"Drs. Lembah Wacana, S.Ked",3,653607
+ORD00815333,Sal Priadi,Jakarta,Sabuga,2024/08/24,,253466,Hardana Oktaviani,3,760398
+ORD00727117,banda neira,Makassar,sabuga,2024/12/20,Silver,173669,"drg. Patricia Farida, M.TI.",4,694676
+ORD00639480,Dewa 19,Balikpapan,Ciwalk,08-10-2024,Gold,217869,"Ir. Titin Permadi, S.E.I",3,653607
+ORD00323761,sal priadi,Balikpapan,ciwalk,,Festival,127493,"Edi Prastuti, S.Ked",5,637465
+ORD00236132,Bernadya,Palembang,Tennis Indoor Senayan,2024-08-23,VIP,253466,Sakti Palastri,3,760398
+ORD00303087,,Denpasar,Taman Budaya,2023-11-28,Festival,127493,"Tgk. Putri Pertiwi, S.IP",4,509972
+ORD00607372,Sal Priadi,Denpasar,Lapangan Gasibu,08-04-2024,VIP,253466,Martani Hidayat,3,760398
+ORD00763483,Efek Rumah Kaca,Medan,JCC,2024-09-01,Festival,127493,Cinthia Andriani,4,509972
+ORD00388028,Fourtwnty,Surabaya,Ciwalk,2025/07/10,Gold,217869,Asirwanda Zulaika,4,871476
+ORD00705260,Nadin Amizah,Yogyakarta,JCC,11-19-2024,Festival,127493,"Dalima Waluyo, S.I.Kom",3,382479
+ORD00208807,Noah,Balikpapan,Gedung Kesenian Jakarta,,Silver,173669,"R. Zahra Winarsih, M.Kom.",2,347338
+ORD00410379,maliq & d'essentials,Palembang,jogja expo center,2024-10-18,VIP,253466,R.M. Tasnim Nainggolan,1,253466
+ORD00792476,Banda Neira,Jakarta,Trans Studio Bandung,2024-08-16,Festival,127493,T. Hamzah Sirait,1,127493
+ORD00748846,Efek Rumah Kaca,Yogyakarta,Trans Studio Bandung,2024-06-30,Festival,500000000,Victoria Utama,4,509972
+ORD00189999,RAISA,Balikpapan,GEDUNG KESENIAN JAKARTA,2023-09-11,Festival,127493,"Kezia Usada, S.IP",1,
+ORD00393053,fiersa besari,Semarang,taman budaya,2024-03-22,VIP,253466,"Drs. Dartono Melani, M.TI.",4,1013864
+ORD00713405,EFEK RUMAH KACA,Bandung,JOGJA EXPO CENTER,07-28-2023,Gold,217869,"Ir. Elisa Wibisono, S.Pt",2,435738
+ORD00018104,Ardhito Pramono,Yogyakarta,Istora Senayan,01-13-2024,Gold,217869,Lanang Marbun,,217869
+,Fiersa Besari,Palembang,Ciwalk,2024/11/24,Gold,217869,"Raina Hasanah, S.H.",3,653607
+ORD00162044,Tulus,Medan,Sabuga,10-25-2024,Festival,127493,Nadia Hasanah,,254986
+ORD00386464,Pamungkas,,JCC,2024/05/03,Gold,217869,Jinawi Budiyanto,4,871476
+ORD00353916,Pamungkas,Yogyakarta,Taman Budaya,2023-08-13,Silver,173669,Nalar Putra,4,
+ORD00133446,PAMUNGKAS,Denpasar,LAPANGAN GASIBU,07-16-2025,Festival,127493,Rama Gunawan,3,382479
+ORD00306315,Ardhito Pramono,Denpasar,JCC,08-02-2023,Silver,173669,Puti Carla Prasasta,3,521007
+ORD00081072,fourtwnty,Medan,jogja expo center,2024-03-26,Gold,217869,Gangsa Wahyuni,1,217869
+ORD00558332,Noah,Bandung,Sabuga,2024/07/27,Festival,127493,Zahra Mardhiyah,1,127493
+ORD00442432,RAISA,Balikpapan,TENNIS INDOOR SENAYAN,07-30-2023,,253466,"R. Intan Hariyah, S.Kom",3,760398
+ORD00634204,Nadin Amizah,Medan,Taman Budaya,2024-08-08,Festival,127493,Jane Purnawati,4,509972
+ORD00335744,isyana sarasvati,Yogyakarta,tennis indoor senayan,2025-07-13,Silver,173669,Drs. Sabri Mayasari,1,173669
+,Banda Neira,Bandung,JCC,2024/07/06,Silver,173669,Ciaobella Zulaika,1,173669
+ORD00532348,BARASUARA,Medan,LAPANGAN GASIBU,12-06-2024,Festival,127493,Daliman Simbolon,4,509972
+ORD00366098,Bernadya,Bandung,Jogja Expo Center,2025/06/06,Festival,127493,Safina Budiyanto,1,
+ORD00636036,,Yogyakarta,Tennis Indoor Senayan,2025/01/12,Gold,217869,Jarwadi Kuswoyo,1,217869
+ORD00522349,Yura Yunita,Balikpapan,Tennis Indoor Senayan,2024-06-04,Gold,217869,Rizki Oktaviani,4,871476
+ORD00608478,Fourtwnty,Semarang,Gedung Kesenian Jakarta,07-21-2024,Gold,217869,Joko Purwanti,5,1089345
+,Maliq & D'Essentials,Jakarta,Gedung Kesenian Jakarta,03-02-2025,Silver,1,"Hardana Siregar, M.Ak",4,694676
+ORD00796291,,Jakarta,JCC,2024-09-24,Festival,99999999,Darman Januar,2,254986
+ORD00823210,Bernadya,Surabaya,Tennis Indoor Senayan,2024-08-23,Gold,217869,R.M. Lembah Budiman,3,653607
+ORD00753959,MALIQ & D'ESSENTIALS,Bandung,ISTORA SENAYAN,2023-10-04,Gold,217869,Olivia Saefullah,5,1089345
+ORD00277830,HINDIA,Makassar,GEDUNG KESENIAN JAKARTA,2024-12-25,VIP,253466,R.M. Cahyadi Wulandari,4,1013864
+ORD00815262,Sal Priadi,Jakarta,Sabuga,2024-08-24,VIP,253466,Elisa Suryono,2,506932
+ORD00239446,,Denpasar,taman budaya,2024-12-31,Silver,173669,Gandi Melani,4,694676
+ORD00775668,Maliq & D'Essentials,Makassar,Sabuga,2024/06/09,VIP,253466,Bakianto Januar,2,506932
+ORD00586493,FOURTWNTY,Yogyakarta,TRANS STUDIO BANDUNG,2024-10-07,Silver,500000000,Galak Hutasoit,2,347338
+ORD00587538,dewa 19,Semarang,jogja expo center,2025/03/24,Gold,217869,"Dt. Purwadi Palastri, S.E.",3,653607
+ORD00536973,Bernadya,Semarang,Sabuga,,Festival,127493,Danuja Pangestu,2,254986
+ORD00034880,Bernadya,Palembang,Taman Budaya,2025-02-11,Silver,173669,Kambali Haryanto,2,347338
+ORD00417106,Isyana Sarasvati,Bandung,Ciwalk,2025-02-16,Festival,127493,,5,637465
+ORD00676947,Fiersa Besari,Balikpapan,Taman Budaya,08-10-2024,Festival,127493,Gandewa Haryanti,5,637465
+ORD00735237,Fourtwnty,Palembang,Istora Senayan,2023-11-13,Festival,127493,Rina Andriani,4,509972
+ORD00266037,,Bandung,sabuga,2024-02-16,Festival,127493,Muhammad Simbolon,1,127493
+ORD00315798,isyana sarasvati,Semarang,tennis indoor senayan,2024-05-04,Gold,217869,dr. Ozy Uwais,5,1089345
+ORD00735586,,Balikpapan,Lapangan Gasibu,2023/09/19,Festival,127493,"Farah Kuswandari, S.I.Kom",3,382479
+,tiara andini,Medan,jogja expo center,2024-10-29,Festival,127493,"Puti Sarah Gunawan, S.I.Kom",4,509972
+ORD00145821,raisa,Bandung,sabuga,2024-07-29,Silver,,"Drs. Nadine Napitupulu, M.M.",3,521007
+ORD00191473,banda neira,Palembang,tennis indoor senayan,04-07-2025,Gold,217869,Jamalia Nuraini,3,653607
+ORD00130109,YURA YUNITA,Semarang,JOGJA EXPO CENTER,2025-07-08,Silver,173669,Dt. Kunthara Ardianto,1,173669
+ORD00728347,Efek Rumah Kaca,Medan,JCC,07-20-2025,Silver,173669,Violet Winarsih,3,521007
+ORD00491604,Isyana Sarasvati,Makassar,Tennis Indoor Senayan,2025-01-15,Festival,127493,Eka Nainggolan,2,254986
+,Ardhito Pramono,Jakarta,Gedung Kesenian Jakarta,2025-03-09,VIP,253466,Aisyah Simbolon,1,253466
+ORD00319601,Yura Yunita,Balikpapan,Sabuga,2024-01-05,Silver,173669,Warsa Januar,2,347338
+ORD00734729,Fourtwnty,Palembang,Istora Senayan,2023-11-13,Festival,127493,,2,254986
+ORD00161113,dewa 19,Makassar,lapangan gasibu,2024/01/20,VIP,253466,Edi Suwarno,5,1267330
+ORD00039562,Efek Rumah Kaca,Surabaya,Lapangan Gasibu,2025-04-30,Silver,173669,"drg. Eva Sihombing, S.Psi",2,347338
+ORD00156396,,Surabaya,Gedung Kesenian Jakarta,2024-06-30,VIP,253466,Melinda Maulana,1,253466
+ORD00402775,Bernadya,Surabaya,Trans Studio Bandung,2025/02/26,Silver,173669,Upik Purnawati,1,173669
+ORD00723419,Sal Priadi,Jakarta,JCC,2025-07-12,Gold,217869,"Puji Suryatmi, M.Farm",4,871476
+ORD00414772,Isyana Sarasvati,Semarang,Trans Studio Bandung,2024-08-26,Festival,127493,Ir. Shania Sinaga,5,637465
+ORD00129596,Efek Rumah Kaca,Medan,Taman Budaya,2024-09-09,Silver,173669,Opan Budiman,5,868345
+ORD00389331,Ardhito Pramono,Denpasar,Trans Studio Bandung,2024-03-25,Festival,,Faizah Suwarno,4,509972
+ORD00658526,sal priadi,Palembang,sabuga,2025-01-12,VIP,253466,Hj. Gilda Halim,4,1013864
+ORD00386699,barasuara,Surabaya,jcc,2024-06-24,Silver,173669,"Ilsa Suryono, S.I.Kom",1,173669
+ORD00012433,Efek Rumah Kaca,Balikpapan,Lapangan Gasibu,2024/01/22,Festival,127493,Vera Farida,3,382479
+ORD00697473,tulus,Bandung,,11-17-2024,Silver,173669,Iriana Pratama,4,694676
+ORD00247995,Banda Neira,Denpasar,Lapangan Gasibu,07-21-2025,Gold,217869,,2,435738
+ORD00204289,Pamungkas,Palembang,Sabuga,,Silver,173669,"Ganep Hakim, S.I.Kom",4,694676
+ORD00577655,Efek Rumah Kaca,Surabaya,Jogja Expo Center,2023/09/23,Silver,173669,Oskar Lazuardi,4,694676
+ORD00537879,Banda Neira,Bandung,Trans Studio Bandung,2024/05/15,Silver,173669,"Vinsen Halimah, S.I.Kom",4,694676
+ORD00605334,SAL PRIADI,Balikpapan,TENNIS INDOOR SENAYAN,2025-04-13,VIP,500000000,"Jayadi Maheswara, S.H.",3,760398
+ORD00326806,,Balikpapan,Sabuga,2025-07-14,Gold,217869,"KH. Dadi Sirait, S.Ked",1,217869
+ORD00677964,Ardhito Pramono,Denpasar,Trans Studio Bandung,2025-06-02,Silver,173669,"Yance Wijayanti, S.Sos",2,347338
+ORD00094553,Maliq & D'Essentials,Palembang,Tennis Indoor Senayan,2024-08-24,Festival,127493,Jelita Melani,4,509972
+ORD00362873,Yura Yunita,Bandung,Istora Senayan,09-14-2024,Gold,217869,"Hj. Belinda Hutapea, S.E.I",5,1089345
+ORD00343576,KUNTO AJI,Denpasar,LAPANGAN GASIBU,2025-03-28,Silver,173669,Luwar Mardhiyah,1,173669
+ORD00084211,Kunto Aji,Medan,Lapangan Gasibu,07-05-2025,Silver,173669,"KH. Kairav Anggriawan, S.I.Kom",3,521007
+ORD00566155,dewa 19,Makassar,gedung kesenian jakarta,,Silver,173669,Daryani Prayoga,5,868345
+ORD00721739,maliq & d'essentials,Denpasar,ciwalk,2023-09-19,VIP,253466,Ani Sitompul,1,253466
+ORD00749059,Ardhito Pramono,Denpasar,Trans Studio Bandung,2024/11/01,Silver,173669,Kasiyah Situmorang,,173669
+ORD00766867,Nadin Amizah,Medan,Istora Senayan,2024-06-28,Silver,173669,H. Karna Pradana,1,173669
+ORD00428380,isyana sarasvati,Yogyakarta,sabuga,2023-11-17,Silver,173669,Zalindra Oktaviani,4,694676
+ORD00101223,MALIQ & D'ESSENTIALS,Jakarta,TRANS STUDIO BANDUNG,2024-10-31,Silver,173669,Mila Yulianti,2,347338
+ORD00250424,Hindia,Surabaya,Istora Senayan,,Silver,173669,Asman Wibowo,2,347338
+ORD00325524,Fiersa Besari,Semarang,JCC,11-19-2024,Gold,217869,"Juli Anggriawan, M.M.",1,217869
+ORD00458786,banda neira,Surabaya,jcc,2024-10-30,Silver,173669,"Rina Yulianti, S.E.I",3,521007
+ORD00796783,tiara andini,Balikpapan,istora senayan,2023/11/04,Silver,173669,Tirta Latupono,2,347338
+,Pamungkas,Palembang,Trans Studio Bandung,2025-06-01,Gold,217869,Amelia Lailasari,3,653607
+ORD00477090,Raisa,Denpasar,Jogja Expo Center,03-11-2025,VIP,253466,,5,1267330
+ORD00479654,Fiersa Besari,Denpasar,Ciwalk,2024-11-23,Festival,127493,H. Cemplunk Setiawan,3,382479
+ORD00336776,Maliq & D'Essentials,Makassar,Sabuga,2024/04/09,Gold,217869,Ozy Irawan,1,217869
+ORD00270437,MALIQ & D'ESSENTIALS,Jakarta,TENNIS INDOOR SENAYAN,2024-01-31,VIP,253466,H. Dono Ramadan,1,253466
+ORD00437871,Fourtwnty,Balikpapan,,2025/02/02,VIP,253466,Endah Anggriawan,2,506932
+ORD00278874,Kunto Aji,Medan,Lapangan Gasibu,09-28-2024,,253466,Radit Hasanah,4,1013864
+ORD00080367,Efek Rumah Kaca,Makassar,Ciwalk,2025-06-05,VIP,253466,Drs. Baktiadi Lestari,5,1267330
+ORD00455956,banda neira,Palembang,taman budaya,2024-07-20,Silver,,"Uli Hutapea, S.E.",3,521007
+ORD00821444,Bernadya,Makassar,JCC,2025-07-11,VIP,253466,Atma Hutapea,4,1013864
+ORD00370221,Pamungkas,Balikpapan,Jogja Expo Center,02-10-2025,VIP,253466,Prasetya Aryani,2,506932
+ORD00612982,Isyana Sarasvati,Semarang,Lapangan Gasibu,2025-07-20,Gold,217869,H. Koko Sitorus,3,653607
+ORD00341841,TULUS,Bandung,JOGJA EXPO CENTER,2024-02-18,Silver,173669,Yani Puspita,2,347338
+ORD00445549,Fiersa Besari,Balikpapan,Jogja Expo Center,2025-03-15,Silver,173669,,1,173669
+ORD00356793,Dewa 19,Bandung,Tennis Indoor Senayan,05-30-2024,Festival,127493,Baktiono Marpaung,1,127493
+ORD00497796,maliq & d'essentials,Balikpapan,lapangan gasibu,2024/06/12,Silver,173669,Dt. Galang Wulandari,5,868345
+ORD00282360,SAL PRIADI,Denpasar,JCC,2025-07-24,Festival,127493,Shania Usada,4,509972
+ORD00141891,Fourtwnty,Balikpapan,JCC,2025/03/07,VIP,253466,Ira Kuswandari,,253466
+ORD00556929,KUNTO AJI,,ISTORA SENAYAN,01-27-2024,VIP,253466,Nasab Sinaga,1,253466
+ORD00388259,fourtwnty,Surabaya,ciwalk,2025/07/10,Gold,217869,"KH. Oman Firmansyah, S.Psi",3,653607
+ORD00716570,,Surabaya,Taman Budaya,2023-08-20,VIP,253466,Edward Pradipta,3,760398
+ORD00307740,Tiara Andini,Palembang,Trans Studio Bandung,06-10-2025,Silver,173669,"Drs. Harsaya Wijaya, S.IP",3,521007
+ORD00765151,Kunto Aji,Semarang,Trans Studio Bandung,2024-07-03,VIP,253466,,5,1267330
+ORD00492853,BERNADYA,Bandung,JOGJA EXPO CENTER,2025-01-24,Festival,127493,Tantri Ramadan,4,509972
+ORD00544361,Yura Yunita,Medan,,05-04-2025,VIP,253466,"KH. Jamal Yuliarti, M.Kom.",2,506932
+ORD00080842,Fourtwnty,Medan,Jogja Expo Center,2024-03-26,Gold,217869,,5,1089345
+ORD00314111,Sal Priadi,Palembang,Trans Studio Bandung,2024-06-23,Festival,127493,Niyaga Zulaika,1,127493
+ORD00543871,Raisa,Denpasar,Sabuga,,Gold,217869,Sutan Wadi Mayasari,3,653607
+ORD00627105,BANDA NEIRA,Makassar,,2025-01-20,VIP,253466,Kayla Firmansyah,5,1267330
+ORD00063583,barasuara,Palembang,taman budaya,2024-09-12,Festival,127493,,2,254986
+ORD00187363,noah,Yogyakarta,trans studio bandung,2023-09-06,VIP,253466,Ibrahim Hidayat,,1267330
+ORD00381683,Ardhito Pramono,Palembang,,09-16-2024,Gold,217869,Kayla Prasetya,2,435738
+ORD00656895,Nadin Amizah,Yogyakarta,Gedung Kesenian Jakarta,,Gold,500000000,"Viktor Winarno, S.IP",4,871476
+ORD00474065,Fourtwnty,Surabaya,JCC,2024/02/03,,217869,"Aisyah Purwanti, S.IP",2,435738
+ORD00458376,Banda Neira,Surabaya,,2024-10-30,Silver,173669,Fitria Megantara,5,868345
+ORD00039130,Efek Rumah Kaca,Surabaya,Lapangan Gasibu,2025/04/30,Silver,173669,"Ghaliyati Maryadi, S.Ked",5,868345
+ORD00331795,Barasuara,Palembang,Jogja Expo Center,2025-06-09,VIP,253466,Belinda Ardianto,5,1267330
+ORD00806419,Kunto Aji,Bandung,Istora Senayan,2024-09-26,Gold,217869,Amelia Suwarno,,653607
+ORD00456575,RAISA,,JOGJA EXPO CENTER,2024-12-25,Silver,173669,Melinda Purwanti,1,173669
+ORD00523039,Yura Yunita,Balikpapan,Tennis Indoor Senayan,2024-06-04,Gold,217869,Rendy Kuswoyo,3,
+ORD00605472,,Balikpapan,TENNIS INDOOR SENAYAN,2025-04-13,VIP,253466,Yessi Nasyidah,4,1013864
+ORD00220192,isyana sarasvati,Jakarta,,2025-02-03,Festival,127493,Laras Mustofa,1,127493
+ORD00188301,Fiersa Besari,Jakarta,Ciwalk,2024-12-30,VIP,253466,Estiono Thamrin,5,1267330
+ORD00309230,Yura Yunita,Makassar,Ciwalk,11-18-2023,Silver,173669,"Salsabila Wibisono, S.IP",3,521007
+ORD00788459,tiara andini,Yogyakarta,lapangan gasibu,2024-06-10,Gold,,Raisa Nainggolan,5,1089345
+ORD00474262,Fourtwnty,Surabaya,JCC,2024-02-03,Gold,217869,T. Umaya Latupono,5,1089345
+ORD00034990,Bernadya,Palembang,Taman Budaya,,Silver,173669,Umar Samosir,3,521007
+ORD00817192,Kunto Aji,Palembang,Taman Budaya,06-12-2024,Gold,217869,Amelia Prabowo,1,217869
+ORD00277854,Hindia,Makassar,Gedung Kesenian Jakarta,2024/12/25,VIP,253466,Arsipatra Kurniawan,2,506932
+ORD00486082,Maliq & D'Essentials,Palembang,Lapangan Gasibu,2024/03/30,Gold,217869,"Ibrani Uwais, M.TI.",3,653607
+ORD00784972,Fiersa Besari,Bandung,Tennis Indoor Senayan,2025-05-27,Festival,127493,Tgk. Ciaobella Yuliarti,1,
+ORD00572755,ARDHITO PRAMONO,Medan,JCC,03-24-2024,Silver,173669,"Sutan Cengkal Haryanti, S.Gz",5,868345
+ORD00711147,Barasuara,Jakarta,Sabuga,2023-12-08,VIP,253466,Bakti Tampubolon,5,1267330
+ORD00062231,BANDA NEIRA,Balikpapan,GEDUNG KESENIAN JAKARTA,2023-12-05,Silver,173669,"Dr. Eka Halimah, S.E.I",4,694676
+ORD00189584,Sal Priadi,Surabaya,Jogja Expo Center,2024-12-08,,127493,Oni Hidayanto,2,254986
+ORD00783616,Kunto Aji,Medan,,2024-06-03,VIP,253466,"Padma Wijaya, S.Pt",2,506932
+ORD00274143,DEWA 19,Balikpapan,CIWALK,01-22-2025,Festival,127493,Calista Rajata,1,127493
+ORD00539345,BERNADYA,Palembang,SABUGA,,Festival,127493,"R. Amalia Marpaung, S.Psi",4,509972
+ORD00251645,Dewa 19,Bandung,Sabuga,,Gold,217869,Lega Purwanti,5,1089345
+ORD00080135,EFEK RUMAH KACA,Makassar,CIWALK,2025-06-05,VIP,253466,Widya Hartati,1,253466
+ORD00421791,PAMUNGKAS,Bandung,TRANS STUDIO BANDUNG,2024-11-17,Festival,127493,"Ganep Hasanah, M.Kom.",3,382479
+ORD00058811,Tulus,Jakarta,Tennis Indoor Senayan,2025/07/22,Festival,127493,Clara Rahmawati,4,509972
+ORD00576416,fiersa besari,Yogyakarta,ciwalk,2024/05/29,,127493,"R. Sarah Latupono, S.Farm",3,382479
+ORD00302520,tulus,Semarang,jogja expo center,2024-12-01,Silver,173669,Jarwi Hutapea,3,521007
+ORD00376049,BANDA NEIRA,,CIWALK,2024-10-15,Festival,127493,drg. Bahuwarna Januar,2,254986
+ORD00388756,,Palembang,Gedung Kesenian Jakarta,2024/11/21,Gold,217869,dr. Vanesa Widodo,5,1089345
+ORD00696330,Kunto Aji,Semarang,Lapangan Gasibu,2024-10-31,VIP,253466,Puti Clara Dabukke,1,253466
+ORD00389852,PAMUNGKAS,Semarang,TRANS STUDIO BANDUNG,2024/12/22,Gold,217869,"Juli Simanjuntak, S.Pd",4,871476
+ORD00285795,Efek Rumah Kaca,Jakarta,Taman Budaya,09-27-2024,VIP,253466,Dt. Dipa Safitri,5,1267330
+,Efek Rumah Kaca,Semarang,JCC,2025/02/25,Festival,127493,Gangsa Ramadan,4,509972
+ORD00236285,,Palembang,Tennis Indoor Senayan,2024-08-23,VIP,253466,"KH. Ozy Rajata, S.H.",5,1267330
+ORD00014688,Dewa 19,Palembang,Jogja Expo Center,2024-10-03,Silver,173669,Umi Lestari,2,347338
+ORD00273549,Fourtwnty,Balikpapan,Jogja Expo Center,2024-09-19,VIP,253466,Ir. Cayadi Siregar,1,253466
+ORD00709647,Hindia,Bandung,Istora Senayan,2024-12-19,VIP,253466,Argono Rahmawati,3,760398
+ORD00469618,ardhito pramono,Medan,ciwalk,2025-02-22,,127493,Vicky Saputra,4,509972
+,Yura Yunita,Bandung,Istora Senayan,09-14-2024,Gold,217869,R. Estiono Melani,2,435738
+ORD00596827,Raisa,,Ciwalk,2024-08-09,Festival,127493,Ellis Yuliarti,5,637465
+ORD00409368,,Bandung,JCC,2024-06-23,Silver,500000000,"Hj. Zulaikha Nashiruddin, S.Pd",1,173669
+ORD00191755,Fourtwnty,Jakarta,Gedung Kesenian Jakarta,05-25-2025,Silver,173669,Kania Salahudin,2,347338
+ORD00023841,FIERSA BESARI,Jakarta,JCC,04-11-2025,VIP,253466,Galang Suryatmi,4,1013864
+ORD00330148,barasuara,Denpasar,sabuga,2025-04-07,VIP,253466,Intan Wasita,2,506932
+ORD00271351,BARASUARA,Yogyakarta,TAMAN BUDAYA,2024-05-08,Gold,217869,Bakti Sihombing,1,217869
+ORD00415820,Noah,Makassar,Ciwalk,2025-04-02,Gold,217869,Cut Siska Wahyuni,2,435738
+ORD00208435,Noah,Balikpapan,Gedung Kesenian Jakarta,2024-08-02,Silver,173669,Bakianto Rajata,4,694676
+ORD00054055,Isyana Sarasvati,Semarang,Taman Budaya,05-03-2025,Silver,173669,Silvia Hutagalung,5,868345
+ORD00154377,raisa,Palembang,trans studio bandung,2024/05/30,VIP,99999999,Nadine Permata,5,1267330
+ORD00671323,sal priadi,Surabaya,taman budaya,2023/08/30,Festival,99999999,"Ida Salahudin, S.E.",5,637465
+ORD00158969,Sal Priadi,Makassar,Sabuga,04-13-2024,Gold,217869,Bagiya Pranowo,5,1089345
+ORD00763403,Efek Rumah Kaca,Medan,,09-01-2024,Festival,127493,"Dr. Emil Nasyiah, S.T.",1,127493
+ORD00676602,Fiersa Besari,Balikpapan,Taman Budaya,2024-08-10,Festival,127493,,1,127493
+ORD00506250,PAMUNGKAS,Surabaya,SABUGA,07-30-2024,VIP,500000000,Cut Siti Hutagalung,4,1013864
+ORD00404527,MALIQ & D'ESSENTIALS,Medan,GEDUNG KESENIAN JAKARTA,2024-11-15,Gold,217869,Nabila Nababan,4,871476
+ORD00029081,Fiersa Besari,Surabaya,Trans Studio Bandung,2023-10-06,Festival,127493,Novi Situmorang,1,127493
+ORD00005160,Nadin Amizah,Denpasar,,2023-10-13,VIP,253466,Teddy Farida,2,506932
+ORD00010030,TIARA ANDINI,Jakarta,TENNIS INDOOR SENAYAN,2023-08-19,,253466,"H. Nyana Halim, S.E.",5,1267330
+ORD00693623,MALIQ & D'ESSENTIALS,Medan,LAPANGAN GASIBU,2024-02-03,Silver,173669,R. Septi Nasyiah,1,173669
+ORD00210250,Fourtwnty,Palembang,JCC,2024-06-01,Gold,217869,Empluk Prakasa,1,217869
+ORD00764307,ARDHITO PRAMONO,Yogyakarta,SABUGA,2024-12-13,VIP,253466,"Arsipatra Anggraini, M.Pd",1,253466
+ORD00092908,Pamungkas,Makassar,Jogja Expo Center,2024-05-02,VIP,253466,Slamet Sudiati,,253466
+ORD00452860,Pamungkas,Surabaya,Gedung Kesenian Jakarta,2024/02/04,Festival,127493,Elisa Thamrin,3,382479
+ORD00632533,Kunto Aji,Denpasar,,2024-06-05,Festival,127493,Adiarja Maulana,5,637465
+ORD00605897,Ardhito Pramono,Medan,Trans Studio Bandung,2025-07-09,Silver,173669,"Cengkal Maheswara, S.Pd",5,868345
+ORD00278717,pamungkas,Yogyakarta,gedung kesenian jakarta,2025/04/20,Gold,217869,Ivan Maulana,2,435738
+ORD00302422,Tulus,Semarang,Jogja Expo Center,12-01-2024,Silver,173669,Harjo Maryadi,1,173669
+ORD00104069,Isyana Sarasvati,Surabaya,,2024-09-08,Festival,127493,Vino Rahmawati,2,254986
+ORD00675588,isyana sarasvati,Denpasar,jogja expo center,2025-03-01,VIP,253466,"Edward Hasanah, S.Ked",4,1013864
+ORD00798127,pamungkas,Palembang,ciwalk,2024-03-05,VIP,253466,Tirtayasa Nugroho,1,253466
+ORD00447192,efek rumah kaca,Surabaya,ciwalk,2025/03/21,VIP,253466,Capa Agustina,1,253466
+ORD00454045,Tulus,Jakarta,Taman Budaya,05-14-2025,Gold,217869,Pardi Widodo,2,435738
+ORD00001601,FIERSA BESARI,Balikpapan,GEDUNG KESENIAN JAKARTA,2025-02-20,VIP,253466,Cakrawangsa Budiman,3,760398
+ORD00095019,barasuara,Semarang,gedung kesenian jakarta,2024/08/12,Festival,127493,Hesti Haryanti,5,
+ORD00508230,maliq & d'essentials,Jakarta,gedung kesenian jakarta,2025-03-02,Silver,173669,Najwa Ardianto,5,868345
+ORD00113156,tulus,Semarang,lapangan gasibu,04-15-2024,Festival,127493,Latika Anggriawan,3,382479
+ORD00017642,Tiara Andini,,Istora Senayan,2024-06-15,VIP,253466,Elon Sinaga,5,1267330
+ORD00508424,bernadya,Balikpapan,ciwalk,2024/05/23,VIP,253466,Gilda Samosir,1,253466
+ORD00310665,Hindia,Makassar,Ciwalk,2023-08-22,VIP,253466,Leo Latupono,2,506932
+ORD00390219,kunto aji,Balikpapan,tennis indoor senayan,2025-05-14,VIP,253466,"Hafshah Mayasari, S.Psi",5,1267330
+ORD00249800,HINDIA,Surabaya,,2023-12-31,Silver,500000000,Putri Hidayanto,2,347338
+ORD00094506,maliq & d'essentials,Palembang,tennis indoor senayan,2024/08/24,,127493,Rahayu Latupono,5,637465
+,isyana sarasvati,Semarang,taman budaya,05-03-2025,Silver,173669,Latika Hutapea,5,868345
+ORD00695861,Isyana Sarasvati,Yogyakarta,Gedung Kesenian Jakarta,2024-06-13,Festival,127493,Cornelia Saefullah,1,127493
+ORD00282181,Sal Priadi,Denpasar,JCC,07-24-2025,Festival,127493,Alambana Suryono,5,637465
+ORD00180065,Yura Yunita,Surabaya,Gedung Kesenian Jakarta,06-06-2024,Gold,217869,"Jatmiko Halim, S.E.",3,653607
+ORD00781389,EFEK RUMAH KACA,Balikpapan,TENNIS INDOOR SENAYAN,2023/08/23,Festival,127493,Amelia Kusmawati,1,127493
+ORD00687789,Raisa,Jakarta,Gedung Kesenian Jakarta,10-16-2024,Silver,173669,"Dr. Cornelia Nuraini, S.T.",4,694676
+ORD00067426,Fourtwnty,Medan,Taman Budaya,2025-07-13,Festival,127493,Jefri Damanik,2,254986
+ORD00640443,TIARA ANDINI,Medan,TRANS STUDIO BANDUNG,2025-04-01,Festival,127493,"Salimah Andriani, S.I.Kom",1,127493
+ORD00795303,Raisa,Makassar,Sabuga,2024-02-18,Silver,173669,Asman Yuliarti,2,
+ORD00460846,efek rumah kaca,Semarang,jogja expo center,2024-07-03,Gold,99999999,Kartika Setiawan,4,871476
+ORD00813264,TIARA ANDINI,Surabaya,ISTORA SENAYAN,07-19-2025,Silver,173669,Mahfud Thamrin,2,347338
+ORD00523908,NADIN AMIZAH,Jakarta,GEDUNG KESENIAN JAKARTA,2025-05-08,Festival,127493,Endah Kusmawati,1,127493
+ORD00245653,Ardhito Pramono,Jakarta,JCC,2024-12-17,Gold,217869,Kairav Melani,2,435738
+ORD00664877,tiara andini,Makassar,sabuga,,VIP,1,Harsana Prakasa,4,1013864
+ORD00339454,Tiara Andini,Yogyakarta,Trans Studio Bandung,2025-05-27,Festival,127493,Unggul Manullang,1,127493
+ORD00352953,Isyana Sarasvati,Palembang,Trans Studio Bandung,01-18-2024,Silver,173669,"Mustofa Manullang, S.Pd",3,521007
+ORD00371618,Maliq & D'Essentials,Yogyakarta,Jogja Expo Center,2024-03-25,Silver,173669,Rahmat Rahmawati,5,868345
+ORD00147495,FIERSA BESARI,Makassar,CIWALK,2024/09/07,Festival,127493,Kasiyah Tamba,2,254986
+ORD00418436,Dewa 19,Balikpapan,Trans Studio Bandung,2024-12-18,Festival,127493,Garang Pangestu,3,382479
+ORD00481551,yura yunita,Bandung,jogja expo center,2024-07-01,Silver,173669,Harsaya Wacana,1,173669
+ORD00107273,,Surabaya,Lapangan Gasibu,2025-02-04,Festival,127493,Michelle Yuniar,4,509972
+ORD00781143,Efek Rumah Kaca,Balikpapan,Tennis Indoor Senayan,2023-08-23,Festival,127493,"Ilyas Situmorang, S.Psi",5,637465
+ORD00745711,pamungkas,Surabaya,gedung kesenian jakarta,06-02-2024,Gold,217869,Sutan Kayun Utama,4,871476
+ORD00178841,PAMUNGKAS,Semarang,JCC,2024-07-27,VIP,253466,Victoria Yuniar,2,506932
+ORD00413051,tulus,Makassar,jcc,2024-07-03,,173669,Ani Hakim,1,173669
+ORD00003228,bernadya,Semarang,istora senayan,2024-02-01,Gold,217869,Raina Wahyuni,5,1089345
+ORD00820006,dewa 19,Medan,,2024-07-14,Silver,173669,"Pardi Anggriawan, S.T.",2,347338
+ORD00239398,Yura Yunita,Denpasar,Taman Budaya,2024-12-31,Silver,173669,"Ratih Laksmiwati, M.Farm",1,173669
+ORD00428821,barasuara,Medan,lapangan gasibu,2023-08-13,Festival,127493,H. Ajimat Situmorang,4,
+ORD00613280,,Semarang,lapangan gasibu,2025-07-20,Gold,217869,Zaenab Januar,1,217869
+ORD00770018,Raisa,Denpasar,Istora Senayan,2023/10/04,,127493,Daliono Widiastuti,4,509972
+ORD00551738,Raisa,Palembang,JCC,03-02-2025,Gold,217869,"Janet Samosir, S.Pt",3,653607
+ORD00191021,isyana sarasvati,Denpasar,gedung kesenian jakarta,04-14-2024,VIP,253466,Puti Lestari,,1267330
+ORD00778214,yura yunita,Palembang,,2024-06-01,Gold,217869,Natalia Jailani,5,1089345
+ORD00076582,sal priadi,Bandung,gedung kesenian jakarta,2024/06/01,Gold,217869,Prabawa Novitasari,5,1089345
+ORD00073509,Hindia,Makassar,Ciwalk,2023-09-07,Gold,217869,,5,1089345
+ORD00744863,Fiersa Besari,Denpasar,Sabuga,01-19-2025,VIP,253466,"Johan Wasita, S.Farm",2,506932
+ORD00117648,Raisa,Makassar,Sabuga,2025-06-05,VIP,253466,,2,506932
+ORD00108610,Sal Priadi,Bandung,Istora Senayan,2023/10/22,Gold,217869,dr. Jumari Fujiati,1,
+ORD00555787,Raisa,Semarang,Jogja Expo Center,2024-11-19,Gold,217869,Fathonah Adriansyah,5,1089345
+ORD00343553,KUNTO AJI,Denpasar,LAPANGAN GASIBU,2025/03/28,Silver,173669,"Mahesa Laksmiwati, M.Farm",4,694676
+ORD00720213,Kunto Aji,Palembang,Trans Studio Bandung,2025/01/22,Festival,127493,"H. Emas Pradana, S.Sos",3,382479
+ORD00431747,Banda Neira,Makassar,Sabuga,2024/11/11,VIP,253466,"drg. Ika Zulaika, S.IP",5,1267330
+ORD00507925,MALIQ & D'ESSENTIALS,Jakarta,GEDUNG KESENIAN JAKARTA,2025/03/02,Silver,173669,Dacin Yulianti,2,347338
+ORD00597333,Yura Yunita,Medan,Tennis Indoor Senayan,2024-06-26,Silver,173669,Darman Maheswara,4,694676
+,RAISA,Jakarta,JOGJA EXPO CENTER,2024-12-26,VIP,253466,Rahmi Hidayat,1,253466
+ORD00292636,Dewa 19,Balikpapan,Jogja Expo Center,2024-08-21,VIP,500000000,Harimurti Hidayanto,4,1013864
+ORD00450264,ardhito pramono,Makassar,istora senayan,2025-01-16,Gold,217869,Syahrini Handayani,5,1089345
+ORD00323267,Sal Priadi,,Ciwalk,2024-10-02,Festival,127493,"Cut Indah Riyanti, S.Gz",1,127493
+,nadin amizah,Bandung,sabuga,2023/11/26,VIP,253466,Padmi Januar,5,1267330
+ORD00038457,Banda Neira,Jakarta,Taman Budaya,2024/09/26,Silver,173669,"Hj. Ani Prasasta, M.Pd",1,173669
+ORD00591608,ISYANA SARASVATI,Surabaya,ISTORA SENAYAN,2023/09/17,Gold,217869,Daru Nababan,1,217869
+ORD00078362,BERNADYA,Yogyakarta,JCC,2025-07-04,Silver,173669,Anastasia Laksita,5,868345
+ORD00664703,tiara andini,Makassar,sabuga,2023-10-12,VIP,253466,Ade Rahmawati,1,253466
+ORD00443637,MALIQ & D'ESSENTIALS,Makassar,CIWALK,2025/06/18,Gold,217869,Drs. Nurul Kuswoyo,2,435738
+,KUNTO AJI,Jakarta,TRANS STUDIO BANDUNG,2024/04/26,Silver,173669,"Mustika Salahudin, S.Pd",3,521007
+ORD00495166,bernadya,Denpasar,taman budaya,2024/06/12,Gold,217869,drg. Qori Tampubolon,1,217869
+ORD00323131,Sal Priadi,Balikpapan,Ciwalk,2024/10/02,Festival,127493,"Drajat Susanti, S.H.",3,382479
+ORD00413798,Maliq & D'Essentials,Denpasar,Tennis Indoor Senayan,2024-12-31,VIP,253466,R.M. Mulyono Samosir,5,1267330
+ORD00401362,FOURTWNTY,Denpasar,,2024-05-15,Gold,217869,Gina Hutasoit,5,1089345
+ORD00515893,Pamungkas,Yogyakarta,Tennis Indoor Senayan,08-08-2024,Festival,99999999,Kusuma Thamrin,,637465
+ORD00108937,Yura Yunita,Semarang,Taman Budaya,2025-01-05,VIP,253466,"Drs. Salman Nuraini, S.Pd",1,253466
+ORD00748918,hindia,Surabaya,taman budaya,2023-09-26,Festival,127493,Karman Pratama,2,254986
+ORD00053779,Isyana Sarasvati,Semarang,Taman Budaya,2025-05-03,Silver,173669,Kajen Hastuti,3,521007
+ORD00142451,barasuara,Medan,taman budaya,,VIP,253466,"Galiono Latupono, S.Ked",1,253466
+ORD00159072,Sal Priadi,Makassar,Sabuga,2024-04-13,Gold,217869,"Drs. Harjasa Hutapea, M.Ak",4,871476
+ORD00356382,DEWA 19,Bandung,TENNIS INDOOR SENAYAN,2024-05-30,Festival,127493,,5,637465
+ORD00502437,Efek Rumah Kaca,Jakarta,Ciwalk,2025-01-16,Festival,1,Uda Halimah,1,127493
+,BERNADYA,Makassar,JCC,2024-07-27,VIP,253466,Kamaria Zulaika,4,1013864
+ORD00765934,Noah,Denpasar,JCC,07-06-2025,Festival,,KH. Karsa Marbun,2,254986
+ORD00307457,Isyana Sarasvati,Surabaya,Lapangan Gasibu,2023-09-22,VIP,253466,Wahyu Prasetya,,1013864
+ORD00410879,isyana sarasvati,Medan,tennis indoor senayan,2024-12-15,Gold,217869,"Lanjar Gunawan, S.I.Kom",2,435738
+,RAISA,Yogyakarta,ISTORA SENAYAN,2023-11-05,VIP,253466,drg. Titin Wibowo,3,760398
+ORD00117118,Raisa,Makassar,Sabuga,06-05-2025,VIP,253466,"drg. Endah Kurniawan, S.I.Kom",2,506932
+ORD00220000,Isyana Sarasvati,Jakarta,Lapangan Gasibu,2025-02-03,Festival,127493,"Dt. Prayogo Simbolon, S.Gz",4,509972
+ORD00754811,isyana sarasvati,Bandung,jcc,2024-01-19,Gold,217869,Michelle Mangunsong,1,217869
+ORD00218204,maliq & d'essentials,Surabaya,ciwalk,02-12-2025,Silver,173669,R. Ratih Maryadi,2,
+,Barasuara,Surabaya,Sabuga,2024-08-29,Gold,99999999,Gantar Hidayat,1,217869
+ORD00149257,noah,,taman budaya,2024-01-06,VIP,253466,Uli Nasyiah,3,760398
+ORD00777233,Sal Priadi,Surabaya,,2024/03/05,Gold,217869,Galih Mandala,2,435738
+ORD00506428,Pamungkas,Surabaya,Sabuga,2024-07-30,VIP,253466,Fitriani Natsir,4,1013864
+ORD00771147,NADIN AMIZAH,Semarang,JCC,2024-04-21,Festival,127493,Vera Maheswara,2,254986
+ORD00555256,SAL PRIADI,Makassar,CIWALK,2023-08-10,VIP,253466,Dimaz Pertiwi,3,760398
+ORD00780239,isyana sarasvati,Balikpapan,jcc,09-25-2024,Silver,173669,Violet Sinaga,5,868345
+ORD00761048,Sal Priadi,Denpasar,Trans Studio Bandung,2025/03/09,Festival,127493,Nova Zulaika,1,127493
+ORD00232334,Tiara Andini,Surabaya,Trans Studio Bandung,2025-07-09,Silver,173669,"Yulia Dabukke, M.Pd",2,347338
+ORD00644193,Hindia,Semarang,JCC,,Festival,127493,"Karja Mandala, S.Gz",2,254986
+ORD00740957,Sal Priadi,Palembang,,03-06-2024,VIP,253466,"Drs. Raisa Wahyudin, S.Kom",1,253466
+ORD00432005,Banda Neira,Makassar,Sabuga,2024-11-11,VIP,,KH. Timbul Rahmawati,1,253466
+ORD00714371,Barasuara,Denpasar,Tennis Indoor Senayan,2024-07-09,Gold,217869,Yance Hutagalung,2,435738
+ORD00319100,Tiara Andini,Bandung,Sabuga,2024-04-28,Gold,217869,Mila Zulaika,3,653607
+,isyana sarasvati,Jakarta,gedung kesenian jakarta,09-30-2023,Festival,127493,Ciaobella Saputra,4,509972
+ORD00597841,Ardhito Pramono,Semarang,Gedung Kesenian Jakarta,2024/05/02,Festival,127493,,3,382479
+ORD00160754,Pamungkas,Medan,Gedung Kesenian Jakarta,2024-09-28,Festival,127493,"Aisyah Melani, M.Farm",1,127493
+ORD00780892,Efek Rumah Kaca,Balikpapan,Tennis Indoor Senayan,,Festival,127493,Karen Kuswandari,1,127493
+ORD00613296,ISYANA SARASVATI,Semarang,LAPANGAN GASIBU,2025/07/20,Gold,,Usyi Suwarno,3,653607
+ORD00089878,Kunto Aji,Denpasar,Lapangan Gasibu,2024/02/15,Silver,173669,Drs. Zalindra Lailasari,3,521007
+ORD00441710,Maliq & D'Essentials,Palembang,Lapangan Gasibu,11-17-2023,Silver,173669,Jelita Sirait,4,694676
+,Hindia,Palembang,Lapangan Gasibu,2024-05-19,Silver,173669,Ophelia Anggraini,3,521007
+ORD00556382,raisa,Semarang,jogja expo center,2024/11/19,Gold,217869,Rini Usada,2,435738
+ORD00704115,Nadin Amizah,Semarang,Trans Studio Bandung,06-23-2024,,253466,"Galih Novitasari, S.Farm",5,1267330
+ORD00340470,Pamungkas,Bandung,Trans Studio Bandung,2025/04/15,Silver,173669,"Gading Zulkarnain, S.Psi",1,
+ORD00817280,Kunto Aji,Palembang,Taman Budaya,2024/06/12,Gold,217869,Bakiman Andriani,2,435738
+ORD00427312,Ardhito Pramono,Semarang,Lapangan Gasibu,2023-12-27,Festival,127493,Banara Hardiansyah,1,127493
+ORD00818792,Sal Priadi,Medan,Gedung Kesenian Jakarta,2024-07-26,VIP,99999999,Fitria Pratama,1,253466
+ORD00520217,Isyana Sarasvati,Balikpapan,Istora Senayan,2024-04-12,VIP,253466,"drg. Rahayu Padmasari, S.IP",1,253466
+ORD00146470,BERNADYA,Balikpapan,CIWALK,2024/09/25,Festival,127493,Ciaobella Saragih,2,254986
+ORD00210602,Efek Rumah Kaca,Palembang,Sabuga,2023/09/09,Gold,217869,Gina Prabowo,1,217869
+ORD00486086,Maliq & D'Essentials,Palembang,Lapangan Gasibu,2024-03-30,Gold,217869,Harja Firmansyah,5,1089345
+ORD00482911,Dewa 19,Makassar,Tennis Indoor Senayan,01-30-2025,VIP,253466,Bakiman Purwanti,2,506932
+ORD00664193,hindia,Jakarta,lapangan gasibu,,Festival,127493,Leo Hasanah,4,509972
+,kunto aji,Palembang,lapangan gasibu,2023/11/28,Gold,217869,Ulya Anggriawan,1,217869
+ORD00415380,noah,Makassar,ciwalk,2025-04-02,Gold,217869,Citra Wasita,4,871476
+ORD00762910,Ardhito Pramono,Makassar,Istora Senayan,2024-07-25,VIP,,Zulfa Zulaika,1,253466
+ORD00744388,RAISA,Denpasar,CIWALK,2024/03/18,Gold,217869,"Puti Calista Nurdiyanti, M.Farm",1,217869
+ORD00137111,Hindia,Yogyakarta,JCC,01-29-2024,Festival,127493,Candrakanta Oktaviani,4,509972
+ORD00429167,BARASUARA,Medan,LAPANGAN GASIBU,2023-08-13,Festival,,"H. Luwar Dongoran, M.TI.",3,382479
+ORD00762851,ARDHITO PRAMONO,Makassar,ISTORA SENAYAN,2024/07/25,VIP,253466,"Hadi Napitupulu, S.Pt",5,1267330
+ORD00335792,Isyana Sarasvati,Yogyakarta,Tennis Indoor Senayan,2025-07-13,Silver,173669,Rini Anggraini,5,868345
+ORD00363991,Tulus,Surabaya,Jogja Expo Center,04-08-2024,Silver,173669,Nyoman Rajasa,4,694676
+ORD00030476,ardhito pramono,Yogyakarta,istora senayan,2025-05-14,,253466,Raharja Thamrin,2,506932
+ORD00464267,FOURTWNTY,Semarang,,2024-06-21,VIP,253466,Jail Astuti,5,1267330
+ORD00282995,Tiara Andini,Yogyakarta,Ciwalk,06-07-2025,Silver,1,Okta Widodo,2,347338
+ORD00682209,BANDA NEIRA,Palembang,SABUGA,2023-09-03,Festival,127493,"Makuta Hartati, S.T.",2,254986
+ORD00151468,SAL PRIADI,Yogyakarta,JCC,2025-02-11,Silver,173669,Amelia Yuliarti,1,173669
+ORD00297066,Fiersa Besari,Palembang,Trans Studio Bandung,10-05-2023,Silver,173669,Maida Purwanti,1,173669
+ORD00222187,,Palembang,ciwalk,2023-11-23,Gold,217869,Adhiarja Rajata,4,871476
+ORD00223859,ARDHITO PRAMONO,Denpasar,ISTORA SENAYAN,2024-03-12,VIP,253466,Karimah Laksmiwati,2,506932
+ORD00224655,NOAH,Jakarta,ISTORA SENAYAN,2023/09/09,Silver,173669,Kemba Hasanah,3,521007
+ORD00143358,BANDA NEIRA,Yogyakarta,GEDUNG KESENIAN JAKARTA,03-11-2025,VIP,253466,"Hj. Ira Dongoran, S.Sos",,1267330
+ORD00007644,hindia,Denpasar,ciwalk,2024-09-21,,217869,"Vicky Jailani, M.Kom.",2,435738
+ORD00348948,FIERSA BESARI,Balikpapan,JOGJA EXPO CENTER,2025-04-20,VIP,253466,Sari Halimah,5,1267330
+ORD00688510,Yura Yunita,Semarang,Gedung Kesenian Jakarta,2025-01-09,Gold,217869,Drs. Gaman Ramadan,2,435738
+ORD00816550,NOAH,Bandung,CIWALK,2024-02-23,VIP,253466,Ir. Gambira Rahimah,1,253466
+ORD00286109,EFEK RUMAH KACA,Jakarta,TAMAN BUDAYA,2024-09-27,VIP,253466,Teddy Haryanti,2,506932
+ORD00588556,Hindia,Yogyakarta,Taman Budaya,2024/04/20,Festival,127493,Warta Mandasari,1,127493
+ORD00079202,bernadya,Yogyakarta,,07-04-2025,Silver,173669,Zelda Gunawan,2,347338
+ORD00095138,Barasuara,Semarang,Gedung Kesenian Jakarta,2024-08-12,Festival,127493,"Dt. Arta Hassanah, M.TI.",4,509972
+ORD00413782,Maliq & D'Essentials,Denpasar,Tennis Indoor Senayan,2024/12/31,VIP,253466,Sutan Maryanto Hutagalung,2,506932
+ORD00635140,nadin amizah,Bandung,lapangan gasibu,2025-03-05,VIP,253466,Zahra Sinaga,4,1013864
+ORD00602670,FIERSA BESARI,,LAPANGAN GASIBU,2023-12-09,Festival,127493,"Malika Usada, S.Psi",3,382479
+ORD00117750,Hindia,Medan,Gedung Kesenian Jakarta,2025-02-03,Festival,127493,Lala Hartati,2,254986
+ORD00747135,Hindia,Bandung,Istora Senayan,2024/09/17,Gold,217869,Jelita Farida,2,435738
+ORD00228065,Efek Rumah Kaca,Semarang,JCC,2025/02/25,Festival,127493,Diah Kusumo,2,254986
+ORD00156607,Pamungkas,Semarang,Jogja Expo Center,06-23-2025,Festival,127493,Usman Suwarno,1,127493
+ORD00718499,Fourtwnty,Yogyakarta,,2025-01-25,Gold,217869,Reksa Melani,2,435738
+ORD00552914,Sal Priadi,Surabaya,Gedung Kesenian Jakarta,2024-02-03,VIP,253466,"Hj. Salsabila Utami, S.Sos",3,760398
+ORD00034243,Fiersa Besari,Makassar,JCC,2025-04-12,Gold,217869,Saadat Hariyah,,653607
+ORD00419769,barasuara,Surabaya,,2024-08-29,Gold,217869,"Oni Pertiwi, S.Ked",5,1089345
+ORD00705197,Nadin Amizah,Yogyakarta,JCC,2024/11/19,Festival,127493,drg. Diah Wahyuni,1,127493
+ORD00146110,Bernadya,Balikpapan,Ciwalk,2024-09-25,Festival,127493,Tiara Prasetya,3,382479
+ORD00149776,,Balikpapan,Ciwalk,2025/07/16,VIP,253466,"Dewi Pudjiastuti, S.E.I",4,1013864
+ORD00284339,BERNADYA,Yogyakarta,JOGJA EXPO CENTER,2025-06-16,Silver,173669,"T. Gading Safitri, S.H.",3,521007
+ORD00752248,Fiersa Besari,Palembang,Tennis Indoor Senayan,2025/02/15,Silver,173669,Rika Nababan,3,521007
+ORD00758548,EFEK RUMAH KACA,Makassar,TENNIS INDOOR SENAYAN,12-29-2024,VIP,99999999,Septi Waluyo,2,
+ORD00473132,Barasuara,Semarang,Trans Studio Bandung,2025-02-28,Festival,127493,Eva Santoso,3,382479
+ORD00554259,Nadin Amizah,Balikpapan,Trans Studio Bandung,2025-05-07,Gold,217869,Lanang Rahmawati,2,435738
+ORD00467257,,Bandung,JCC,2024-07-06,Silver,173669,"Michelle Nugroho, S.Pd",3,521007
+ORD00823228,Bernadya,Surabaya,Tennis Indoor Senayan,2024-08-23,Gold,1,"Ir. Ifa Oktaviani, S.Farm",1,217869
+ORD00821051,fourtwnty,Makassar,sabuga,2024/05/18,VIP,253466,Karimah Andriani,2,506932
+ORD00445838,Ardhito Pramono,Surabaya,Taman Budaya,2025-06-12,Gold,217869,"KH. Indra Nugroho, S.Sos",1,217869
+ORD00466983,Banda Neira,Bandung,JCC,07-06-2024,Silver,,Raina Sitorus,2,347338
+ORD00447080,EFEK RUMAH KACA,Surabaya,CIWALK,2025-03-21,VIP,253466,Puti Samiah Wijaya,3,760398
+ORD00392912,FIERSA BESARI,Semarang,TAMAN BUDAYA,03-22-2024,VIP,253466,,1,253466
+ORD00200868,Barasuara,Jakarta,Ciwalk,,Festival,127493,Banara Putra,3,382479
+ORD00754984,BERNADYA,Surabaya,JCC,12-30-2024,Gold,217869,Titin Zulaika,3,653607
+ORD00677248,Nadin Amizah,Balikpapan,Trans Studio Bandung,2023/10/13,VIP,253466,Belinda Narpati,2,506932
+ORD00021669,Maliq & D'Essentials,Makassar,Tennis Indoor Senayan,2025/04/14,Gold,,Ismail Setiawan,1,217869
+ORD00631023,pamungkas,Jakarta,sabuga,2024-08-30,Gold,217869,Tira Hastuti,1,217869
+ORD00258234,,Balikpapan,Ciwalk,2025-07-16,VIP,253466,"Halima Marpaung, S.Gz",4,1013864
+ORD00820020,Dewa 19,Medan,Istora Senayan,,Silver,173669,"Ir. Unjani Laksita, M.M.",3,521007
+ORD00264420,Sal Priadi,Jakarta,Lapangan Gasibu,2024/09/15,Festival,127493,"Luthfi Hasanah, S.E.",4,509972
+ORD00247674,ARDHITO PRAMONO,Denpasar,,2024-03-27,Festival,127493,"Harimurti Sihombing, S.Kom",4,509972
+,Hindia,Surabaya,Istora Senayan,2023-12-31,Silver,173669,"Dr. Tantri Sitompul, S.Gz",3,521007
+ORD00815382,Sal Priadi,Jakarta,,2024-08-24,VIP,253466,Cut Rahmi Hakim,3,760398
+ORD00158805,Hindia,Semarang,Ciwalk,2023-09-13,VIP,253466,Baktiono Hutasoit,4,1013864
+ORD00092014,,Denpasar,JCC,2025-06-22,VIP,253466,"Ratih Rahayu, S.E.I",2,506932
+ORD00819511,Noah,Makassar,Sabuga,2024/01/31,Festival,127493,Vivi Palastri,3,
+ORD00215533,tulus,Denpasar,taman budaya,2024-07-13,Silver,173669,Hardana Winarsih,2,347338
+ORD00733121,fourtwnty,,gedung kesenian jakarta,2025/06/30,Festival,127493,Anastasia Pangestu,3,382479
+ORD00695076,TULUS,Bandung,ISTORA SENAYAN,2025-03-10,Festival,127493,,4,509972
+ORD00506362,Pamungkas,Surabaya,Sabuga,2024-07-30,VIP,253466,Gantar Prasetyo,1,253466
+ORD00399071,YURA YUNITA,Medan,ISTORA SENAYAN,2023-12-22,VIP,253466,Bakda Ardianto,5,1267330
+,BARASUARA,Balikpapan,LAPANGAN GASIBU,2024/03/25,VIP,253466,"Puti Zalindra Najmudin, M.Ak",5,1267330
+ORD00070693,Fourtwnty,Balikpapan,Taman Budaya,2024-01-12,Gold,217869,Timbul Wibowo,1,217869
+ORD00016823,Isyana Sarasvati,Semarang,Taman Budaya,01-20-2025,Gold,217869,,4,871476
+ORD00205510,isyana sarasvati,Semarang,lapangan gasibu,2025-07-14,Festival,127493,Liman Suryono,3,382479
+ORD00260488,BANDA NEIRA,Denpasar,JCC,2023-09-20,,99999999,Nugraha Pratiwi,3,653607
+ORD00595765,Dewa 19,Palembang,Lapangan Gasibu,04-24-2025,Festival,500000000,"Dalima Sitorus, S.Psi",3,382479
+ORD00813721,Ardhito Pramono,Denpasar,Lapangan Gasibu,2025-02-01,Gold,217869,Jamil Hidayanto,2,
+ORD00750521,Nadin Amizah,Bandung,Taman Budaya,2023-08-25,Silver,173669,Pardi Laksmiwati,3,521007
+ORD00512835,MALIQ & D'ESSENTIALS,Palembang,TENNIS INDOOR SENAYAN,2025/02/15,VIP,253466,Daruna Lestari,1,253466
+ORD00329991,,Denpasar,Sabuga,2025/04/07,VIP,253466,Diah Hutagalung,5,1267330
+ORD00794778,Bernadya,Palembang,Istora Senayan,2023/12/31,Festival,127493,Nabila Prasetyo,2,254986
+ORD00197844,SAL PRIADI,Denpasar,CIWALK,2025/07/12,Silver,173669,Ajiono Dabukke,5,868345
+ORD00002112,KUNTO AJI,,TRANS STUDIO BANDUNG,2024/02/24,Gold,217869,"Ratna Pradipta, S.Pt",1,217869
+ORD00058225,Fiersa Besari,Semarang,Tennis Indoor Senayan,2025/01/21,Gold,217869,Hj. Alika Usada,,871476
+ORD00208875,Efek Rumah Kaca,Surabaya,Gedung Kesenian Jakarta,01-08-2024,VIP,253466,Harja Saragih,4,1013864
+ORD00323449,SAL PRIADI,Balikpapan,CIWALK,2024-10-02,Festival,127493,"drg. Jaeman Rajata, S.IP",2,254986
+ORD00431673,Nadin Amizah,Balikpapan,Sabuga,07-29-2024,VIP,253466,Maria Prabowo,,760398
+ORD00674306,Fourtwnty,Makassar,Istora Senayan,2024-12-02,Festival,127493,Nyana Utami,4,509972
+ORD00425109,MALIQ & D'ESSENTIALS,Denpasar,ISTORA SENAYAN,2024/12/29,Gold,217869,Banawi Wahyuni,2,435738
+ORD00172142,Bernadya,Yogyakarta,Ciwalk,2024-02-27,Festival,127493,Estiawan Susanti,2,254986
+ORD00231909,Maliq & D'Essentials,Balikpapan,Sabuga,2024/08/19,Silver,173669,Dalimin Suryatmi,2,347338
+ORD00274621,raisa,Semarang,trans studio bandung,2024-03-16,Gold,217869,R. Najwa Nuraini,5,1089345
+ORD00539597,Bernadya,Palembang,Sabuga,2024-07-13,Festival,127493,Uchita Astuti,5,637465
+ORD00050230,Isyana Sarasvati,Palembang,Trans Studio Bandung,2023-10-12,Silver,173669,Martana Hutagalung,5,868345
+ORD00529958,ardhito pramono,Palembang,sabuga,2024/10/06,Silver,99999999,"Dt. Gamanto Lestari, S.E.",4,694676
+ORD00201987,Raisa,Bandung,Tennis Indoor Senayan,2023-09-03,Silver,173669,Oni Marbun,1,173669
+ORD00617143,Nadin Amizah,Yogyakarta,Jogja Expo Center,2024-10-10,VIP,253466,Mumpuni Mardhiyah,4,1013864
+ORD00586053,Maliq & D'Essentials,Medan,Ciwalk,2025/04/04,,500000000,"Zizi Marbun, M.Kom.",3,653607
+ORD00114385,Tiara Andini,Balikpapan,Taman Budaya,2024-03-09,Festival,127493,Tgk. Sadina Prakasa,5,637465
+,Raisa,Bandung,Tennis Indoor Senayan,2025-01-19,Festival,127493,Laras Ardianto,5,637465
+ORD00218392,Maliq & D'Essentials,Surabaya,Ciwalk,02-12-2025,Silver,,Ira Situmorang,1,173669
+ORD00222973,yura yunita,Denpasar,taman budaya,2023-12-20,Festival,127493,"Dina Sitorus, M.Pd",2,254986
+ORD00163145,ardhito pramono,Medan,tennis indoor senayan,2023/09/19,Silver,500000000,Safina Mandasari,2,347338
+ORD00299352,Fiersa Besari,Medan,Taman Budaya,2023/08/29,Festival,127493,Baktianto Siregar,3,382479
+ORD00074723,Tiara Andini,,Trans Studio Bandung,01-19-2024,Silver,173669,Harjaya Utama,2,347338
+ORD00666193,Fiersa Besari,Palembang,Sabuga,2023-12-23,Festival,127493,"R.M. Himawan Nurdiyanti, S.Sos",1,127493
+ORD00230507,Nadin Amizah,Jakarta,,2024/10/21,Gold,217869,Ophelia Rajasa,5,1089345
+ORD00814676,Bernadya,Denpasar,Ciwalk,2024-03-08,VIP,253466,"H. Prayoga Gunarto, M.M.",2,506932
+ORD00225614,Maliq & D'Essentials,Denpasar,Lapangan Gasibu,10-17-2024,VIP,253466,Eli Prasasta,5,1267330
+ORD00766123,Kunto Aji,Surabaya,,02-27-2024,Gold,217869,Jarwa Rahayu,4,871476
+ORD00508738,BERNADYA,Balikpapan,CIWALK,2024-05-23,VIP,253466,Okto Farida,4,1013864
+ORD00136613,Noah,Balikpapan,Ciwalk,2023-09-08,VIP,253466,Garan Prasasta,5,1267330
+,Yura Yunita,Denpasar,Taman Budaya,2023-10-06,Festival,127493,Tgk. Cagak Lestari,1,127493
+ORD00531971,Noah,Surabaya,Ciwalk,09-29-2023,Festival,127493,Radika Uwais,3,382479
+ORD00533412,ISYANA SARASVATI,Surabaya,GEDUNG KESENIAN JAKARTA,2024-06-22,VIP,253466,"Tgk. Pia Natsir, S.Sos",2,
+ORD00755174,bernadya,Surabaya,jcc,12-30-2024,Gold,217869,Lalita Aryani,5,1089345
+ORD00608046,SAL PRIADI,Denpasar,LAPANGAN GASIBU,,VIP,253466,Dasa Wibisono,2,506932
+ORD00125967,bernadya,Jakarta,gedung kesenian jakarta,2024-05-11,Festival,127493,"Yuliana Aryani, S.H.",,254986
+,Raisa,Bandung,Tennis Indoor Senayan,2025-01-19,Festival,127493,Fitria Waluyo,5,637465
+ORD00620632,Yura Yunita,Denpasar,JCC,04-03-2024,Silver,173669,"Ir. Malika Jailani, S.T.",3,521007
+,YURA YUNITA,Denpasar,TAMAN BUDAYA,2023-12-20,Festival,127493,Febi Situmorang,3,382479
+ORD00395997,Noah,Palembang,Istora Senayan,2024/04/04,Silver,173669,Maya Rahmawati,2,347338
+ORD00204044,pamungkas,Palembang,sabuga,2025/05/05,Silver,173669,"Tgk. Mutia Manullang, S.I.Kom",5,868345
+ORD00592057,isyana sarasvati,Surabaya,istora senayan,09-17-2023,Gold,217869,,4,871476
+ORD00340875,Noah,Denpasar,Jogja Expo Center,02-03-2024,Silver,,Ir. Rahman Hasanah,2,347338
+ORD00134659,Barasuara,Medan,Taman Budaya,05-01-2025,,127493,Betania Farida,1,127493
+ORD00815499,tulus,Makassar,gedung kesenian jakarta,01-23-2025,Gold,217869,,5,1089345
+ORD00515023,Yura Yunita,Balikpapan,Taman Budaya,2024-01-13,VIP,253466,Latika Prabowo,3,760398
+ORD00072592,Bernadya,Palembang,Istora Senayan,2025-03-13,VIP,253466,drg. Elvina Suryatmi,1,253466
+ORD00667893,Raisa,Semarang,Taman Budaya,2024-05-01,Gold,217869,Zaenab Mulyani,3,653607
+ORD00334391,hindia,Medan,jcc,2025-02-17,Festival,127493,Hj. Zulfa Megantara,5,637465
+ORD00070914,FOURTWNTY,Balikpapan,TAMAN BUDAYA,2024/01/12,Gold,217869,Nabila Utami,4,871476
+ORD00353856,,Yogyakarta,taman budaya,2023-08-13,Silver,173669,"R.A. Titi Tamba, S.IP",2,347338
+ORD00058717,Tulus,Jakarta,Tennis Indoor Senayan,2025/07/22,Festival,127493,,2,254986
+ORD00324590,Barasuara,Palembang,Sabuga,2025/06/04,Silver,173669,Elma Lazuardi,,173669
+,barasuara,Surabaya,lapangan gasibu,03-08-2024,Silver,173669,Malik Halimah,2,347338
+ORD00474862,nadin amizah,Surabaya,jcc,2025/05/08,Festival,127493,R. Ella Tarihoran,2,254986
+ORD00128611,tiara andini,Makassar,sabuga,,Gold,217869,Hj. Gasti Palastri,2,435738
+ORD00630180,Pamungkas,Jakarta,Sabuga,2024-08-30,Gold,217869,"Vivi Wahyudin, S.Ked",1,217869
+ORD00042063,raisa,Semarang,sabuga,2025-05-25,Festival,1,"Danu Suryatmi, S.Kom",4,509972
+ORD00217089,barasuara,Bandung,istora senayan,2024-06-18,Gold,217869,Zalindra Mustofa,4,871476
+ORD00061267,Banda Neira,Denpasar,Istora Senayan,,Gold,217869,Digdaya Prasetyo,5,1089345
+ORD00675653,ISYANA SARASVATI,Denpasar,JOGJA EXPO CENTER,2025-03-01,VIP,,Ira Yolanda,1,253466
+ORD00140407,Raisa,,Taman Budaya,2025-02-13,Silver,173669,Drs. Gatot Simanjuntak,2,347338
+ORD00205495,Isyana Sarasvati,Semarang,Lapangan Gasibu,2025-07-14,,127493,Koko Aryani,5,637465
+ORD00402137,Efek Rumah Kaca,Palembang,Ciwalk,2025-01-02,Gold,217869,Sari Suwarno,2,435738
+ORD00043688,fiersa besari,Bandung,ciwalk,09-18-2023,Festival,1,"Sutan Maman Palastri, S.Ked",4,
+ORD00556846,Kunto Aji,Jakarta,Istora Senayan,2024-01-27,VIP,253466,Nadine Purnawati,4,1013864
+ORD00517726,PAMUNGKAS,Surabaya,ISTORA SENAYAN,2024/02/22,Festival,127493,R. Yuliana Mahendra,3,382479
+ORD00495947,maliq & d'essentials,Palembang,ciwalk,04-08-2024,Festival,127493,Jaeman Sihombing,3,382479
+ORD00587096,Dewa 19,Semarang,Jogja Expo Center,2025-03-24,Gold,217869,Atmaja Nashiruddin,4,871476
+ORD00357028,Maliq & D'Essentials,Bandung,Taman Budaya,04-05-2024,VIP,253466,"Balamantri Astuti, S.Sos",4,1013864
+,Raisa,Palembang,Taman Budaya,2024-01-18,Gold,217869,Septi Prasasta,4,871476
+ORD00497779,Maliq & D'Essentials,Balikpapan,Lapangan Gasibu,2024-06-12,Silver,173669,Gadang Saptono,5,868345
+ORD00229151,isyana sarasvati,Makassar,ciwalk,2023/09/08,Silver,173669,Putri Rahayu,,868345
+ORD00520699,isyana sarasvati,Balikpapan,istora senayan,2024/04/12,VIP,253466,Belinda Laksmiwati,5,1267330
+ORD00142507,Barasuara,Medan,Taman Budaya,2024/09/11,VIP,500000000,"Kani Permata, M.Ak",4,1013864
+ORD00809258,,Surabaya,Ciwalk,2025-07-04,Silver,1,Dalima Hakim,3,521007
+ORD00184511,BANDA NEIRA,Bandung,LAPANGAN GASIBU,2024-06-09,VIP,253466,Laila Pradipta,2,506932
+ORD00324631,BARASUARA,Palembang,SABUGA,2025/06/04,Silver,173669,Edi Saragih,1,173669
+ORD00450311,Kunto Aji,Medan,Trans Studio Bandung,,Festival,127493,Nasrullah Halimah,4,509972
+ORD00172586,raisa,Jakarta,jogja expo center,2024-12-26,VIP,253466,Ika Suryatmi,1,253466
+ORD00499283,Ardhito Pramono,Medan,,01-02-2024,Gold,217869,Bagas Usada,3,653607
+ORD00226640,isyana sarasvati,Makassar,sabuga,02-16-2025,,173669,Farah Hutapea,2,347338
+ORD00723510,sal priadi,Jakarta,jcc,2025/07/12,Gold,217869,Rosman Budiyanto,1,
+ORD00363769,Tulus,Surabaya,Jogja Expo Center,04-08-2024,Silver,,"Siti Situmorang, S.Sos",2,347338
+ORD00742945,,Surabaya,TAMAN BUDAYA,2023-10-30,VIP,253466,Siska Najmudin,4,1013864
+ORD00515438,Pamungkas,Yogyakarta,Tennis Indoor Senayan,2024/08/08,Festival,99999999,Umi Safitri,5,637465
+ORD00295470,Tiara Andini,Jakarta,Tennis Indoor Senayan,2025/05/13,Gold,217869,Adinata Gunawan,5,1089345
+ORD00718258,Ardhito Pramono,Balikpapan,Jogja Expo Center,2024-03-05,Festival,127493,Titi Kusmawati,5,637465
+ORD00100572,,Denpasar,LAPANGAN GASIBU,2025-01-04,Festival,127493,Dr. Jaka Wijaya,2,254986
+ORD00363292,yura yunita,Bandung,istora senayan,2024/09/14,Gold,217869,Puti Jasmin Napitupulu,4,871476
+ORD00572599,ardhito pramono,Medan,jcc,03-24-2024,Silver,173669,"Devi Kusmawati, M.TI.",5,868345
+ORD00447406,NOAH,Yogyakarta,LAPANGAN GASIBU,2024-06-20,Festival,127493,Latika Siregar,1,127493
+ORD00186740,Tulus,Makassar,Istora Senayan,2025/02/11,,127493,Titi Ramadan,1,127493
+,Pamungkas,Denpasar,Lapangan Gasibu,04-19-2024,Silver,173669,Ajeng Suryono,3,521007
+ORD00706923,TIARA ANDINI,Denpasar,TAMAN BUDAYA,2024-11-10,Silver,,"Elvina Yuliarti, M.TI.",4,694676
+ORD00423213,fourtwnty,Surabaya,sabuga,04-21-2025,VIP,253466,Sutan Harjaya Megantara,4,1013864
+ORD00149757,EFEK RUMAH KACA,Balikpapan,,2025-07-16,VIP,1,"Puti Ophelia Sihombing, M.Ak",1,253466
+ORD00218675,noah,Makassar,sabuga,2025-03-25,Silver,173669,"Jarwa Nugroho, S.E.",2,347338
+ORD00081499,Yura Yunita,Balikpapan,Lapangan Gasibu,01-07-2024,Festival,127493,Ozy Maryadi,1,127493
+ORD00049167,Efek Rumah Kaca,Medan,Istora Senayan,2024-01-22,VIP,253466,Danang Susanti,,1267330
+ORD00714805,Maliq & D'Essentials,Semarang,Ciwalk,,Festival,127493,drg. Bella Suwarno,3,382479
+ORD00561147,Ardhito Pramono,Palembang,Ciwalk,2024/07/21,Festival,127493,Betania Sinaga,1,127493
+ORD00175088,TIARA ANDINI,Bandung,TAMAN BUDAYA,02-06-2025,Festival,127493,Lalita Nasyidah,5,637465
+ORD00627060,BANDA NEIRA,Makassar,SABUGA,01-20-2025,VIP,1,"Irma Suartini, M.Kom.",2,506932
+ORD00606047,ardhito pramono,Jakarta,istora senayan,2024/09/16,Gold,217869,Puti Silvia Wacana,4,871476
+ORD00780500,isyana sarasvati,Balikpapan,jcc,2024-09-25,Silver,173669,Adika Marbun,2,347338
+ORD00088736,Ardhito Pramono,Semarang,Tennis Indoor Senayan,2024-10-04,VIP,253466,Purwa Thamrin,5,1267330
+,KUNTO AJI,Denpasar,LAPANGAN GASIBU,2025-03-28,Silver,173669,Iriana Winarsih,3,521007
+ORD00105096,Sal Priadi,Semarang,Trans Studio Bandung,02-06-2024,VIP,253466,,4,1013864
+ORD00077523,Hindia,Medan,Sabuga,2024/02/18,VIP,253466,Darimin Widodo,4,1013864
+ORD00226507,Isyana Sarasvati,Makassar,Sabuga,2025-02-16,,173669,Martaka Safitri,5,868345
+ORD00793810,SAL PRIADI,Semarang,SABUGA,2023-09-04,Festival,,Drs. Nadia Zulaika,5,637465
+ORD00469388,Ardhito Pramono,Medan,Ciwalk,2025/02/22,Festival,127493,"Ade Prayoga, S.H.",3,382479
+ORD00152047,EFEK RUMAH KACA,,JCC,01-11-2025,Silver,173669,Keisha Uwais,1,173669
+ORD00308380,Tiara Andini,Makassar,Gedung Kesenian Jakarta,2025-01-12,Gold,217869,"Ir. Betania Dongoran, S.E.",4,871476
+ORD00466527,Bernadya,Denpasar,Sabuga,2024/09/23,VIP,253466,"Opan Maulana, M.Ak",5,1267330
+ORD00572929,ARDHITO PRAMONO,Medan,JCC,2024/03/24,Silver,173669,Fitria Mayasari,5,
+ORD00448498,Tiara Andini,Medan,Lapangan Gasibu,2024/01/11,Silver,173669,Zahra Rahayu,2,
+ORD00513671,Efek Rumah Kaca,Semarang,Istora Senayan,2025-04-07,Silver,173669,Bambang Usada,5,868345
+ORD00687311,efek rumah kaca,Semarang,gedung kesenian jakarta,08-10-2024,Gold,217869,Gandi Simanjuntak,5,1089345
+ORD00112453,fourtwnty,Medan,taman budaya,2024/12/04,Silver,173669,"Cut Zaenab Uyainah, S.Pd",2,347338
+ORD00581987,maliq & d'essentials,Medan,jogja expo center,2025-01-17,Silver,173669,"Drs. Alika Mustofa, S.E.",5,868345
+ORD00418897,Dewa 19,Balikpapan,Trans Studio Bandung,2024/12/18,Festival,127493,Ira Prasasta,1,127493
+ORD00448183,noah,Yogyakarta,lapangan gasibu,2024-06-20,Festival,127493,"Zizi Mandasari, S.Sos",5,637465
+ORD00060087,DEWA 19,Denpasar,TRANS STUDIO BANDUNG,2024-12-10,Gold,217869,"Luluh Sihombing, M.TI.",4,
+ORD00082227,fourtwnty,Palembang,lapangan gasibu,2024-12-16,Silver,173669,"Wulan Yuniar, S.E.I",2,347338
+ORD00799988,TIARA ANDINI,Yogyakarta,TAMAN BUDAYA,08-05-2024,VIP,253466,Paiman Haryanto,4,1013864
+ORD00210271,FOURTWNTY,Palembang,JCC,2024/06/01,Gold,217869,Hafshah Widiastuti,4,871476
+ORD00503899,Hindia,Yogyakarta,Gedung Kesenian Jakarta,03-11-2025,Festival,127493,Zamira Anggraini,5,637465
+ORD00133444,Pamungkas,Denpasar,Lapangan Gasibu,07-16-2025,Festival,127493,Bakianto Usada,2,254986
+ORD00773040,Kunto Aji,Jakarta,Gedung Kesenian Jakarta,2023-10-15,Gold,217869,R.A. Rahmi Palastri,3,653607
+ORD00758428,Efek Rumah Kaca,Makassar,Tennis Indoor Senayan,2024/12/29,VIP,253466,Prayoga Mulyani,1,253466
+ORD00017766,TIARA ANDINI,Denpasar,ISTORA SENAYAN,2024-06-15,VIP,253466,Ajeng Maryati,1,253466
+ORD00194940,Noah,Balikpapan,Ciwalk,,Gold,217869,"Jais Hutagalung, S.T.",2,435738
+ORD00075509,efek rumah kaca,Jakarta,ciwalk,2023-08-19,Gold,217869,Luwar Winarsih,4,871476
+ORD00119624,NADIN AMIZAH,Medan,ISTORA SENAYAN,08-23-2024,Silver,,"R.A. Tami Uyainah, S.E.I",3,521007
+ORD00215822,Tulus,Denpasar,Taman Budaya,2024/07/13,Silver,173669,"Dr. Digdaya Pangestu, M.M.",2,
+ORD00804165,isyana sarasvati,Surabaya,lapangan gasibu,11-26-2023,VIP,,Puti Hamima Lestari,2,506932
+ORD00259003,Isyana Sarasvati,Jakarta,Taman Budaya,2025-02-28,Gold,217869,Zulaikha Yolanda,5,1089345
+ORD00283973,,Yogyakarta,Ciwalk,2023/10/23,Gold,217869,"T. Okta Wahyuni, S.I.Kom",3,653607
+ORD00217770,maliq & d'essentials,Surabaya,ciwalk,2025/02/12,Silver,173669,Umay Salahudin,2,347338
+ORD00229318,Isyana Sarasvati,Makassar,Ciwalk,,Silver,173669,Harja Maryati,1,173669
+ORD00320790,YURA YUNITA,Surabaya,TRANS STUDIO BANDUNG,02-04-2024,Festival,127493,"Ir. Makuta Nainggolan, S.IP",1,
+ORD00196602,Kunto Aji,Semarang,Ciwalk,2024-07-19,,253466,Ikin Palastri,5,1267330
+ORD00073238,Bernadya,Palembang,Istora Senayan,03-13-2025,VIP,253466,Ibun Zulaika,2,506932
+ORD00032064,Banda Neira,Surabaya,Istora Senayan,11-05-2024,VIP,253466,Dt. Asmuni Zulkarnain,5,1267330
+ORD00578875,Kunto Aji,Denpasar,Tennis Indoor Senayan,01-12-2025,Gold,217869,"Cut Jane Andriani, M.Farm",1,217869
+ORD00379353,Tiara Andini,Makassar,Ciwalk,2025/01/26,Silver,173669,Ayu Wijaya,5,868345
+ORD00514140,Banda Neira,Denpasar,Jogja Expo Center,2024-11-05,VIP,253466,Bakda Wasita,4,1013864
+ORD00716832,bernadya,Surabaya,taman budaya,2023-08-20,VIP,253466,"dr. Tomi Samosir, M.Pd",4,1013864
+ORD00008952,Yura Yunita,Balikpapan,Tennis Indoor Senayan,10-26-2024,Gold,217869,"Dr. Irma Pudjiastuti, M.Ak",2,435738
+ORD00352418,Barasuara,Yogyakarta,JCC,2025/06/01,VIP,253466,Laila Kuswandari,5,1267330
+ORD00280269,Maliq & D'Essentials,Yogyakarta,Trans Studio Bandung,2025/07/18,Gold,217869,Garda Purwanti,5,1089345
+ORD00116664,Raisa,Balikpapan,Gedung Kesenian Jakarta,2023-07-28,Silver,173669,Kamaria Purwanti,3,521007
+,Kunto Aji,Bandung,Istora Senayan,2025-02-20,Gold,217869,Anastasia Pudjiastuti,3,653607
+ORD00540821,kunto aji,Balikpapan,ciwalk,03-08-2025,Festival,127493,Jane Damanik,1,127493
+ORD00211619,yura yunita,Surabaya,ciwalk,,Gold,217869,"Tgk. Eluh Rahayu, M.Kom.",3,653607
+ORD00693965,maliq & d'essentials,Palembang,jogja expo center,2023-10-26,Festival,127493,Dipa Kuswoyo,2,
+ORD00490827,Ardhito Pramono,Balikpapan,Taman Budaya,2023-11-20,Silver,173669,Drs. Cici Lestari,4,694676
+ORD00263744,Ardhito Pramono,Jakarta,Trans Studio Bandung,10-05-2024,Silver,173669,,4,694676
+ORD00536871,RAISA,Medan,TRANS STUDIO BANDUNG,09-03-2023,Gold,217869,"Dr. Diana Laksmiwati, S.H.",3,653607
+ORD00669961,Ardhito Pramono,Denpasar,,2025-01-25,Gold,217869,Hendra Firmansyah,5,1089345
+ORD00242403,Pamungkas,Medan,Jogja Expo Center,2024/02/02,Silver,,Maria Haryanto,3,521007
+ORD00104201,Isyana Sarasvati,Surabaya,Ciwalk,2024-09-08,Festival,127493,,1,127493
+ORD00721462,Pamungkas,Palembang,Jogja Expo Center,2024/07/12,VIP,253466,"Tgk. Jaiman Nainggolan, M.Ak",3,760398
+ORD00733373,Fourtwnty,Denpasar,Gedung Kesenian Jakarta,2025/06/30,Festival,127493,Belinda Santoso,2,254986
+ORD00619718,Fiersa Besari,Jakarta,,2024-08-12,Festival,127493,"Ibun Damanik, S.IP",1,127493
+ORD00182035,Barasuara,Yogyakarta,Taman Budaya,,Gold,217869,Raditya Hardiansyah,1,217869
+ORD00357022,Maliq & D'Essentials,Bandung,Taman Budaya,2024/04/05,VIP,253466,Sakti Firmansyah,2,
+ORD00129499,Efek Rumah Kaca,,Taman Budaya,2024/09/09,Silver,173669,"Dr. Vinsen Oktaviani, S.E.",4,694676
+ORD00110775,hindia,Makassar,,02-28-2025,Festival,127493,Ani Uyainah,2,254986
+ORD00304498,fourtwnty,Makassar,jcc,2024/09/26,Gold,217869,R. Bakiono Mayasari,2,435738
+ORD00795552,Raisa,Makassar,Sabuga,2024-02-18,Silver,173669,Jane Uwais,4,694676
+ORD00789976,Sal Priadi,Denpasar,Lapangan Gasibu,2024-08-31,,253466,"R.A. Janet Mustofa, M.Farm",2,506932
+ORD00400378,ardhito pramono,Medan,sabuga,2025-07-25,Gold,217869,Rika Budiyanto,4,871476
+ORD00659317,barasuara,Jakarta,jcc,01-10-2024,Festival,127493,Malika Nugroho,5,637465
+ORD00482562,dewa 19,Makassar,tennis indoor senayan,2025-01-30,VIP,253466,Hasna Laksmiwati,5,1267330
+ORD00778367,,Palembang,Istora Senayan,2024-06-01,Gold,217869,Kunthara Aryani,3,653607
+ORD00159661,dewa 19,Jakarta,trans studio bandung,2024-10-24,VIP,253466,"R.A. Maimunah Siregar, S.IP",3,760398
+ORD00383169,Yura Yunita,Jakarta,Trans Studio Bandung,,Festival,127493,Warta Pradana,3,382479
+ORD00226140,MALIQ & D'ESSENTIALS,Denpasar,LAPANGAN GASIBU,2024-10-17,VIP,253466,R.A. Icha Habibi,1,253466
+ORD00733016,Fourtwnty,Denpasar,Gedung Kesenian Jakarta,06-30-2025,Festival,127493,Karen Prakasa,4,509972
+ORD00690879,Pamungkas,Makassar,Taman Budaya,2023-11-18,VIP,253466,"Mila Rajata, S.Ked",4,1013864
+ORD00583423,efek rumah kaca,Jakarta,taman budaya,2025-05-16,Silver,173669,Dian Kusumo,4,
+ORD00664473,tiara andini,Makassar,sabuga,2023-10-12,VIP,253466,Shakila Adriansyah,2,506932
+ORD00124417,FOURTWNTY,Semarang,JOGJA EXPO CENTER,08-23-2024,Silver,,"Dr. Elisa Nasyiah, S.Psi",5,868345
+ORD00828338,bernadya,Jakarta,sabuga,2024-06-12,Silver,173669,Nilam Riyanti,1,173669
+ORD00285814,Efek Rumah Kaca,Jakarta,Taman Budaya,2024-09-27,VIP,253466,Nadia Najmudin,,253466
+ORD00630024,FOURTWNTY,Medan,JCC,2023/08/02,VIP,253466,Paulin Widodo,,253466
+ORD00800845,,Palembang,Tennis Indoor Senayan,10-28-2023,Gold,217869,Faizah Gunawan,3,653607
+ORD00174661,Noah,Semarang,Trans Studio Bandung,2024-09-16,Festival,127493,"Gaiman Kurniawan, S.T.",1,127493
+ORD00223585,Ardhito Pramono,Denpasar,,03-12-2024,VIP,253466,"Elvina Halim, M.M.",1,253466
+ORD00053212,Fourtwnty,,Ciwalk,2024/11/30,Silver,173669,Tgk. Maida Anggraini,3,521007
+ORD00287512,Banda Neira,Denpasar,Ciwalk,2024/02/29,VIP,253466,Cici Hutasoit,2,506932
+ORD00526572,Isyana Sarasvati,Surabaya,Gedung Kesenian Jakarta,2024-11-20,VIP,253466,drg. Enteng Hidayanto,3,760398
+ORD00129556,Efek Rumah Kaca,Medan,Taman Budaya,2024/09/09,Silver,173669,Arta Yulianti,1,173669
+ORD00542057,Dewa 19,Medan,Gedung Kesenian Jakarta,2024/02/27,VIP,253466,Vicky Siregar,1,253466
+ORD00295747,tiara andini,Jakarta,tennis indoor senayan,2025-05-13,Gold,217869,Silvia Saputra,5,1089345
+ORD00187311,Noah,Yogyakarta,Trans Studio Bandung,09-06-2023,VIP,253466,Ratna Prakasa,1,253466
+ORD00275288,efek rumah kaca,Denpasar,tennis indoor senayan,2024-11-12,Gold,217869,Hj. Victoria Pratama,2,435738
+ORD00008562,NOAH,Yogyakarta,LAPANGAN GASIBU,2023/10/01,VIP,253466,Dipa Tamba,5,1267330
+ORD00659453,Barasuara,Jakarta,JCC,2024/01/10,Festival,127493,,3,382479
+ORD00210160,,Palembang,JCC,2024-06-01,Gold,99999999,"Darmana Pranowo, S.Farm",2,435738
+ORD00676594,Fiersa Besari,Balikpapan,Taman Budaya,08-10-2024,Festival,127493,Gaduh Megantara,1,127493
+ORD00268453,Hindia,Yogyakarta,JCC,2025/06/09,VIP,253466,,3,760398
+ORD00211465,Banda Neira,,JCC,2023-11-30,Gold,217869,Surya Purwanti,1,217869
+ORD00736764,BERNADYA,,ISTORA SENAYAN,2023-09-10,VIP,253466,"T. Samsul Habibi, S.T.",4,1013864
+ORD00036836,efek rumah kaca,Yogyakarta,taman budaya,2025/07/11,Silver,173669,Dr. Jessica Wahyudin,2,347338
+ORD00025318,Raisa,Palembang,Gedung Kesenian Jakarta,2024-06-18,Festival,127493,Samsul Tamba,4,509972
+ORD00804905,Raisa,Denpasar,Sabuga,03-23-2024,Gold,217869,Siska Tarihoran,3,653607
+ORD00499845,EFEK RUMAH KACA,Medan,JCC,2025/05/02,Silver,173669,"Dt. Gadang Mustofa, M.Kom.",4,694676
+ORD00371812,Maliq & D'Essentials,Yogyakarta,Jogja Expo Center,03-25-2024,Silver,173669,"Sutan Ghani Manullang, S.Kom",4,694676
+ORD00177035,EFEK RUMAH KACA,Makassar,CIWALK,2024/10/15,Gold,217869,"Mila Gunawan, M.Farm",1,217869
+ORD00534569,pamungkas,Bandung,istora senayan,,VIP,253466,Sutan Jaga Gunarto,2,506932
+ORD00670645,Maliq & D'Essentials,Palembang,Lapangan Gasibu,11-01-2023,Gold,217869,Nadia Budiyanto,1,217869
+ORD00328304,Barasuara,Palembang,Istora Senayan,2024-01-25,Silver,500000000,Dwi Oktaviani,3,521007
+ORD00342307,tulus,Bandung,jogja expo center,2024-02-18,Silver,173669,Tiara Siregar,1,173669
+ORD00524844,efek rumah kaca,Bandung,lapangan gasibu,2024-07-23,Gold,217869,"Aurora Prabowo, S.Farm",4,871476
+ORD00033577,YURA YUNITA,Bandung,GEDUNG KESENIAN JAKARTA,2024-02-16,VIP,253466,KH. Yono Winarsih,3,760398
+ORD00638960,Fourtwnty,Bandung,,01-28-2025,Gold,217869,"T. Sabar Habibi, S.Ked",4,871476
+ORD00033694,Fiersa Besari,Makassar,JCC,2025-04-12,Gold,217869,Iriana Pradipta,2,435738
+ORD00346296,RAISA,Semarang,,2023-08-25,Silver,173669,Cakrawala Melani,2,347338
+ORD00052931,Fourtwnty,Bandung,Ciwalk,2024/11/30,Silver,173669,Karen Hutapea,1,173669
+ORD00798807,Noah,Jakarta,JCC,2024-06-30,Festival,127493,"Belinda Setiawan, S.E.I",,382479
+ORD00235488,tulus,Palembang,jogja expo center,09-08-2023,Silver,173669,"Drs. Umar Laksmiwati, M.Ak",5,868345
+ORD00099880,Nadin Amizah,Surabaya,Lapangan Gasibu,2025/04/01,Silver,173669,"dr. Putri Wibowo, S.Pt",1,173669
+ORD00298425,Maliq & D'Essentials,Palembang,Gedung Kesenian Jakarta,2025/04/30,Festival,127493,Adiarja Anggriawan,,382479
+ORD00769022,banda neira,Denpasar,taman budaya,2025-04-18,Gold,217869,Kezia Budiman,1,217869
+ORD00223640,Ardhito Pramono,Denpasar,Istora Senayan,2024-03-12,VIP,253466,"dr. Bella Ramadan, S.E.",5,1267330
+ORD00592918,Hindia,Denpasar,JCC,2024/08/21,Festival,127493,R.A. Ira Susanti,2,254986
+ORD00691341,SAL PRIADI,Surabaya,JCC,2025-04-16,Silver,173669,Queen Budiman,2,347338
+ORD00282896,Tiara Andini,Yogyakarta,Ciwalk,2025-06-07,Silver,173669,Tgk. Capa Manullang,2,347338
+ORD00662840,Noah,Medan,,2024-09-05,Gold,217869,Mujur Mulyani,4,871476
+ORD00386807,barasuara,Surabaya,jcc,2024/06/24,Silver,,"Zalindra Tarihoran, S.Pd",4,694676
+ORD00375045,Hindia,Bandung,Istora Senayan,2025/06/23,Gold,217869,Sadina Firgantoro,3,653607
+ORD00476345,Dewa 19,Medan,Gedung Kesenian Jakarta,02-26-2024,VIP,253466,,1,253466
+ORD00085578,kunto aji,Bandung,tennis indoor senayan,07-16-2024,Festival,127493,"Tgk. Lurhur Kusumo, S.Gz",4,509972
+ORD00416068,Nadin Amizah,Semarang,Jogja Expo Center,2025/06/24,Festival,127493,Zulfa Wahyuni,,637465
+ORD00124591,Dewa 19,Denpasar,JCC,2024-11-10,Gold,217869,Harsanto Dongoran,5,1089345
+ORD00747585,Dewa 19,Denpasar,Lapangan Gasibu,2024/08/12,Festival,127493,Ir. Warsa Hidayanto,5,637465
+ORD00675431,Isyana Sarasvati,Denpasar,Jogja Expo Center,2025-03-01,VIP,253466,"Drs. Kani Mustofa, M.Kom.",4,1013864
+ORD00595325,Tiara Andini,Balikpapan,Jogja Expo Center,2024-06-16,Festival,127493,Garang Nashiruddin,,382479
+ORD00185674,YURA YUNITA,Semarang,JOGJA EXPO CENTER,2024-07-22,Gold,217869,Uli Aryani,4,871476
+ORD00428676,Isyana Sarasvati,Yogyakarta,Sabuga,2023-11-17,Silver,173669,Gandi Tamba,4,694676
+ORD00465289,Tulus,Jakarta,JCC,2025-06-29,VIP,253466,"Rahmi Pratiwi, S.IP",5,1267330
+ORD00113466,Tulus,Semarang,Lapangan Gasibu,2024-04-15,Festival,127493,Yunita Puspasari,2,254986
+ORD00508673,Bernadya,Balikpapan,Ciwalk,2024-05-23,VIP,253466,Dimaz Halimah,1,253466
+ORD00408769,SAL PRIADI,Palembang,TENNIS INDOOR SENAYAN,2024-03-04,Gold,217869,Rahman Sitorus,2,435738
+ORD00697644,Tulus,Bandung,Ciwalk,2024-11-17,Silver,173669,R.A. Nadine Saragih,3,521007
+ORD00167315,PAMUNGKAS,Surabaya,JOGJA EXPO CENTER,2023-09-16,Festival,127493,"Melinda Aryani, S.E.",1,127493
+ORD00234126,tiara andini,Bandung,trans studio bandung,2023-11-25,Silver,173669,Ghaliyati Halimah,,173669
+ORD00724030,SAL PRIADI,Jakarta,JCC,2025-07-12,Gold,217869,"Devi Rahimah, S.Sos",5,1089345
+ORD00214353,Bernadya,,Sabuga,07-14-2025,Silver,173669,Restu Hasanah,2,347338
+ORD00825037,Hindia,Semarang,Jogja Expo Center,2025/05/27,VIP,253466,Karja Nuraini,4,1013864
+ORD00002250,Kunto Aji,Balikpapan,Trans Studio Bandung,2024/02/24,Gold,217869,Bambang Gunarto,5,1089345
+ORD00792911,Isyana Sarasvati,Denpasar,Jogja Expo Center,2024-11-22,Gold,217869,"Dr. Titi Nugroho, M.Kom.",4,871476
+ORD00116681,Raisa,Balikpapan,Gedung Kesenian Jakarta,2023/07/28,Silver,173669,Fitriani Lestari,,694676
+ORD00003521,Fourtwnty,Medan,Lapangan Gasibu,2024/01/15,Gold,1,Rendy Handayani,4,871476
+ORD00518601,yura yunita,Semarang,taman budaya,2024-08-06,VIP,253466,"Kezia Maheswara, S.I.Kom",1,253466
+ORD00553076,Fourtwnty,Balikpapan,Trans Studio Bandung,2023-12-27,Silver,173669,Shakila Hastuti,5,868345
+ORD00519134,FIERSA BESARI,Semarang,TRANS STUDIO BANDUNG,2023/08/17,Festival,127493,,4,509972
+ORD00722366,MALIQ & D'ESSENTIALS,Denpasar,CIWALK,2023-09-19,VIP,253466,Dt. Ajimin Pertiwi,5,1267330
+ORD00568623,yura yunita,Jakarta,ciwalk,2025/03/21,Gold,217869,Violet Haryanto,2,435738
+ORD00677471,nadin amizah,Balikpapan,trans studio bandung,2023-10-13,VIP,253466,Vivi Iswahyudi,4,1013864
+ORD00645097,Bernadya,Makassar,JCC,2024-07-27,VIP,253466,,5,1267330
+ORD00104796,Isyana Sarasvati,Surabaya,Ciwalk,09-08-2024,Festival,127493,Dalima Hutapea,2,254986
+ORD00790341,Sal Priadi,Denpasar,Lapangan Gasibu,2024-08-31,VIP,253466,,1,253466
+ORD00461304,Tulus,Semarang,Trans Studio Bandung,11-12-2024,VIP,,dr. Asirwada Pudjiastuti,3,760398
+ORD00632840,KUNTO AJI,Denpasar,JCC,2024-06-05,,127493,"Drs. Maida Kuswandari, S.E.",2,254986
+ORD00134375,Isyana Sarasvati,Bandung,Tennis Indoor Senayan,2025-06-07,Gold,217869,"Dr. Fitria Prastuti, S.Psi",3,653607
+ORD00407119,fourtwnty,Surabaya,trans studio bandung,2023-07-26,Festival,127493,Aisyah Haryanto,4,509972
+ORD00732396,TULUS,Bandung,ISTORA SENAYAN,12-10-2024,Gold,217869,"H. Asirwada Rahayu, S.Pd",2,435738
+ORD00053563,Isyana Sarasvati,Semarang,Taman Budaya,2025-05-03,Silver,173669,"Sutan Prabowo Pertiwi, M.Farm",2,347338
+ORD00502370,Efek Rumah Kaca,Jakarta,Ciwalk,01-16-2025,Festival,127493,Aditya Hariyah,1,127493
+,Raisa,Denpasar,Ciwalk,2024-03-18,Gold,217869,"Ir. Paramita Waskita, S.Farm",5,1089345
+ORD00147469,Fiersa Besari,Makassar,Ciwalk,2024-09-07,Festival,127493,Rahmi Kuswandari,4,509972
+,Tiara Andini,Denpasar,Istora Senayan,2024-07-31,Gold,217869,Widya Prastuti,2,435738
+ORD00038096,Yura Yunita,Denpasar,Taman Budaya,09-25-2023,Silver,,Shania Prayoga,2,347338
+ORD00433346,Isyana Sarasvati,Jakarta,Tennis Indoor Senayan,2024/07/13,Silver,173669,Uchita Namaga,1,173669
+ORD00644362,Hindia,Semarang,JCC,2024-12-22,Festival,127493,R. Juli Prasetya,4,509972
+ORD00020646,Pamungkas,Balikpapan,Sabuga,10-25-2024,Gold,217869,Jane Melani,1,217869
+ORD00140010,Raisa,Surabaya,Taman Budaya,2025-02-13,Silver,173669,Pangeran Waskita,1,173669
+ORD00423383,Bernadya,Bandung,Lapangan Gasibu,2025/02/28,Silver,,Cut Lintang Adriansyah,2,347338
+ORD00025520,raisa,Palembang,gedung kesenian jakarta,06-18-2024,Festival,127493,"Dr. Calista Saragih, S.Sos",4,509972
+ORD00302800,Hindia,Bandung,Sabuga,,VIP,253466,"R.M. Pardi Melani, M.Farm",4,1013864
+ORD00226510,Isyana Sarasvati,Makassar,,2025-02-16,Silver,173669,R. Edi Samosir,2,347338
+,KUNTO AJI,Medan,TENNIS INDOOR SENAYAN,2024/06/03,VIP,253466,R. Ozy Hutasoit,2,506932
+ORD00142047,Fourtwnty,Balikpapan,JCC,2025-03-07,VIP,,"Nasab Prasasta, M.Pd",3,760398
+ORD00323895,DEWA 19,Palembang,JCC,06-11-2025,Silver,173669,"drg. Rika Nugroho, S.Pt",2,347338
+ORD00267216,Barasuara,Balikpapan,Trans Studio Bandung,2025/07/19,Festival,127493,Tina Sudiati,2,
+ORD00171756,Bernadya,Balikpapan,Istora Senayan,2024-01-26,Festival,127493,"Laswi Astuti, S.Ked",1,127493
+ORD00767602,Nadin Amizah,Makassar,JCC,2024-11-30,Gold,217869,Tgk. Titi Prastuti,,1089345
+ORD00735095,Fourtwnty,Palembang,Istora Senayan,2023-11-13,Festival,127493,R. Latif Gunarto,3,382479
+ORD00457317,kunto aji,Surabaya,trans studio bandung,2024/09/10,VIP,253466,Kamal Kusumo,4,1013864
+ORD00776013,Sal Priadi,Bandung,Istora Senayan,2025/01/14,VIP,253466,Cager Simanjuntak,1,253466
+ORD00143589,Banda Neira,Yogyakarta,Gedung Kesenian Jakarta,03-11-2025,VIP,253466,"Jumari Sitorus, S.E.I",5,1267330
+ORD00239840,Yura Yunita,Denpasar,Taman Budaya,2024-12-31,Silver,500000000,Tira Astuti,3,521007
+ORD00713783,Barasuara,Bandung,Jogja Expo Center,2024-06-07,Silver,173669,"Clara Prasetyo, S.Kom",5,868345
+ORD00487935,,Denpasar,CIWALK,2024-09-17,Festival,127493,Ir. Karsana Hidayat,2,254986
+ORD00682910,Dewa 19,Jakarta,Sabuga,02-07-2024,Silver,173669,Ira Wijaya,2,347338
+ORD00110773,Hindia,Makassar,Jogja Expo Center,2025-02-28,Festival,127493,Kurnia Wahyuni,4,509972
+ORD00652244,Kunto Aji,Denpasar,Trans Studio Bandung,2024-02-21,Gold,217869,"Jane Pradipta, S.E.",2,435738
+ORD00154645,,Bandung,taman budaya,2024-12-28,Gold,217869,Irwan Hasanah,2,435738
+ORD00026650,Nadin Amizah,Bandung,Istora Senayan,2023-11-23,Festival,127493,Karya Hakim,1,127493
+,BANDA NEIRA,Denpasar,JOGJA EXPO CENTER,2024/11/05,VIP,253466,"T. Jono Sinaga, S.Psi",4,1013864
+ORD00048544,PAMUNGKAS,Semarang,CIWALK,2025-05-20,Festival,127493,Tgk. Hairyanto Usada,5,637465
+,Nadin Amizah,Jakarta,Ciwalk,2023-12-14,Gold,217869,Qori Lailasari,2,435738
+ORD00037704,Yura Yunita,Denpasar,Taman Budaya,2023-09-25,Silver,173669,Himawan Waluyo,1,173669
+ORD00210764,Efek Rumah Kaca,Palembang,Sabuga,2023-09-09,Gold,217869,Salman Wijaya,3,653607
+ORD00209455,Ardhito Pramono,Makassar,Jogja Expo Center,2025-05-27,Festival,127493,Manah Mulyani,4,509972
+ORD00804273,Isyana Sarasvati,Surabaya,Lapangan Gasibu,2023/11/26,,253466,"Darimin Kusmawati, S.Farm",1,253466
+ORD00010994,Tiara Andini,Makassar,Lapangan Gasibu,2023/08/18,VIP,253466,Gandi Zulkarnain,5,1267330
+ORD00383204,yura yunita,Jakarta,trans studio bandung,2025-07-25,,127493,Argono Prakasa,1,127493
+ORD00461472,,Semarang,trans studio bandung,11-12-2024,VIP,253466,Ifa Palastri,5,1267330
+ORD00374684,Fiersa Besari,Makassar,Jogja Expo Center,05-20-2024,VIP,253466,Puspa Samosir,4,1013864
+ORD00468464,nadin amizah,Bandung,sabuga,2023/11/26,VIP,253466,"R.A. Uli Lailasari, M.Farm",2,506932
+ORD00018409,Ardhito Pramono,Yogyakarta,Istora Senayan,2024/01/13,Gold,217869,Hj. Yuliana Namaga,4,871476
+ORD00265489,DEWA 19,Makassar,JCC,2024/08/21,Gold,217869,"dr. Iriana Maryati, S.Gz",1,217869
+ORD00242754,Pamungkas,Medan,,2024-02-02,Silver,173669,Kurnia Nababan,1,173669
+ORD00299059,TIARA ANDINI,Jakarta,LAPANGAN GASIBU,,Festival,127493,Cawisono Mandasari,3,382479
+ORD00598607,Yura Yunita,Surabaya,Istora Senayan,2025-06-17,Gold,217869,Gading Ramadan,2,435738
+ORD00073408,Fourtwnty,Surabaya,Jogja Expo Center,03-19-2025,Gold,217869,R.A. Oni Sihombing,1,217869
+,fourtwnty,Semarang,ciwalk,2024-02-07,Festival,127493,"Gasti Wastuti, S.Pt",4,509972
+ORD00398132,NADIN AMIZAH,Bandung,ISTORA SENAYAN,03-11-2024,Gold,217869,Hamima Novitasari,5,1089345
+ORD00811862,BARASUARA,Balikpapan,SABUGA,2023/11/22,Silver,173669,Gandewa Megantara,5,868345
+ORD00007205,ardhito pramono,Bandung,tennis indoor senayan,2025-06-17,VIP,253466,Lamar Halim,2,506932
+ORD00558074,Noah,Bandung,,07-27-2024,Festival,127493,drg. Wasis Saragih,4,509972
+ORD00371886,Maliq & D'Essentials,Yogyakarta,Jogja Expo Center,2024-03-25,Silver,173669,Ian Mangunsong,1,173669
+ORD00584866,,Jakarta,Tennis Indoor Senayan,2024-11-03,Festival,127493,Usyi Tarihoran,4,509972
+ORD00767349,Nadin Amizah,Makassar,JCC,11-30-2024,Gold,217869,Gaiman Farida,2,435738
+ORD00066841,DEWA 19,Surabaya,TENNIS INDOOR SENAYAN,2024-02-20,VIP,253466,"Yani Hutasoit, M.M.",4,1013864
+ORD00534884,Pamungkas,,Istora Senayan,2025/05/29,VIP,253466,Hafshah Halim,5,1267330
+ORD00260355,Banda Neira,Denpasar,JCC,09-20-2023,Gold,217869,Ir. Tari Sinaga,5,1089345
+ORD00757353,,Jakarta,Lapangan Gasibu,10-24-2024,Silver,173669,"dr. Farah Hakim, M.TI.",3,521007
+ORD00784889,Fiersa Besari,Bandung,Tennis Indoor Senayan,2025-05-27,Festival,127493,"Gaduh Wibowo, S.T.",4,
+ORD00091290,Nadin Amizah,Jakarta,Taman Budaya,2024/06/22,Silver,173669,Vera Damanik,4,
+ORD00424995,Fourtwnty,Semarang,Trans Studio Bandung,2024-01-24,Festival,127493,"Laras Agustina, M.Pd",2,254986
+ORD00805864,Noah,Makassar,Jogja Expo Center,08-05-2023,VIP,253466,"Eluh Sitorus, M.TI.",3,760398
+ORD00638323,Fourtwnty,Bandung,Sabuga,2025-01-28,Gold,217869,Pandu Siregar,4,871476
+,Raisa,Bandung,Sabuga,2024/07/29,Silver,173669,Dian Budiman,4,694676
+ORD00297836,Maliq & D'Essentials,Palembang,Gedung Kesenian Jakarta,2025-04-30,Festival,127493,Ami Lazuardi,1,127493
+ORD00809648,Yura Yunita,Palembang,Sabuga,2023-10-22,Silver,173669,"Sutan Rahmat Winarno, S.Ked",2,347338
+ORD00823405,Bernadya,Surabaya,Tennis Indoor Senayan,2024/08/23,Gold,,Rizki Sirait,1,217869
+ORD00379453,Hindia,Yogyakarta,JCC,2024-06-28,Gold,217869,Leo Hasanah,3,653607
+ORD00631083,PAMUNGKAS,Jakarta,SABUGA,2024/08/30,Gold,,Zamira Siregar,1,217869
+ORD00140008,Raisa,Surabaya,Taman Budaya,,Silver,173669,Siti Sihombing,2,347338
+ORD00660123,Hindia,Medan,JCC,2025-02-18,VIP,253466,,1,253466
+ORD00492500,kunto aji,Medan,jcc,2023-11-21,Festival,127493,Rina Hartati,2,254986
+ORD00228772,Barasuara,Balikpapan,Lapangan Gasibu,2024-03-25,VIP,253466,Vivi Kuswoyo,2,506932
+ORD00608266,FOURTWNTY,Semarang,GEDUNG KESENIAN JAKARTA,2024/07/21,Gold,217869,drg. Cawisadi Nugroho,5,1089345
+ORD00313726,fourtwnty,Makassar,jcc,2023-11-18,Festival,127493,Slamet Mansur,2,
+ORD00700024,barasuara,Balikpapan,ciwalk,2024/05/16,Festival,127493,,2,254986
+ORD00104725,Isyana Sarasvati,Surabaya,Ciwalk,2024/09/08,Festival,127493,"Ir. Vanesa Dabukke, S.Gz",5,637465
+ORD00140908,Yura Yunita,Semarang,,2023-09-17,Gold,217869,"Dt. Upik Susanti, S.Farm",4,871476
+ORD00061417,Isyana Sarasvati,Denpasar,Sabuga,2024-11-30,Festival,99999999,Cakrawala Rahmawati,3,382479
+ORD00372105,Sal Priadi,Yogyakarta,,2024-06-28,Gold,217869,Kania Lailasari,4,871476
+ORD00733294,Fourtwnty,Denpasar,Gedung Kesenian Jakarta,2025-06-30,Festival,127493,Ina Salahudin,1,127493
+ORD00644968,,Palembang,JCC,05-07-2024,Silver,173669,Darmana Pudjiastuti,1,173669
+ORD00613734,BARASUARA,Jakarta,TENNIS INDOOR SENAYAN,2023/10/01,VIP,253466,"Hj. Ophelia Nashiruddin, S.Sos",3,760398
+ORD00746942,Hindia,Bandung,Istora Senayan,2024-09-17,Gold,217869,Yono Puspita,1,217869
+ORD00790302,,Denpasar,Lapangan Gasibu,2024-08-31,VIP,253466,Atmaja Pudjiastuti,4,1013864
+ORD00478451,Tiara Andini,Jakarta,Taman Budaya,09-02-2024,Gold,217869,Karya Kurniawan,3,653607
+ORD00354957,Tulus,Semarang,Tennis Indoor Senayan,2024/12/19,Gold,217869,"KH. Lanang Zulkarnain, M.TI.",1,217869
+ORD00253990,Noah,Yogyakarta,Istora Senayan,11-04-2023,VIP,,Safina Melani,1,253466
+,TULUS,Balikpapan,ISTORA SENAYAN,10-13-2023,Festival,127493,"R. Ophelia Situmorang, S.Farm",3,382479
+ORD00094661,maliq & d'essentials,Palembang,tennis indoor senayan,,Festival,127493,Victoria Yolanda,4,509972
+ORD00350495,Isyana Sarasvati,Bandung,Ciwalk,2024-04-22,,173669,R. Julia Widiastuti,1,173669
+ORD00046292,NADIN AMIZAH,Denpasar,TENNIS INDOOR SENAYAN,2025/03/17,Gold,217869,"dr. Eva Mulyani, S.Ked",4,871476
+ORD00170975,Bernadya,Balikpapan,Istora Senayan,2024-01-26,Festival,500000000,"R. Vanesa Rajasa, M.M.",1,127493
+ORD00031511,Tiara Andini,Jakarta,Istora Senayan,04-18-2024,Festival,127493,Agus Usada,4,509972
+ORD00662614,DEWA 19,Surabaya,ISTORA SENAYAN,2025-03-07,Silver,173669,"Puti Nasyiah, S.I.Kom",3,521007
+ORD00521227,bernadya,Jakarta,jcc,2024-12-26,Silver,173669,Panca Rahimah,1,173669
+ORD00536558,Raisa,Medan,Trans Studio Bandung,2023-09-03,Gold,1,,1,217869
+ORD00601913,maliq & d'essentials,Surabaya,jcc,2024/06/28,Festival,127493,Danu Rahayu,2,254986
+ORD00217524,Fourtwnty,Denpasar,Jogja Expo Center,2025-01-17,Gold,217869,Kenari Saptono,,217869
+ORD00426387,Dewa 19,Medan,Tennis Indoor Senayan,2024/01/16,VIP,253466,"Laras Aryani, S.Farm",5,1267330
+ORD00204052,Pamungkas,Palembang,Sabuga,05-05-2025,Silver,173669,Cahya Pertiwi,4,694676
+ORD00781769,Kunto Aji,Semarang,Istora Senayan,2024-07-13,Gold,217869,Intan Hassanah,,1089345
+ORD00750338,Nadin Amizah,Bandung,Taman Budaya,08-25-2023,Silver,173669,"Karna Nasyidah, S.Pt",2,347338
+ORD00614580,ardhito pramono,Denpasar,ciwalk,2025-06-09,,127493,Ismail Pratiwi,4,509972
+ORD00008305,NOAH,Yogyakarta,LAPANGAN GASIBU,2023-10-01,VIP,253466,"Violet Wacana, S.E.I",5,
+,Noah,Jakarta,Gedung Kesenian Jakarta,2024-09-29,Silver,173669,Gadang Saputra,5,868345
+ORD00021829,Maliq & D'Essentials,Makassar,,2025/04/14,Gold,217869,"Cut Rini Maryati, S.Pt",1,217869
+ORD00759211,Bernadya,Semarang,Jogja Expo Center,2024-02-20,VIP,253466,Adika Thamrin,5,1267330
+ORD00826842,Fiersa Besari,,JCC,2024-02-25,Silver,173669,KH. Lembah Lazuardi,2,347338
+,Yura Yunita,Semarang,Sabuga,2023-09-04,Festival,127493,Karen Manullang,2,254986
+ORD00616740,Nadin Amizah,Yogyakarta,Jogja Expo Center,,VIP,253466,Puput Suwarno,4,1013864
+ORD00726470,noah,Bandung,gedung kesenian jakarta,10-26-2024,VIP,253466,Suci Winarno,3,
+ORD00528302,Bernadya,Denpasar,Ciwalk,2025-06-29,Silver,500000000,Ir. Dalima Irawan,5,868345
+ORD00469250,Ardhito Pramono,Medan,Ciwalk,2025/02/22,Festival,127493,Langgeng Sihombing,4,509972
+ORD00396260,Bernadya,Surabaya,Gedung Kesenian Jakarta,2024/06/02,Gold,1,Farhunnisa Rajata,5,1089345
+ORD00533210,Isyana Sarasvati,Surabaya,Gedung Kesenian Jakarta,06-22-2024,VIP,253466,"Jagaraga Farida, S.T.",4,1013864
+ORD00563628,Tiara Andini,Balikpapan,Gedung Kesenian Jakarta,2025-03-12,VIP,253466,Sari Prayoga,5,1267330
+ORD00503622,HINDIA,Yogyakarta,GEDUNG KESENIAN JAKARTA,2025/03/11,Festival,127493,Dalimin Napitupulu,3,382479
+ORD00069161,BERNADYA,Jakarta,GEDUNG KESENIAN JAKARTA,2025-01-10,Festival,127493,"Dr. Umay Suwarno, M.Pd",3,382479
+ORD00337177,,Yogyakarta,istora senayan,2025-03-24,Silver,173669,Dian Thamrin,1,173669
+ORD00657482,Barasuara,Denpasar,Istora Senayan,2024-09-14,Silver,,Nasim Kuswoyo,3,521007
+ORD00644248,Hindia,Semarang,JCC,2024-12-22,Festival,127493,Perkasa Usamah,3,382479
+ORD00116494,raisa,Balikpapan,gedung kesenian jakarta,2023-07-28,Silver,173669,,4,694676
+ORD00090640,Nadin Amizah,Jakarta,Taman Budaya,2024/06/22,Silver,173669,"Nadia Nababan, M.Ak",5,868345
+ORD00662102,Dewa 19,Surabaya,Istora Senayan,03-07-2025,Silver,173669,Hj. Putri Usada,5,868345
+ORD00235720,Bernadya,Palembang,Tennis Indoor Senayan,08-23-2024,VIP,253466,Julia Purwanti,4,1013864
+ORD00475970,Dewa 19,Medan,Gedung Kesenian Jakarta,2024-02-26,VIP,253466,"Puti Kamila Marbun, S.Kom",1,
+ORD00221046,Maliq & D'Essentials,Makassar,Tennis Indoor Senayan,2024-08-07,Gold,217869,Harja Rajata,,1089345
+ORD00203047,Dewa 19,Palembang,Istora Senayan,12-13-2024,Gold,217869,"Dr. Septi Lazuardi, S.H.",4,871476
+ORD00451267,YURA YUNITA,Medan,ISTORA SENAYAN,2023-09-03,VIP,253466,Dinda Thamrin,5,1267330
+ORD00355968,Dewa 19,Semarang,Istora Senayan,2023-12-23,Gold,217869,Siska Najmudin,5,1089345
+ORD00827458,pamungkas,Palembang,ciwalk,2025-03-17,Festival,127493,drg. Padma Tampubolon,1,127493
+ORD00636867,Yura Yunita,Balikpapan,Taman Budaya,,Festival,127493,Ajeng Pangestu,3,382479
+ORD00023113,Tiara Andini,Jakarta,Gedung Kesenian Jakarta,2025/03/06,Gold,217869,Sabrina Hariyah,1,217869
+ORD00244102,,Balikpapan,TENNIS INDOOR SENAYAN,2023-08-25,Gold,217869,Hasim Yolanda,3,653607
+ORD00500265,Sal Priadi,Palembang,Gedung Kesenian Jakarta,2024/06/16,Festival,127493,"Maya Pudjiastuti, S.Farm",,382479
+ORD00311179,,Palembang,taman budaya,2025-05-04,Gold,217869,Paramita Mandala,4,871476
+,Fiersa Besari,Makassar,Ciwalk,2024/09/07,Festival,127493,Aisyah Sihotang,1,127493
+ORD00579001,kunto aji,Denpasar,tennis indoor senayan,2025-01-12,Gold,217869,Emong Palastri,2,435738
+ORD00550172,TIARA ANDINI,,GEDUNG KESENIAN JAKARTA,2025-03-23,VIP,253466,"Queen Siregar, S.I.Kom",5,1267330
+ORD00034125,Fiersa Besari,Makassar,JCC,2025-04-12,Gold,217869,Bakda Hutapea,,1089345
+ORD00303814,Tulus,Bandung,Ciwalk,2025-02-20,VIP,253466,Perkasa Santoso,3,760398
+ORD00069044,Bernadya,Jakarta,Gedung Kesenian Jakarta,2025-01-10,Festival,,Suci Nababan,5,637465
+ORD00458624,,Surabaya,JCC,2024-10-30,Silver,99999999,Ade Marpaung,1,173669
+ORD00643789,Hindia,Medan,Gedung Kesenian Jakarta,2024-03-19,Gold,217869,Harjasa Situmorang,3,653607
+ORD00055175,Raisa,Yogyakarta,Trans Studio Bandung,2023-11-29,Festival,127493,"Lintang Lestari, S.T.",3,382479
+ORD00815243,sal priadi,Jakarta,,2024-08-24,VIP,99999999,Makuta Utami,5,1267330
+ORD00020109,PAMUNGKAS,Balikpapan,SABUGA,2024-10-25,Gold,217869,Hafshah Samosir,5,1089345
+ORD00533184,Isyana Sarasvati,Surabaya,Gedung Kesenian Jakarta,06-22-2024,VIP,,Diah Marbun,5,1267330
+ORD00656988,Ardhito Pramono,Jakarta,Ciwalk,02-22-2025,VIP,253466,Julia Agustina,1,253466
+ORD00723213,,Bandung,Gedung Kesenian Jakarta,2024/01/23,Festival,127493,Uchita Marpaung,3,382479
+ORD00780555,isyana sarasvati,Balikpapan,jcc,09-25-2024,Silver,173669,Kani Andriani,1,173669
+ORD00148367,Hindia,Medan,Sabuga,11-08-2024,Festival,127493,"Kania Nainggolan, S.Pd",1,127493
+ORD00060139,tulus,Bandung,trans studio bandung,09-19-2023,Gold,99999999,,5,1089345
+ORD00807201,BANDA NEIRA,Medan,TRANS STUDIO BANDUNG,2024-06-06,Silver,173669,Kasusra Hassanah,1,173669
+ORD00568189,Yura Yunita,Jakarta,,03-21-2025,Gold,217869,"dr. Samiah Rajata, M.Ak",1,217869
+ORD00620027,FIERSA BESARI,Jakarta,ISTORA SENAYAN,08-12-2024,Festival,127493,Putri Kusumo,2,
+ORD00419733,Nadin Amizah,Balikpapan,Gedung Kesenian Jakarta,,Gold,217869,KH. Galiono Winarsih,5,1089345
+ORD00083050,Fiersa Besari,Bandung,Lapangan Gasibu,2024/08/16,Festival,127493,Gaiman Yuliarti,2,254986
+ORD00104379,Isyana Sarasvati,Surabaya,Ciwalk,2024-09-08,Festival,127493,drg. Putri Waskita,1,127493
+ORD00184537,BANDA NEIRA,Bandung,LAPANGAN GASIBU,2024-06-09,VIP,253466,Paulin Yulianti,3,760398
+ORD00151630,Sal Priadi,Yogyakarta,JCC,2025-02-11,Silver,,Kairav Laksmiwati,4,694676
+ORD00045954,fiersa besari,,sabuga,2024/01/19,VIP,253466,Novi Anggriawan,5,1267330
+ORD00399305,Noah,Makassar,Gedung Kesenian Jakarta,2024-12-23,VIP,253466,Muni Hidayanto,1,253466
+ORD00700151,Barasuara,Balikpapan,Ciwalk,2024/05/16,Festival,127493,Erik Winarno,3,382479
+ORD00106481,Nadin Amizah,Yogyakarta,Taman Budaya,2023-08-03,Silver,173669,Dt. Argono Hutasoit,4,694676
+ORD00630579,pamungkas,Jakarta,sabuga,2024/08/30,Gold,217869,drg. Prayoga Nainggolan,4,871476
+ORD00157078,maliq & d'essentials,Denpasar,trans studio bandung,2024/08/31,Silver,173669,"Putri Waluyo, S.Farm",2,347338
+ORD00165821,Raisa,Yogyakarta,JCC,2023/09/09,,217869,Najib Adriansyah,1,217869
+ORD00202869,DEWA 19,Palembang,ISTORA SENAYAN,2024-12-13,Gold,217869,Adika Sihombing,5,1089345
+ORD00387359,Nadin Amizah,Denpasar,Istora Senayan,2023/09/18,Gold,217869,Bakidin Mayasari,3,653607
+ORD00780192,ISYANA SARASVATI,Balikpapan,JCC,2024/09/25,Silver,173669,"Yuni Utama, S.E.I",4,694676
+ORD00341588,Tulus,Bandung,Jogja Expo Center,2024/02/18,,173669,R. Calista Halim,2,347338
+ORD00392582,fiersa besari,Semarang,taman budaya,03-22-2024,VIP,253466,Rachel Sitorus,4,1013864
+ORD00142456,barasuara,Medan,taman budaya,2024-09-11,VIP,253466,Sari Budiyanto,5,1267330
+ORD00796713,Tiara Andini,Balikpapan,Istora Senayan,2023-11-04,Silver,,Ira Hassanah,5,868345
+ORD00427934,isyana sarasvati,Yogyakarta,sabuga,2023/11/17,Silver,173669,dr. Samsul Namaga,2,347338
+ORD00377457,Dewa 19,Bandung,Gedung Kesenian Jakarta,2024-02-08,VIP,253466,"Dt. Bahuwarna Pertiwi, S.Gz",3,760398
+ORD00242019,Noah,Surabaya,Lapangan Gasibu,2024-10-10,VIP,253466,H. Aditya Sihombing,,506932
+ORD00489593,fiersa besari,Jakarta,ciwalk,2023-11-10,Silver,173669,"Dr. Samiah Kurniawan, S.Ked",5,868345
+ORD00330602,fiersa besari,Balikpapan,lapangan gasibu,12-10-2023,,217869,KH. Lukman Hasanah,5,1089345
+ORD00217013,Barasuara,Bandung,Istora Senayan,06-18-2024,Gold,217869,Puspa Tampubolon,3,653607
+ORD00418334,bernadya,Yogyakarta,taman budaya,2023-12-04,VIP,253466,dr. Cawisono Namaga,4,1013864
+ORD00050420,Isyana Sarasvati,Palembang,Trans Studio Bandung,2023-10-12,Silver,500000000,Bagas Waluyo,5,868345
+ORD00434403,Maliq & D'Essentials,Denpasar,Sabuga,2024-06-11,Festival,127493,Latika Mardhiyah,1,
+ORD00630773,Pamungkas,Jakarta,Sabuga,08-30-2024,Gold,217869,,3,653607
+ORD00736955,Sal Priadi,Medan,JCC,2023-12-01,,127493,"Vero Jailani, S.Pd",5,637465
+ORD00261809,Nadin Amizah,Denpasar,Sabuga,07-15-2024,Festival,127493,,5,637465
+ORD00820807,Barasuara,Makassar,Jogja Expo Center,2023-11-15,Silver,173669,,2,347338
+ORD00625757,Barasuara,Semarang,Gedung Kesenian Jakarta,2024-02-28,Gold,,R.M. Empluk Wibowo,3,653607
+ORD00270870,,Yogyakarta,Taman Budaya,2024-05-08,Gold,217869,"Joko Tamba, S.Gz",2,435738
+ORD00006579,Kunto Aji,Bandung,Istora Senayan,2025-02-20,Gold,217869,Kenzie Natsir,5,1089345
+ORD00127960,ISYANA SARASVATI,Jakarta,LAPANGAN GASIBU,2024-09-16,Festival,127493,Ir. Drajat Wulandari,1,127493
+ORD00370921,kunto aji,Semarang,gedung kesenian jakarta,2025-03-27,Silver,173669,Joko Salahudin,3,521007
+ORD00508725,BERNADYA,Balikpapan,CIWALK,2024-05-23,VIP,253466,Ana Oktaviani,1,253466
+ORD00809721,yura yunita,Palembang,sabuga,2023-10-22,Silver,173669,,2,347338
+ORD00194471,noah,Balikpapan,ciwalk,2024/07/08,Gold,217869,"Olivia Saefullah, S.Ked",1,217869
+ORD00223274,YURA YUNITA,Denpasar,TAMAN BUDAYA,2023-12-20,Festival,127493,Natalia Nuraini,4,
+ORD00364002,TULUS,Surabaya,JOGJA EXPO CENTER,2024/04/08,Silver,173669,"Drs. Imam Hardiansyah, M.Pd",4,694676
+ORD00637283,Yura Yunita,,Taman Budaya,2024-07-29,Festival,127493,dr. Indra Najmudin,3,382479
+ORD00447953,NOAH,Yogyakarta,LAPANGAN GASIBU,2024-06-20,Festival,127493,Cengkir Latupono,1,127493
+ORD00136405,Barasuara,,Tennis Indoor Senayan,2024/01/27,Silver,173669,Maria Uwais,3,521007
+ORD00117348,Raisa,Makassar,Sabuga,2025-06-05,VIP,253466,"R. Hasta Wahyudin, M.Ak",3,760398
+,isyana sarasvati,Medan,gedung kesenian jakarta,2023-08-04,Gold,217869,Ghaliyati Putra,2,435738
+ORD00314968,fiersa besari,Medan,sabuga,2023/08/27,VIP,253466,Ella Maryadi,1,253466
+ORD00463982,Fourtwnty,Semarang,Sabuga,2024-06-21,VIP,253466,Harsaya Uyainah,1,253466
+ORD00537243,BERNADYA,Semarang,SABUGA,2024-02-13,Festival,127493,Ir. Emil Tarihoran,4,509972
+ORD00099940,Nadin Amizah,,Lapangan Gasibu,2025-04-01,Silver,173669,R. Tina Winarno,4,694676
+ORD00766636,nadin amizah,Medan,,2024/06/28,Silver,173669,Tami Widodo,2,347338
+ORD00767062,Nadin Amizah,Medan,Istora Senayan,2024-06-28,Silver,173669,Malika Sihombing,5,868345
+ORD00198349,Sal Priadi,Denpasar,Ciwalk,07-12-2025,Silver,173669,Umar Nugroho,2,347338
+ORD00584452,Tulus,Jakarta,Tennis Indoor Senayan,2024-11-03,Festival,127493,Artawan Handayani,4,509972
+ORD00484455,sal priadi,Denpasar,ciwalk,2024/01/24,VIP,253466,,3,760398
+ORD00749980,NADIN AMIZAH,Bandung,TAMAN BUDAYA,08-25-2023,Silver,173669,Salwa Zulaika,2,347338
+,Kunto Aji,Yogyakarta,Lapangan Gasibu,2025-03-04,VIP,500000000,Rini Damanik,2,506932
+ORD00202906,DEWA 19,Palembang,ISTORA SENAYAN,12-13-2024,Gold,217869,Zizi Puspita,5,1089345
+ORD00376142,BANDA NEIRA,Makassar,CIWALK,2024-10-15,Festival,127493,"Agnes Pudjiastuti, S.Sos",3,382479
+ORD00142752,barasuara,Medan,taman budaya,2024-09-11,VIP,253466,"Padma Nuraini, S.IP",1,253466
+ORD00352939,Isyana Sarasvati,Palembang,Trans Studio Bandung,2024-01-18,Silver,173669,,3,521007
+ORD00399653,Noah,Makassar,Gedung Kesenian Jakarta,2024/12/23,VIP,253466,Endah Tamba,2,506932
+ORD00492836,bernadya,Bandung,jogja expo center,01-24-2025,Festival,127493,Rusman Prasetya,4,509972
+ORD00562270,Raisa,Bandung,Tennis Indoor Senayan,2025-01-19,Festival,127493,,1,127493
+ORD00425999,Dewa 19,Medan,Tennis Indoor Senayan,,VIP,253466,Wahyu Zulkarnain,2,506932
+ORD00491548,isyana sarasvati,Makassar,tennis indoor senayan,2025-01-15,Festival,127493,Ibun Budiman,5,637465
+ORD00766477,Nadin Amizah,Medan,Istora Senayan,2024-06-28,Silver,173669,Citra Megantara,1,173669
+,Hindia,Yogyakarta,Lapangan Gasibu,2024-02-01,Festival,127493,Safina Lestari,2,254986
+ORD00666233,Fiersa Besari,Palembang,Sabuga,2023/12/23,Festival,127493,"Ajimin Novitasari, M.TI.",,637465
+ORD00381593,,Palembang,ISTORA SENAYAN,2024-09-16,Gold,217869,Shakila Manullang,5,1089345
+ORD00079666,,Bandung,GEDUNG KESENIAN JAKARTA,2024-10-08,VIP,253466,Dinda Agustina,3,760398
+ORD00787554,ISYANA SARASVATI,Denpasar,JOGJA EXPO CENTER,2024-07-18,Festival,,R. Titin Pertiwi,3,382479
+ORD00627718,noah,Palembang,tennis indoor senayan,2025-06-08,Silver,173669,Lidya Nuraini,3,521007
+ORD00788772,MALIQ & D'ESSENTIALS,,GEDUNG KESENIAN JAKARTA,2023-09-06,Gold,500000000,Michelle Prasasta,1,217869
+ORD00469704,Ardhito Pramono,Medan,Ciwalk,2025-02-22,Festival,127493,"Dt. Drajat Thamrin, S.Pd",,127493
+ORD00574962,Barasuara,Denpasar,Gedung Kesenian Jakarta,2025-06-30,VIP,253466,dr. Ciaobella Melani,3,760398
+ORD00014905,TULUS,Bandung,TAMAN BUDAYA,2023-12-27,Silver,173669,"Raisa Wastuti, S.H.",1,173669
+ORD00104184,ISYANA SARASVATI,Surabaya,CIWALK,2024-09-08,Festival,127493,"Ihsan Andriani, S.Kom",2,
+ORD00283927,Raisa,Yogyakarta,Ciwalk,2023-10-23,Gold,1,Candra Zulaika,3,653607
+ORD00634003,Nadin Amizah,Medan,Taman Budaya,08-08-2024,Festival,127493,"Damu Firmansyah, S.T.",3,382479
+ORD00327479,Ardhito Pramono,Surabaya,Sabuga,2025-07-17,Silver,173669,Jefri Utama,4,694676
+ORD00338891,Banda Neira,Bandung,Sabuga,04-09-2025,Festival,127493,Gangsar Habibi,4,509972
+ORD00533877,hindia,Surabaya,taman budaya,2023-11-08,Gold,217869,Tiara Saputra,2,435738
+,Hindia,Yogyakarta,Lapangan Gasibu,2024-02-01,Festival,500000000,Mala Suwarno,1,127493
+ORD00702090,Hindia,Jakarta,Ciwalk,03-12-2024,Festival,1,Puti Icha Zulaika,5,637465
+ORD00791366,bernadya,Yogyakarta,gedung kesenian jakarta,2024-11-20,Gold,217869,Daliman Setiawan,3,653607
+ORD00401483,Efek Rumah Kaca,Palembang,Ciwalk,2025-01-02,Gold,217869,Hafshah Latupono,2,435738
+ORD00827901,Fourtwnty,Semarang,,2025-03-30,VIP,253466,Melinda Wasita,1,253466
+ORD00580389,Fiersa Besari,Palembang,Ciwalk,2024-11-24,Gold,217869,Luwar Haryanto,3,653607
+ORD00121578,Bernadya,Surabaya,Tennis Indoor Senayan,,Festival,127493,"Rika Pertiwi, S.E.I",5,637465
+ORD00390851,bernadya,Balikpapan,ciwalk,2025-02-04,Festival,127493,,3,382479
+ORD00299083,Tiara Andini,Jakarta,Lapangan Gasibu,2024/02/25,Festival,127493,"Elvina Zulaika, M.Ak",4,509972
+ORD00018625,Ardhito Pramono,Yogyakarta,Istora Senayan,01-13-2024,Gold,217869,"Tgk. Kariman Riyanti, M.Ak",5,1089345
+ORD00357582,Tiara Andini,Surabaya,Trans Studio Bandung,02-27-2024,Festival,127493,Wardaya Hutagalung,2,254986
+ORD00366745,Noah,Jakarta,Jogja Expo Center,2024-02-13,Gold,217869,Kayla Gunawan,5,
+ORD00165274,banda neira,Yogyakarta,ciwalk,11-27-2024,Silver,173669,Anastasia Pranowo,5,
+ORD00599724,Dewa 19,Bandung,JCC,2024/07/17,VIP,253466,Elon Utama,,1013864
+ORD00212222,Banda Neira,Semarang,JCC,2023-07-27,Silver,173669,Usman Agustina,2,347338
+ORD00585459,EFEK RUMAH KACA,Semarang,TENNIS INDOOR SENAYAN,2023/10/28,Silver,99999999,Jumari Prastuti,4,694676
+ORD00043914,FIERSA BESARI,Bandung,CIWALK,2023-09-18,Festival,127493,"Najam Saputra, S.Ked",4,509972
+ORD00313885,Fourtwnty,Makassar,JCC,2023-11-18,Festival,127493,,1,127493
+ORD00366835,noah,Jakarta,jogja expo center,2024-02-13,Gold,217869,Murti Sitompul,3,653607
+,Bernadya,Balikpapan,Ciwalk,2024-09-25,Festival,127493,Taufik Saptono,4,509972
+ORD00323968,dewa 19,,jcc,2025/06/11,Silver,173669,Putri Mangunsong,5,868345
+ORD00496077,maliq & d'essentials,Palembang,ciwalk,04-08-2024,Festival,127493,Darmana Pradipta,2,254986
+ORD00710976,Pamungkas,Semarang,Gedung Kesenian Jakarta,2024/01/28,Silver,173669,Zelda Padmasari,3,521007
+ORD00330218,TULUS,Yogyakarta,LAPANGAN GASIBU,2025-04-15,VIP,253466,Sutan Makara Uwais,5,1267330
+ORD00709215,Barasuara,Bandung,Lapangan Gasibu,2024-02-16,Gold,217869,Ghaliyati Farida,1,217869
+ORD00773800,Pamungkas,Bandung,Lapangan Gasibu,,Gold,217869,Gamanto Pratiwi,5,1089345
+ORD00047334,barasuara,,lapangan gasibu,03-06-2024,Gold,217869,Ida Prayoga,2,435738
+ORD00481481,Yura Yunita,Balikpapan,,02-24-2024,Festival,127493,Siska Wulandari,1,127493
+ORD00270048,Pamungkas,Bandung,Gedung Kesenian Jakarta,2025-06-07,VIP,253466,Gilang Permata,4,1013864
+ORD00392129,hindia,Jakarta,jogja expo center,03-15-2024,Silver,173669,Tgk. Lutfan Palastri,1,173669
+ORD00784375,FIERSA BESARI,Bandung,TENNIS INDOOR SENAYAN,2025-05-27,Festival,127493,Kacung Haryanto,4,509972
+ORD00426510,SAL PRIADI,Semarang,CIWALK,2025-04-12,VIP,253466,"Pia Jailani, S.IP",4,1013864
+ORD00243040,pamungkas,Medan,jogja expo center,02-02-2024,Silver,173669,,3,521007
+ORD00128621,Tiara Andini,Makassar,Sabuga,2025-07-11,,217869,Carla Thamrin,4,871476
+ORD00002337,Kunto Aji,Balikpapan,Trans Studio Bandung,2024-02-24,Gold,217869,"Ghaliyati Samosir, S.E.I",2,435738
+ORD00189062,sal priadi,Surabaya,jogja expo center,2024-12-08,Festival,127493,Jaka Mandala,3,382479
+ORD00604617,efek rumah kaca,Surabaya,gedung kesenian jakarta,02-20-2024,Festival,127493,"Bakianto Winarno, S.I.Kom",2,254986
+ORD00414665,isyana sarasvati,Semarang,trans studio bandung,08-26-2024,Festival,127493,R. Yance Mandasari,3,382479
+ORD00570839,Efek Rumah Kaca,Semarang,Taman Budaya,2023-10-17,Silver,173669,Ir. Paris Prasetyo,2,347338
+ORD00534993,PAMUNGKAS,Bandung,ISTORA SENAYAN,2025/05/29,VIP,253466,Dwi Farida,1,253466
+ORD00293177,Tulus,Surabaya,JCC,2024-08-08,Festival,127493,Yance Mahendra,2,254986
+ORD00299797,YURA YUNITA,Palembang,TRANS STUDIO BANDUNG,2023-07-28,VIP,253466,"Abyasa Adriansyah, S.Pt",1,253466
+ORD00691602,Banda Neira,Makassar,Taman Budaya,10-05-2024,Gold,217869,Emas Hardiansyah,3,653607
+ORD00277633,hindia,Makassar,gedung kesenian jakarta,,VIP,253466,"Winda Hardiansyah, S.E.",4,1013864
+ORD00316732,Tulus,Denpasar,JCC,07-19-2025,Silver,173669,Zulfa Oktaviani,3,521007
+ORD00625345,Bernadya,Surabaya,Taman Budaya,,Silver,173669,Yosef Firmansyah,4,694676
+ORD00636717,yura yunita,,taman budaya,2024-07-29,Festival,127493,Drs. Eka Puspasari,3,382479
+ORD00000044,isyana sarasvati,Jakarta,lapangan gasibu,2024-12-03,Gold,217869,Dasa Wibowo,5,1089345
+ORD00006586,Kunto Aji,Bandung,Istora Senayan,2025/02/20,Gold,217869,Sutan Cager Maryadi,3,653607
+ORD00263514,,Jakarta,Trans Studio Bandung,2024-10-05,Silver,173669,Cakrawangsa Pratiwi,2,347338
+ORD00231005,tiara andini,Denpasar,taman budaya,,Festival,127493,"Harsana Pratiwi, S.Farm",3,382479
+ORD00033320,Yura Yunita,Bandung,Gedung Kesenian Jakarta,2024-02-16,VIP,253466,Ega Gunarto,3,760398
+ORD00518789,FIERSA BESARI,Semarang,TRANS STUDIO BANDUNG,2023/08/17,Festival,127493,"Daruna Najmudin, M.TI.",4,509972
+ORD00051027,Tiara Andini,Makassar,Gedung Kesenian Jakarta,2024-05-16,VIP,,Nrima Tampubolon,1,253466
+ORD00314469,SAL PRIADI,Palembang,TRANS STUDIO BANDUNG,,Festival,127493,R. Sabrina Wibisono,2,254986
+ORD00253653,NOAH,Yogyakarta,ISTORA SENAYAN,2023/11/04,VIP,253466,Halima Suartini,2,506932
+ORD00606346,ARDHITO PRAMONO,Jakarta,ISTORA SENAYAN,2024-09-16,Gold,217869,Yessi Marbun,1,217869
+ORD00333887,isyana sarasvati,,lapangan gasibu,12-12-2023,VIP,253466,Widya Marpaung,2,506932
+ORD00244830,Raisa,Jakarta,Taman Budaya,2023-09-27,Gold,,Tantri Novitasari,1,217869
+ORD00015112,Tulus,Bandung,Taman Budaya,2023/12/27,Silver,173669,Yosef Budiman,1,173669
+ORD00202573,Dewa 19,Palembang,Istora Senayan,2024/12/13,Gold,217869,Tina Mahendra,3,
+,Ardhito Pramono,Medan,Ciwalk,2023-11-20,Festival,127493,Rini Natsir,3,382479
+ORD00522715,YURA YUNITA,Balikpapan,TENNIS INDOOR SENAYAN,2024-06-04,Gold,217869,Kezia Tamba,4,871476
+ORD00018913,ARDHITO PRAMONO,Yogyakarta,ISTORA SENAYAN,2024/01/13,Gold,,Nadine Uwais,2,435738
+ORD00209833,Ardhito Pramono,Makassar,Jogja Expo Center,2025/05/27,Festival,127493,"Hj. Sarah Waluyo, M.Pd",1,127493
+ORD00150900,Sal Priadi,Yogyakarta,JCC,2025-02-11,,173669,Candra Sirait,2,347338
+ORD00761418,Sal Priadi,Denpasar,Trans Studio Bandung,2025-03-09,Festival,127493,Cinta Mardhiyah,5,637465
+ORD00548452,bernadya,Jakarta,lapangan gasibu,04-22-2024,VIP,1,drg. Michelle Pudjiastuti,,253466
+ORD00373929,Dewa 19,Semarang,JCC,2023-10-23,Gold,217869,drg. Digdaya Astuti,4,871476
+ORD00019852,BERNADYA,,JCC,2024/07/08,Festival,127493,Rachel Simanjuntak,5,637465
+ORD00482174,Tiara Andini,Semarang,Istora Senayan,2023-09-24,Gold,217869,"Arsipatra Irawan, S.I.Kom",4,871476
+ORD00096968,Tulus,Makassar,Jogja Expo Center,05-24-2025,Festival,127493,Tgk. Hana Kusmawati,3,382479
+ORD00642411,dewa 19,Jakarta,istora senayan,2024-03-10,Silver,173669,Gantar Mardhiyah,3,521007
+ORD00411781,,Bandung,ISTORA SENAYAN,07-21-2024,Festival,127493,"Novi Zulkarnain, S.Gz",4,509972
+ORD00421023,FOURTWNTY,Yogyakarta,SABUGA,2024-11-28,Silver,173669,Humaira Sihombing,1,173669
+ORD00419382,Fiersa Besari,Denpasar,Lapangan Gasibu,2023-09-29,VIP,253466,Tgk. Samiah Wijaya,2,506932
+ORD00165971,Kunto Aji,Surabaya,Gedung Kesenian Jakarta,01-19-2024,,217869,Diana Simbolon,5,1089345
+ORD00201518,NADIN AMIZAH,Bandung,TRANS STUDIO BANDUNG,2024-09-25,,173669,Dariati Saptono,4,694676
+ORD00100005,,Surabaya,Lapangan Gasibu,04-01-2025,Silver,500000000,"Cecep Usada, M.TI.",1,173669
+ORD00454721,Tulus,Yogyakarta,Tennis Indoor Senayan,2024-07-14,Silver,173669,Dimas Mayasari,5,868345
+ORD00251212,dewa 19,Makassar,taman budaya,02-01-2025,Silver,173669,R.M. Lamar Melani,4,694676
+ORD00058496,Tulus,Jakarta,Tennis Indoor Senayan,,Festival,127493,"Dr. Ami Sudiati, M.TI.",4,509972
+ORD00038144,Banda Neira,Jakarta,Taman Budaya,09-26-2024,Silver,173669,Kasim Haryanto,2,347338
+ORD00382345,dewa 19,Balikpapan,istora senayan,02-03-2025,Silver,,Salsabila Waluyo,4,694676
+ORD00271680,Nadin Amizah,Surabaya,Taman Budaya,2024-03-03,Silver,173669,"R. Zulfa Andriani, S.IP",3,521007
+ORD00799657,YURA YUNITA,Balikpapan,JCC,2025/01/18,Gold,217869,Latika Suryatmi,3,653607
+ORD00285363,sal priadi,,jogja expo center,10-17-2023,Gold,217869,H. Vero Hutasoit,3,653607
+ORD00483697,Barasuara,Palembang,Jogja Expo Center,2024/03/03,VIP,253466,"Irnanto Budiman, S.Kom",2,506932
+ORD00118048,HINDIA,Medan,GEDUNG KESENIAN JAKARTA,2025-02-03,Festival,127493,Jamil Kurniawan,2,254986
+ORD00633335,,Denpasar,JCC,2024-06-05,Festival,1,Vivi Saptono,4,509972
+ORD00309498,YURA YUNITA,Makassar,CIWALK,2023-11-18,Silver,173669,Yosef Sihotang,2,347338
+ORD00530783,Fiersa Besari,Yogyakarta,Trans Studio Bandung,,Silver,173669,Ibrahim Mangunsong,2,347338
+ORD00620911,Yura Yunita,Denpasar,JCC,2024-04-03,Silver,173669,"Ir. Gara Prasasta, S.Pd",4,694676
+ORD00685590,Barasuara,Denpasar,Jogja Expo Center,04-24-2025,VIP,253466,"Tgk. Vivi Mustofa, S.Farm",3,760398
+ORD00669554,ARDHITO PRAMONO,Denpasar,LAPANGAN GASIBU,2025-01-25,Gold,217869,Winda Hasanah,5,
+ORD00442795,raisa,Balikpapan,tennis indoor senayan,2023-07-30,VIP,253466,Ana Sihombing,5,1267330
+ORD00686646,Sal Priadi,Yogyakarta,Tennis Indoor Senayan,,Festival,127493,Cut Zamira Rajata,3,382479
+ORD00133711,Raisa,Jakarta,Istora Senayan,2024/05/02,Silver,173669,Cinta Pratama,3,521007
+ORD00556636,Pamungkas,Semarang,Gedung Kesenian Jakarta,,Festival,127493,Nugraha Napitupulu,3,382479
+ORD00630690,Pamungkas,Jakarta,Sabuga,2024-08-30,Gold,217869,"Cut Raina Mandasari, S.I.Kom",3,653607
+ORD00303374,tulus,,ciwalk,2025/02/20,VIP,253466,Damar Winarsih,2,506932
+ORD00424515,fourtwnty,Semarang,trans studio bandung,2024/01/24,Festival,127493,Mustika Sitorus,2,254986
+ORD00472304,Tiara Andini,Surabaya,JCC,2024/02/12,Festival,127493,"T. Himawan Nuraini, S.IP",4,509972
+ORD00089163,ARDHITO PRAMONO,Semarang,TENNIS INDOOR SENAYAN,2024/10/04,VIP,253466,Irma Tarihoran,4,1013864
+ORD00318696,Tiara Andini,Bandung,Sabuga,2024-04-28,Gold,217869,KH. Baktiadi Tarihoran,2,435738
+ORD00442443,RAISA,Balikpapan,TENNIS INDOOR SENAYAN,2023-07-30,VIP,253466,Clara Nugroho,3,760398
+ORD00508580,Bernadya,Balikpapan,Ciwalk,2024-05-23,,253466,drg. Lega Nasyidah,4,1013864
+ORD00380750,barasuara,Semarang,jcc,2025/04/12,VIP,253466,"Jaya Sihotang, M.Ak",2,506932
+ORD00643697,Hindia,Medan,Gedung Kesenian Jakarta,2024-03-19,Gold,217869,Kasiran Maryati,5,1089345
+ORD00465816,Bernadya,Denpasar,,2024/09/23,VIP,253466,Ir. Paulin Tamba,1,253466
+ORD00108961,Yura Yunita,Semarang,Taman Budaya,2025-01-05,VIP,253466,KH. Akarsana Saputra,2,506932
+ORD00140980,Yura Yunita,Semarang,Istora Senayan,2023-09-17,Gold,217869,Safina Maulana,2,435738
+ORD00073543,Hindia,Makassar,Ciwalk,2023-09-07,Gold,217869,Asman Padmasari,4,871476
+ORD00612208,Barasuara,Palembang,Jogja Expo Center,2025-05-17,Silver,173669,Lili Hutagalung,,868345
+ORD00450801,,Surabaya,jcc,2024-07-20,Festival,127493,"Drs. Laila Winarsih, S.IP",3,382479
+ORD00161854,Tulus,Medan,Sabuga,10-25-2024,Festival,127493,"Empluk Irawan, S.Sos",1,127493
+ORD00582809,Bernadya,Surabaya,,2024-03-16,Festival,127493,Mala Manullang,3,382479
+ORD00235601,TULUS,Palembang,JOGJA EXPO CENTER,2023-09-08,Silver,173669,Cici Winarsih,3,521007
+ORD00417058,,Bandung,Ciwalk,2025-02-16,Festival,127493,"KH. Dirja Mangunsong, M.TI.",5,637465
+ORD00524512,Efek Rumah Kaca,Bandung,Lapangan Gasibu,07-23-2024,Gold,217869,Cemani Hardiansyah,2,435738
+ORD00383897,Raisa,,Istora Senayan,2025/02/17,VIP,253466,Cici Gunarto,1,253466
+ORD00241714,Isyana Sarasvati,,Taman Budaya,2025-06-16,Festival,127493,Kenzie Nurdiyanti,3,382479
+ORD00227158,noah,Makassar,ciwalk,2024-09-19,VIP,,Bakijan Prastuti,5,1267330
+ORD00660411,DEWA 19,Yogyakarta,TRANS STUDIO BANDUNG,08-05-2024,VIP,253466,Zulfa Tamba,3,
+ORD00386404,Pamungkas,Jakarta,JCC,05-03-2024,Gold,217869,Wahyu Sihotang,3,653607
+ORD00608166,Fourtwnty,Semarang,Gedung Kesenian Jakarta,2024-07-21,Gold,217869,Puti Uli Prasetya,5,1089345
+ORD00670109,Kunto Aji,Bandung,Sabuga,2024-09-12,Gold,217869,Lili Rahimah,5,
+,Banda Neira,Denpasar,Istora Senayan,2024/11/10,Gold,217869,"Eko Anggriawan, S.Pt",1,217869
+ORD00121366,Pamungkas,Palembang,,2025-06-01,Gold,217869,Umaya Pradana,5,1089345
+ORD00716092,BARASUARA,Surabaya,LAPANGAN GASIBU,03-08-2024,Silver,173669,Ibrahim Firgantoro,,347338
+ORD00427689,ardhito pramono,Semarang,,12-27-2023,Festival,127493,Eli Natsir,2,254986
+ORD00327094,sal priadi,Balikpapan,sabuga,2025/07/14,Gold,217869,Karya Purnawati,4,871476
+ORD00304024,Maliq & D'Essentials,Medan,Trans Studio Bandung,2024-07-03,VIP,253466,Natalia Astuti,2,506932
+ORD00128419,,Makassar,SABUGA,2025/07/11,Gold,217869,"Ir. Uli Widodo, M.Pd",4,871476
+ORD00789202,Fourtwnty,,Jogja Expo Center,2023/12/18,Gold,217869,Tami Wastuti,2,435738
+ORD00628235,NOAH,Palembang,TENNIS INDOOR SENAYAN,2025-06-08,,173669,"Elisa Situmorang, S.Sos",1,173669
+ORD00442987,Raisa,Balikpapan,Tennis Indoor Senayan,2023-07-30,VIP,253466,Karman Saputra,1,253466
+ORD00049670,Efek Rumah Kaca,Medan,Istora Senayan,2024-01-22,VIP,253466,Aisyah Uwais,5,1267330
+ORD00275400,Efek Rumah Kaca,Denpasar,Tennis Indoor Senayan,2024-11-12,Gold,217869,Adika Setiawan,3,653607
+ORD00737827,PAMUNGKAS,Surabaya,TAMAN BUDAYA,2025-04-01,Silver,173669,"Tgk. Ami Najmudin, M.Ak",2,347338
+ORD00490432,ardhito pramono,Balikpapan,taman budaya,2023-11-20,Silver,173669,Dr. Ihsan Wacana,4,694676
+ORD00289347,Banda Neira,Semarang,Ciwalk,2025-01-09,Silver,173669,Jane Wastuti,5,868345
+ORD00556588,Pamungkas,Semarang,Gedung Kesenian Jakarta,2023-11-21,Festival,127493,Drs. Wisnu Siregar,1,127493
+ORD00380440,Efek Rumah Kaca,Medan,Tennis Indoor Senayan,2025-07-13,Festival,127493,Vera Sihotang,2,254986
+ORD00291459,Bernadya,Yogyakarta,Tennis Indoor Senayan,2025-05-18,Silver,173669,drg. Edi Hakim,2,347338
+,NOAH,Balikpapan,CIWALK,07-08-2024,Gold,217869,Anggabaya Utami,3,653607
+ORD00222456,Tiara Andini,Palembang,Ciwalk,2023-11-23,Gold,217869,Lili Safitri,3,653607
+ORD00252446,Fiersa Besari,Denpasar,Lapangan Gasibu,02-17-2024,Silver,173669,Dr. Galuh Lestari,1,173669
+ORD00157832,Fiersa Besari,Makassar,Gedung Kesenian Jakarta,2024/02/03,,253466,"Tgk. Bagiya Simanjuntak, M.Farm",5,1267330
+,Bernadya,Surabaya,Gedung Kesenian Jakarta,2023-09-17,Silver,173669,Koko Maryati,5,868345
+ORD00102684,BERNADYA,Palembang,ISTORA SENAYAN,2024-05-19,Silver,173669,Anggabaya Simbolon,2,347338
+ORD00225624,Maliq & D'Essentials,Denpasar,Lapangan Gasibu,2024-10-17,VIP,253466,"R. Umar Zulkarnain, S.Farm",4,1013864
+ORD00228625,BARASUARA,Balikpapan,LAPANGAN GASIBU,2024-03-25,VIP,253466,,3,760398
+ORD00465904,Bernadya,Denpasar,Sabuga,2024/09/23,VIP,253466,R.A. Michelle Zulkarnain,2,506932
+ORD00722079,MALIQ & D'ESSENTIALS,Denpasar,,09-19-2023,VIP,253466,Irfan Namaga,1,253466
+,Ardhito Pramono,Denpasar,Lapangan Gasibu,01-25-2025,Gold,217869,Putu Wulandari,3,653607
+ORD00636151,Dewa 19,Yogyakarta,Tennis Indoor Senayan,2025/01/12,Gold,217869,Dr. Yusuf Hardiansyah,2,435738
+,ardhito pramono,Semarang,gedung kesenian jakarta,2024/05/02,Festival,127493,Kani Wasita,1,127493
+ORD00623664,KUNTO AJI,Jakarta,TRANS STUDIO BANDUNG,2024-04-26,Silver,173669,"Dimaz Zulkarnain, S.Farm",1,173669
+ORD00755656,ARDHITO PRAMONO,Denpasar,JCC,2025/05/05,Festival,127493,"Wirda Hartati, S.H.",1,
+ORD00210961,Efek Rumah Kaca,Palembang,Sabuga,09-09-2023,Gold,217869,Kenari Puspasari,3,653607
+ORD00464377,FOURTWNTY,Semarang,SABUGA,2024-06-21,VIP,253466,Karimah Marpaung,5,1267330
+ORD00357135,MALIQ & D'ESSENTIALS,Bandung,TAMAN BUDAYA,04-05-2024,VIP,253466,Catur Sirait,5,1267330
+ORD00010107,Tiara Andini,Jakarta,Tennis Indoor Senayan,2023/08/19,VIP,253466,Clara Rahmawati,3,760398
+ORD00447239,Efek Rumah Kaca,Surabaya,Ciwalk,2025-03-21,VIP,,Unggul Firgantoro,5,1267330
+ORD00163255,ardhito pramono,Medan,tennis indoor senayan,,Silver,173669,dr. Opung Maulana,4,694676
+ORD00615248,nadin amizah,Medan,jcc,2024-07-10,Gold,217869,"dr. Lidya Suryono, S.Ked",4,871476
+ORD00585240,EFEK RUMAH KACA,Semarang,TENNIS INDOOR SENAYAN,2023-10-28,Silver,173669,Zaenab Yuniar,2,347338
+ORD00769613,Bernadya,Yogyakarta,JCC,08-10-2024,VIP,253466,"R.M. Harjo Salahudin, S.T.",5,1267330
+ORD00452509,Pamungkas,Surabaya,Gedung Kesenian Jakarta,02-04-2024,Festival,127493,,4,509972
+ORD00521929,Barasuara,Makassar,Trans Studio Bandung,2025-04-05,VIP,253466,Eko Waluyo,5,1267330
+ORD00340617,pamungkas,Bandung,trans studio bandung,2025-04-15,Silver,173669,"Jelita Rajata, S.E.",1,
+ORD00255354,Raisa,Denpasar,Sabuga,2024-03-15,,127493,"drg. Ulva Sirait, S.Farm",3,382479
+ORD00482009,Tiara Andini,Semarang,Istora Senayan,2023/09/24,Gold,217869,"Indah Riyanti, S.Sos",3,653607
+ORD00390907,bernadya,Balikpapan,ciwalk,2025/02/04,Festival,127493,Kezia Uyainah,2,254986
+ORD00089835,Kunto Aji,Denpasar,Lapangan Gasibu,2024-02-15,Silver,173669,"Drs. Cayadi Mangunsong, S.T.",5,868345
+ORD00041074,SAL PRIADI,Semarang,ISTORA SENAYAN,2024-11-17,,253466,"Marsudi Widiastuti, M.Kom.",4,1013864
+ORD00257157,efek rumah kaca,Yogyakarta,tennis indoor senayan,2024-03-27,VIP,253466,Najwa Setiawan,3,760398
+ORD00163941,Ardhito Pramono,Medan,Tennis Indoor Senayan,2023/09/19,Silver,173669,"Tgk. Paulin Sirait, S.Ked",2,347338
+ORD00238951,TIARA ANDINI,Denpasar,TAMAN BUDAYA,2023/09/16,Festival,127493,Arta Wahyuni,2,254986
+ORD00567074,TULUS,Yogyakarta,TAMAN BUDAYA,2025-02-02,Silver,173669,Ir. Kacung Pangestu,2,347338
+ORD00047590,Tulus,Yogyakarta,Trans Studio Bandung,2023/09/25,Silver,173669,Bakiono Iswahyudi,5,868345
+ORD00466380,,Denpasar,Sabuga,2024/09/23,VIP,253466,"Kasusra Hartati, S.H.",1,253466
+ORD00570178,Dewa 19,Medan,Trans Studio Bandung,2023/11/30,Festival,127493,Sari Mardhiyah,1,127493
+ORD00334934,Isyana Sarasvati,Yogyakarta,Tennis Indoor Senayan,2025/07/13,Silver,173669,Puti Ifa Prakasa,1,173669
+ORD00603566,nadin amizah,Medan,ciwalk,2024-09-03,Festival,127493,Iriana Dongoran,5,637465
+ORD00760030,RAISA,Jakarta,ISTORA SENAYAN,2024-10-15,Festival,127493,Darimin Suwarno,2,254986
+ORD00730610,kunto aji,Balikpapan,trans studio bandung,2024/09/20,Silver,173669,Hafshah Laksmiwati,5,868345
+ORD00434484,MALIQ & D'ESSENTIALS,Denpasar,SABUGA,06-11-2024,Festival,127493,Hj. Febi Prakasa,2,254986
+ORD00768681,Banda Neira,Denpasar,Taman Budaya,2025-04-18,Gold,1,Vera Usamah,1,217869
+ORD00727419,Noah,Balikpapan,Istora Senayan,2025/04/10,VIP,253466,,3,760398
+ORD00634589,Noah,Jakarta,Gedung Kesenian Jakarta,2024-09-29,Silver,173669,Azalea Gunawan,3,521007
+ORD00232653,TIARA ANDINI,Balikpapan,TAMAN BUDAYA,05-18-2025,,127493,"Tami Anggriawan, M.TI.",2,254986
+ORD00768243,Nadin Amizah,Makassar,JCC,11-30-2024,Gold,217869,"drg. Keisha Gunawan, S.E.I",5,1089345
+ORD00181320,fiersa besari,Denpasar,gedung kesenian jakarta,2023/10/07,Silver,173669,Restu Dongoran,3,521007
+ORD00310395,HINDIA,Makassar,,2023-08-22,VIP,253466,Kariman Maryati,1,253466
+ORD00309655,Yura Yunita,Makassar,Ciwalk,2023-11-18,Silver,,Warsita Januar,5,868345
+ORD00506978,Yura Yunita,Palembang,Lapangan Gasibu,2024/04/24,VIP,253466,Eva Tamba,5,1267330
+ORD00727606,NOAH,Balikpapan,ISTORA SENAYAN,2025-04-10,VIP,253466,"Jaeman Marpaung, S.I.Kom",5,1267330
+ORD00075790,PAMUNGKAS,Jakarta,ISTORA SENAYAN,2025/04/11,Gold,217869,"Sutan Ganda Maryadi, M.Kom.",1,217869
+,Bernadya,Yogyakarta,Taman Budaya,12-04-2023,VIP,253466,Tomi Pradana,1,253466
+ORD00227236,Noah,Makassar,Ciwalk,2024-09-19,VIP,253466,,3,760398
+ORD00815610,Tulus,Makassar,Gedung Kesenian Jakarta,2025-01-23,Gold,217869,Ian Simanjuntak,5,1089345
+ORD00780400,isyana sarasvati,Balikpapan,jcc,2024-09-25,Silver,173669,Luthfi Rahmawati,4,694676
+ORD00571133,Hindia,Yogyakarta,Gedung Kesenian Jakarta,2024-10-17,Gold,217869,Ophelia Gunawan,5,1089345
+ORD00601580,Dewa 19,Balikpapan,JCC,2023-11-21,VIP,253466,,2,506932
+ORD00469287,Ardhito Pramono,Medan,Ciwalk,2025-02-22,Festival,127493,Asman Hardiansyah,1,127493
+ORD00728004,Noah,Balikpapan,Istora Senayan,2025/04/10,VIP,253466,"Candrakanta Hutagalung, M.Farm",1,253466
+ORD00297111,fiersa besari,,trans studio bandung,2023/10/05,Silver,173669,Hj. Tari Halimah,2,347338
+ORD00472862,BARASUARA,Semarang,TRANS STUDIO BANDUNG,02-28-2025,Festival,127493,Oman Najmudin,,382479
+ORD00178190,Sal Priadi,Yogyakarta,Tennis Indoor Senayan,2025-03-26,Gold,217869,Tomi Hardiansyah,4,871476
+ORD00268147,fiersa besari,Yogyakarta,jogja expo center,2024-04-22,Silver,173669,Candra Rahmawati,1,173669
+ORD00358652,Nadin Amizah,Jakarta,Trans Studio Bandung,2025/03/17,Silver,173669,,4,694676
+ORD00781535,Efek Rumah Kaca,Balikpapan,Tennis Indoor Senayan,2023-08-23,Festival,127493,"Drs. Ella Saefullah, S.Farm",2,254986
+ORD00520363,isyana sarasvati,Balikpapan,istora senayan,04-12-2024,VIP,253466,Lasmanto Hidayat,5,1267330
+ORD00793431,Sal Priadi,Semarang,Sabuga,2023-09-04,Festival,127493,,1,127493
+ORD00708362,Kunto Aji,Semarang,Lapangan Gasibu,2024-01-05,Silver,173669,,5,868345
+ORD00704777,Banda Neira,Semarang,Sabuga,2024-10-09,VIP,253466,Wahyu Sihombing,4,1013864
+ORD00348225,kunto aji,Denpasar,jcc,2023/12/28,Gold,217869,"H. Mursita Prasetya, M.Ak",5,1089345
+ORD00185060,Banda Neira,Bandung,Lapangan Gasibu,2024/06/09,VIP,1,Drs. Jail Pratama,5,1267330
+ORD00750806,FOURTWNTY,Palembang,LAPANGAN GASIBU,06-15-2025,Silver,173669,Yani Zulaika,3,521007
+ORD00432811,NOAH,Denpasar,TAMAN BUDAYA,2023-09-20,Festival,127493,Wahyu Sinaga,2,254986
+ORD00536464,RAISA,Medan,TRANS STUDIO BANDUNG,09-03-2023,Gold,217869,Ayu Pradana,4,871476
+ORD00784392,FIERSA BESARI,,TENNIS INDOOR SENAYAN,2025/05/27,Festival,127493,"Eja Mardhiyah, S.Pd",5,637465
+ORD00388094,FOURTWNTY,Surabaya,CIWALK,2025-07-10,Gold,217869,"Drs. Gasti Hartati, S.Ked",5,1089345
+ORD00059753,PAMUNGKAS,Denpasar,TRANS STUDIO BANDUNG,2025/01/06,Gold,217869,,4,871476
+ORD00494732,Bernadya,Denpasar,Taman Budaya,,Gold,217869,"Dt. Ibun Purwanti, M.Farm",5,1089345
+ORD00159675,Dewa 19,Jakarta,Trans Studio Bandung,10-24-2024,VIP,253466,Maya Kurniawan,1,253466
+ORD00244175,Nadin Amizah,Balikpapan,Tennis Indoor Senayan,2023-08-25,Gold,217869,"Drs. Pia Mahendra, S.Farm",5,1089345
+ORD00330505,tulus,Yogyakarta,lapangan gasibu,2025/04/15,VIP,253466,"Dr. Cindy Nababan, S.Pd",4,1013864
+ORD00272411,Ardhito Pramono,Surabaya,Taman Budaya,06-30-2024,Gold,217869,"Dr. Vivi Rahmawati, S.IP",,1089345
+ORD00651021,dewa 19,Semarang,jcc,2025-01-21,Festival,127493,Citra Mangunsong,3,382479
+ORD00299516,FIERSA BESARI,Medan,TAMAN BUDAYA,08-29-2023,Festival,127493,Garang Sirait,3,382479
+ORD00022519,Ardhito Pramono,Makassar,Ciwalk,05-31-2025,Festival,127493,"Violet Mulyani, S.Gz",4,509972
+ORD00164742,Banda Neira,Yogyakarta,Ciwalk,11-27-2024,Silver,173669,Jaya Putra,1,173669
+ORD00438933,hindia,Palembang,lapangan gasibu,2024-05-19,Silver,173669,"Dt. Karja Simbolon, S.H.",5,868345
+ORD00555094,SAL PRIADI,Makassar,CIWALK,2023-08-10,VIP,253466,"Taufan Fujiati, M.TI.",2,506932
+ORD00438639,Raisa,Surabaya,Gedung Kesenian Jakarta,2025-01-16,VIP,253466,"Cindy Laksmiwati, S.I.Kom",4,1013864
+ORD00713028,NOAH,Semarang,CIWALK,2023-11-24,Gold,217869,Karen Thamrin,3,653607
+ORD00608719,Fourtwnty,Semarang,Gedung Kesenian Jakarta,2024/07/21,Gold,500000000,"dr. Alambana Hassanah, S.T.",3,653607
+ORD00066549,Efek Rumah Kaca,Bandung,Sabuga,05-15-2024,Gold,217869,Dr. Darmana Hakim,1,217869
+ORD00136042,Raisa,Makassar,,2025-04-12,Festival,127493,Dimaz Siregar,2,254986
+ORD00173929,fiersa besari,Denpasar,jogja expo center,2024/01/08,Gold,217869,Ir. Indah Nainggolan,5,1089345
+ORD00305756,Pamungkas,Surabaya,Trans Studio Bandung,2024/10/03,Silver,99999999,Omar Natsir,5,868345
+ORD00096827,Tulus,Makassar,Jogja Expo Center,2025-05-24,Festival,,Yosef Salahudin,5,637465
+ORD00788872,Maliq & D'Essentials,Surabaya,Gedung Kesenian Jakarta,2023-09-06,Gold,217869,"Jagaraga Halimah, S.H.",4,871476
+ORD00740528,Noah,Semarang,Lapangan Gasibu,2024-10-10,Gold,217869,"Raisa Winarsih, M.Kom.",4,
+ORD00164196,Yura Yunita,Bandung,Taman Budaya,2025-01-25,VIP,253466,Chelsea Firmansyah,3,760398
+ORD00433053,NOAH,Denpasar,TAMAN BUDAYA,09-20-2023,Festival,127493,"Gawati Kusumo, S.E.",5,637465
+ORD00205523,Isyana Sarasvati,Semarang,Lapangan Gasibu,2025-07-14,Festival,127493,Kawaya Irawan,1,127493
+ORD00460493,ISYANA SARASVATI,Makassar,JOGJA EXPO CENTER,2025-06-17,Festival,127493,Sutan Dimaz Sitorus,2,254986
+ORD00593657,Efek Rumah Kaca,Semarang,Ciwalk,,VIP,253466,Nadine Salahudin,3,760398
+ORD00149501,Efek Rumah Kaca,Balikpapan,Ciwalk,07-16-2025,VIP,253466,Cakrabirawa Sitompul,1,253466
+ORD00211928,Yura Yunita,Surabaya,Ciwalk,05-15-2024,Gold,217869,Devi Lailasari,3,653607
+ORD00585377,EFEK RUMAH KACA,Semarang,TENNIS INDOOR SENAYAN,2023-10-28,Silver,173669,Cut Zelaya Anggriawan,1,
+ORD00232763,,Balikpapan,Taman Budaya,2025-05-18,Festival,127493,"Vivi Saptono, S.H.",5,637465
+ORD00430717,Fourtwnty,Denpasar,Taman Budaya,2024-02-01,Silver,173669,"Prasetyo Puspita, S.T.",5,868345
+ORD00236488,SAL PRIADI,Surabaya,TAMAN BUDAYA,09-26-2023,Festival,127493,Nilam Saptono,5,637465
+ORD00619054,tulus,Surabaya,lapangan gasibu,2023-08-17,VIP,253466,Suci Maryadi,4,1013864
+ORD00551265,Kunto Aji,Balikpapan,Taman Budaya,2023/08/26,Festival,127493,Indah Permata,3,382479
+,Pamungkas,Yogyakarta,Trans Studio Bandung,2024/07/17,VIP,1,"Dt. Sakti Pranowo, M.Farm",2,506932
+ORD00557268,KUNTO AJI,Jakarta,ISTORA SENAYAN,01-27-2024,VIP,253466,"Ir. Salsabila Simbolon, S.E.I",3,760398
+ORD00274534,raisa,Semarang,,2024-03-16,Gold,217869,"Icha Situmorang, M.Ak",2,435738
+ORD00358591,Nadin Amizah,Jakarta,Trans Studio Bandung,2025-03-17,Silver,173669,Reksa Samosir,1,173669
+ORD00492008,,Makassar,Tennis Indoor Senayan,2025-01-15,Festival,127493,Halima Nugroho,5,637465
+ORD00230152,NADIN AMIZAH,Jakarta,ISTORA SENAYAN,2024-10-21,Gold,217869,,2,435738
+ORD00286639,Efek Rumah Kaca,Jakarta,Taman Budaya,,VIP,253466,"dr. Oliva Nashiruddin, S.E.",1,253466
+ORD00133217,Maliq & D'Essentials,Balikpapan,Ciwalk,2023/10/20,Gold,217869,Prabawa Salahudin,5,1089345
+ORD00774068,Pamungkas,,Lapangan Gasibu,05-22-2025,Gold,217869,"Hani Suryatmi, S.Sos",1,217869
+ORD00400515,Ardhito Pramono,Medan,Sabuga,2025-07-25,Gold,217869,Tantri Putra,1,217869
+ORD00177234,EFEK RUMAH KACA,Makassar,CIWALK,2024-10-15,Gold,217869,"R. Luis Hasanah, M.Ak",1,217869
+,Nadin Amizah,Yogyakarta,Trans Studio Bandung,2024-12-04,Festival,500000000,"Mursinin Oktaviani, M.Pd",3,382479
+ORD00577986,kunto aji,Palembang,lapangan gasibu,2024-10-27,Gold,217869,"Ajeng Uyainah, S.Sos",2,435738
+ORD00194235,NOAH,Balikpapan,CIWALK,07-08-2024,Gold,217869,Utama Fujiati,3,653607
+ORD00334328,hindia,Medan,jcc,02-17-2025,Festival,127493,Cemplunk Pratiwi,4,509972
+ORD00502745,Maliq & D'Essentials,Balikpapan,Tennis Indoor Senayan,2023-08-10,,127493,Nyoman Nasyidah,1,127493
+ORD00082772,Fiersa Besari,Bandung,Lapangan Gasibu,2024-08-16,Festival,127493,Ajeng Nashiruddin,5,637465
+ORD00809725,yura yunita,Palembang,sabuga,2023-10-22,Silver,173669,,4,694676
+ORD00158344,kunto aji,Semarang,tennis indoor senayan,2024-01-16,Gold,217869,Rendy Anggraini,1,217869
+ORD00659599,Barasuara,Jakarta,JCC,01-10-2024,Festival,127493,dr. Nasrullah Napitupulu,1,127493
+ORD00135735,Raisa,Makassar,JCC,,Festival,127493,Nasab Hardiansyah,5,637465
+ORD00224633,noah,Jakarta,istora senayan,2023-09-09,Silver,173669,Drs. Jamalia Yuliarti,5,
+ORD00714671,MALIQ & D'ESSENTIALS,Semarang,CIWALK,2025-01-11,Festival,127493,"drg. Utama Wahyudin, M.Ak",4,509972
+,Nadin Amizah,Makassar,JCC,11-30-2024,Gold,217869,Zulaikha Hutasoit,1,217869
+ORD00703879,nadin amizah,Semarang,trans studio bandung,06-23-2024,VIP,,Daryani Wahyudin,3,760398
+,BARASUARA,Surabaya,GEDUNG KESENIAN JAKARTA,2025/05/10,VIP,253466,Anita Simanjuntak,4,1013864
+ORD00375813,Banda Neira,Makassar,Ciwalk,10-15-2024,Festival,127493,"T. Rama Narpati, M.Pd",3,382479
+ORD00661389,,Balikpapan,lapangan gasibu,2024-10-25,Silver,173669,Zizi Purnawati,3,521007
+ORD00424264,Bernadya,Bandung,Lapangan Gasibu,2025/02/28,Silver,173669,Lidya Susanti,2,347338
+ORD00517766,pamungkas,Surabaya,istora senayan,2024-02-22,,127493,Najwa Wasita,2,254986
+ORD00497447,Maliq & D'Essentials,Balikpapan,Lapangan Gasibu,2024-06-12,Silver,173669,Teguh Puspita,1,173669
+ORD00165954,kunto aji,Surabaya,gedung kesenian jakarta,2024-01-19,Gold,217869,"Asmadi Pertiwi, M.Farm",1,217869
+ORD00340801,Pamungkas,Bandung,Trans Studio Bandung,2025-04-15,Silver,173669,"R.A. Titin Hutagalung, S.Pt",3,521007
+ORD00614533,ARDHITO PRAMONO,Denpasar,,06-09-2025,Festival,127493,Samiah Padmasari,5,637465
+ORD00733391,FOURTWNTY,Denpasar,GEDUNG KESENIAN JAKARTA,2025-06-30,Festival,127493,Ir. Cakrawangsa Maulana,1,127493
+ORD00283112,Tiara Andini,Yogyakarta,Ciwalk,2025-06-07,Silver,173669,Dr. Lega Prayoga,3,521007
+ORD00172802,raisa,Jakarta,jogja expo center,2024-12-26,,253466,Safina Zulkarnain,3,760398
+ORD00274062,Dewa 19,Balikpapan,Ciwalk,01-22-2025,Festival,127493,"R. Belinda Pradipta, S.Gz",3,382479
+ORD00791454,bernadya,Yogyakarta,gedung kesenian jakarta,2024-11-20,Gold,217869,Kenzie Utama,3,653607
+ORD00625142,Barasuara,Balikpapan,Lapangan Gasibu,,Festival,127493,"R. Eva Ramadan, S.Gz",2,254986
+ORD00555920,Raisa,Semarang,Jogja Expo Center,2024/11/19,Gold,217869,Kamaria Thamrin,4,871476
+ORD00362781,YURA YUNITA,Bandung,ISTORA SENAYAN,,Gold,217869,"Iriana Yulianti, M.Kom.",2,435738
+ORD00814279,Bernadya,Denpasar,Ciwalk,2024-03-08,VIP,253466,Mujur Yulianti,3,760398
+ORD00719822,Kunto Aji,Palembang,Trans Studio Bandung,2025-01-22,Festival,127493,Kadir Prasasta,5,637465
+ORD00314160,,Palembang,Trans Studio Bandung,2024-06-23,Festival,127493,"Dr. Kania Melani, S.Pd",3,382479
+ORD00649620,,Semarang,Trans Studio Bandung,04-07-2024,Gold,217869,"Sutan Kusuma Utama, S.E.I",4,871476
+ORD00002737,Bernadya,Semarang,Istora Senayan,2024/02/01,Gold,217869,"Ir. Capa Damanik, S.Ked",2,435738
+,Fiersa Besari,Bandung,Ciwalk,2023/09/18,Festival,127493,Cici Dongoran,3,382479
+ORD00257500,EFEK RUMAH KACA,Yogyakarta,TENNIS INDOOR SENAYAN,2024-03-27,VIP,253466,Maryadi Yulianti,1,253466
+ORD00473708,Fourtwnty,Surabaya,JCC,2024-02-03,Gold,217869,"Uli Permadi, S.Pt",5,1089345
+ORD00289559,Banda Neira,Semarang,Ciwalk,2025-01-09,Silver,173669,"Drs. Labuh Novitasari, S.I.Kom",3,521007
+ORD00423247,Fourtwnty,Surabaya,Sabuga,2025-04-21,VIP,253466,,5,1267330
+ORD00114984,,Yogyakarta,tennis indoor senayan,2024/06/27,Festival,127493,"Cayadi Marbun, M.Ak",4,509972
+ORD00253289,BERNADYA,Palembang,ISTORA SENAYAN,05-28-2024,Silver,173669,Ikin Simbolon,4,694676
+ORD00217800,MALIQ & D'ESSENTIALS,Surabaya,CIWALK,2025-02-12,Silver,173669,Ratna Wijayanti,1,173669
+ORD00771308,NADIN AMIZAH,Semarang,JCC,2024-04-21,Festival,127493,Halima Hidayat,3,382479
+ORD00797903,Hindia,Palembang,Taman Budaya,2025-07-15,Gold,217869,Nadine Thamrin,1,217869
+ORD00106716,Nadin Amizah,Yogyakarta,Taman Budaya,2023/08/03,Silver,173669,"Hj. Tantri Farida, S.E.I",,521007
+,SAL PRIADI,Semarang,SABUGA,2023/09/04,Festival,127493,Carla Sudiati,4,509972
+ORD00513126,Tiara Andini,Makassar,JCC,2024/09/22,Festival,127493,Vera Setiawan,3,382479
+ORD00010135,Tiara Andini,Jakarta,Tennis Indoor Senayan,2023-08-19,VIP,253466,Victoria Haryanti,3,760398
+ORD00414996,Isyana Sarasvati,Semarang,Trans Studio Bandung,2024-08-26,Festival,127493,"Puti Zulaikha Nainggolan, S.E.I",4,509972
+ORD00600538,Dewa 19,Bandung,JCC,2024/07/17,VIP,500000000,Tgk. Safina Nainggolan,1,253466
+ORD00658658,SAL PRIADI,Palembang,SABUGA,2025/01/12,VIP,253466,Farah Saefullah,1,
+ORD00159040,Sal Priadi,Makassar,Sabuga,2024-04-13,Gold,217869,Michelle Halim,2,
+ORD00786258,KUNTO AJI,Palembang,JOGJA EXPO CENTER,07-26-2023,Gold,217869,Ir. Farhunnisa Sihotang,5,1089345
+ORD00527073,Efek Rumah Kaca,Denpasar,Taman Budaya,2024/09/12,VIP,253466,Natalia Anggriawan,4,1013864
+ORD00628055,noah,Palembang,tennis indoor senayan,2025-06-08,Silver,1,Vera Yulianti,1,173669
+ORD00228234,Efek Rumah Kaca,Semarang,JCC,2025-02-25,Festival,127493,Nilam Dabukke,5,637465
+ORD00405269,Bernadya,Bandung,Jogja Expo Center,2024-10-10,Gold,217869,Langgeng Maryati,5,1089345
+ORD00346216,BARASUARA,Jakarta,TRANS STUDIO BANDUNG,2025-06-02,Gold,1,Mala Kusmawati,3,653607
+ORD00269042,Hindia,Yogyakarta,JCC,2025-06-09,VIP,253466,Mumpuni Agustina,1,253466
+ORD00545079,Fiersa Besari,Makassar,Ciwalk,2023-09-27,VIP,253466,"Jumari Aryani, M.Ak",3,760398
+ORD00571799,Dewa 19,Palembang,Istora Senayan,2023-08-14,Silver,173669,"Kasiyah Mandala, S.Pt",2,347338
+ORD00358981,NADIN AMIZAH,Jakarta,TRANS STUDIO BANDUNG,2025-03-17,Silver,173669,Mustika Zulaika,5,868345
+ORD00480083,EFEK RUMAH KACA,Palembang,ISTORA SENAYAN,,VIP,253466,"Iriana Dabukke, S.T.",1,253466
+ORD00570727,Efek Rumah Kaca,Semarang,Taman Budaya,2023-10-17,Silver,173669,Ratna Saptono,2,347338
+ORD00391773,HINDIA,Jakarta,JOGJA EXPO CENTER,,Silver,173669,"Prabu Usamah, S.Sos",5,868345
+ORD00182384,Barasuara,Yogyakarta,Taman Budaya,10-09-2023,Gold,217869,Betania Mustofa,1,217869
+ORD00566043,Dewa 19,Makassar,Gedung Kesenian Jakarta,2024-11-08,,173669,Unjani Rajata,3,521007
+ORD00788690,Tiara Andini,Yogyakarta,Lapangan Gasibu,06-10-2024,Gold,217869,"Qori Tarihoran, M.TI.",5,1089345
+ORD00090858,Nadin Amizah,Jakarta,Taman Budaya,2024-06-22,Silver,173669,"Reksa Tamba, S.Pd",2,347338
+ORD00543522,Noah,,Jogja Expo Center,2025/05/02,VIP,253466,Eka Maulana,4,1013864
+ORD00428273,Isyana Sarasvati,Yogyakarta,Sabuga,2023/11/17,Silver,173669,Ratih Mayasari,4,694676
+,noah,Semarang,gedung kesenian jakarta,08-08-2024,Festival,127493,Prayogo Santoso,2,254986
+ORD00798124,Pamungkas,Palembang,Ciwalk,2024/03/05,VIP,253466,Vanesa Suryatmi,4,1013864
+,BERNADYA,Yogyakarta,CIWALK,2024-02-27,Festival,127493,Jayeng Utami,3,382479
+ORD00169632,BANDA NEIRA,,LAPANGAN GASIBU,2024-04-07,Festival,127493,"Dr. Heru Agustina, S.Sos",3,382479
+ORD00095270,Barasuara,Semarang,Gedung Kesenian Jakarta,2024-08-12,Festival,127493,Mila Zulaika,4,
+ORD00123747,Barasuara,Medan,Gedung Kesenian Jakarta,2024-12-03,Silver,173669,Puspa Aryani,4,694676
+ORD00378303,Raisa,Yogyakarta,Lapangan Gasibu,2023/08/29,Silver,173669,"Wulan Manullang, S.E.I",5,868345
+ORD00767353,nadin amizah,Makassar,jcc,2024-11-30,Gold,217869,"Lantar Usamah, M.M.",5,1089345
+ORD00388765,Maliq & D'Essentials,Palembang,Gedung Kesenian Jakarta,2024/11/21,Gold,217869,"Cut Michelle Santoso, S.E.",4,
+ORD00302281,Tulus,Semarang,,2024-12-01,Silver,173669,Cawisono Dabukke,4,694676
+ORD00601654,Dewa 19,Balikpapan,JCC,2023-11-21,VIP,253466,,4,1013864
+ORD00048316,pamungkas,Semarang,ciwalk,2025-05-20,Festival,127493,Raharja Kuswoyo,1,127493
+ORD00000628,Raisa,Bandung,Taman Budaya,2023/10/20,VIP,253466,Adhiarja Samosir,5,1267330
+ORD00070496,FOURTWNTY,Balikpapan,TAMAN BUDAYA,2024/01/12,Gold,217869,Usman Usamah,2,
+ORD00355688,Dewa 19,Semarang,Istora Senayan,2023-12-23,Gold,217869,Gilda Kuswandari,2,435738
+ORD00546929,Bernadya,Palembang,Sabuga,2025/02/26,Gold,217869,Kala Firmansyah,3,653607
+ORD00100458,isyana sarasvati,,lapangan gasibu,01-04-2025,Festival,127493,"Dt. Akarsana Hariyah, S.I.Kom",1,127493
+ORD00098875,Bernadya,Yogyakarta,Trans Studio Bandung,2024/11/24,VIP,253466,Dr. Daru Waluyo,,253466
+ORD00386080,Pamungkas,Jakarta,JCC,2024-05-03,Gold,217869,Caturangga Purwanti,1,217869
+ORD00343905,kunto aji,Denpasar,lapangan gasibu,2025/03/28,Silver,173669,Ajiman Nugroho,4,694676
+ORD00193789,tulus,Medan,jcc,12-20-2023,Silver,173669,"Tgk. Olivia Purnawati, S.T.",3,521007
+ORD00729323,Tulus,Yogyakarta,Trans Studio Bandung,2023-12-26,Festival,,"Dr. Rahman Januar, M.Farm",5,637465
+ORD00434550,Maliq & D'Essentials,Denpasar,Sabuga,06-11-2024,Festival,127493,Puti Nashiruddin,3,
+ORD00001072,Fourtwnty,Jakarta,Istora Senayan,08-14-2023,VIP,,"Cawuk Rahimah, S.Ked",3,760398
+ORD00199661,yura yunita,Balikpapan,lapangan gasibu,2024-07-04,Silver,173669,Daruna Anggriawan,3,521007
+ORD00818181,Hindia,Yogyakarta,Istora Senayan,2025-05-04,VIP,253466,"drg. Nyoman Siregar, S.E.",1,
+ORD00342877,,Balikpapan,Trans Studio Bandung,2023-11-26,Gold,217869,Sutan Artanto Iswahyudi,4,871476
+ORD00606912,ARDHITO PRAMONO,Denpasar,TAMAN BUDAYA,03-18-2025,VIP,253466,Jasmin Halim,1,253466
+ORD00677991,Ardhito Pramono,Denpasar,Trans Studio Bandung,2025-06-02,,173669,"Ir. Cahyadi Purwanti, S.Gz",3,521007
+ORD00530735,Fiersa Besari,Yogyakarta,Trans Studio Bandung,2023-08-16,Silver,,Gamanto Pranowo,1,173669
+ORD00416212,NADIN AMIZAH,Semarang,JOGJA EXPO CENTER,2025-06-24,Festival,127493,"Garang Suwarno, S.I.Kom",5,637465
+ORD00096698,Fiersa Besari,Surabaya,Taman Budaya,2023-08-31,VIP,253466,Drs. Elisa Rajasa,2,506932
+ORD00040859,,Semarang,istora senayan,2024-11-17,VIP,253466,"Dimas Halim, M.Pd",5,1267330
+ORD00717396,Isyana Sarasvati,Medan,Taman Budaya,2024-01-21,VIP,253466,R. Jumadi Thamrin,2,506932
+ORD00101349,maliq & d'essentials,Jakarta,trans studio bandung,2024-10-31,Silver,173669,Hairyanto Novitasari,1,173669
+ORD00135058,Barasuara,Medan,Taman Budaya,2025/05/01,Festival,,Rahmi Gunawan,3,382479
+ORD00588260,RAISA,Palembang,TENNIS INDOOR SENAYAN,2023-08-26,,253466,Hj. Rachel Mansur,1,253466
+ORD00628828,pamungkas,Balikpapan,trans studio bandung,2024-02-25,Gold,217869,Tiara Hardiansyah,1,217869
+ORD00712719,Noah,,Ciwalk,2023-11-24,Gold,217869,"drg. Sakura Dabukke, S.E.I",1,217869
+ORD00603578,Nadin Amizah,Medan,Ciwalk,2024-09-03,Festival,1,Nyoman Saptono,1,127493
+ORD00071776,DEWA 19,Medan,TRANS STUDIO BANDUNG,2024-04-02,Gold,217869,,1,217869
+ORD00504840,Fiersa Besari,Medan,Gedung Kesenian Jakarta,10-15-2024,Gold,217869,"dr. Melinda Sudiati, S.Kom",4,871476
+ORD00200120,pamungkas,Medan,lapangan gasibu,2025-04-13,Silver,173669,Iriana Latupono,4,
+ORD00628787,Pamungkas,Balikpapan,Trans Studio Bandung,2024-02-25,Gold,217869,Mursita Pangestu,2,435738
+ORD00279813,Kunto Aji,Bandung,Jogja Expo Center,03-14-2024,Gold,217869,Among Mardhiyah,1,217869
+ORD00669502,Ardhito Pramono,Denpasar,Lapangan Gasibu,2025-01-25,Gold,217869,Simon Suartini,2,435738
+,PAMUNGKAS,Surabaya,TAMAN BUDAYA,2023-10-30,VIP,253466,drg. Nadine Haryanti,2,506932
+ORD00031910,BANDA NEIRA,Surabaya,ISTORA SENAYAN,,VIP,253466,R. Kiandra Anggraini,2,506932
+ORD00193413,Sal Priadi,Jakarta,Trans Studio Bandung,2023-12-21,Silver,173669,Salwa Dongoran,3,521007
+ORD00091526,,Denpasar,JCC,2025/06/22,VIP,253466,"dr. Hamima Maryati, M.TI.",4,1013864
+ORD00190678,Isyana Sarasvati,Denpasar,Gedung Kesenian Jakarta,2024/04/14,VIP,253466,Bella Wijaya,4,1013864
+ORD00123537,Barasuara,Medan,Gedung Kesenian Jakarta,2024/12/03,Silver,,Lamar Pradana,4,694676
+ORD00303612,Tulus,Bandung,Ciwalk,02-20-2025,VIP,253466,Gawati Waluyo,3,760398
+ORD00447888,Noah,Yogyakarta,Lapangan Gasibu,2024/06/20,Festival,127493,"Mariadi Mustofa, S.T.",4,509972
+ORD00000668,Raisa,Bandung,Taman Budaya,,VIP,253466,"dr. Bagya Hassanah, M.Ak",3,760398
+ORD00019365,Bernadya,Bandung,JCC,07-08-2024,Festival,127493,drg. Septi Samosir,3,382479
+ORD00283560,Hindia,Balikpapan,Gedung Kesenian Jakarta,2024-02-16,Festival,127493,Rahmi Waluyo,2,254986
+ORD00176519,dewa 19,Surabaya,gedung kesenian jakarta,2024-10-11,VIP,253466,Calista Sudiati,4,1013864
+ORD00560137,Noah,Palembang,Lapangan Gasibu,2023/10/22,Festival,127493,"Ratna Pudjiastuti, S.Pt",4,509972
+ORD00034661,Maliq & D'Essentials,Jakarta,Gedung Kesenian Jakarta,2023-08-28,VIP,253466,"Winda Pradipta, S.Kom",4,
+ORD00576170,Isyana Sarasvati,Semarang,JCC,2024-05-12,Festival,127493,Citra Ardianto,4,509972
+ORD00680189,Tiara Andini,Denpasar,Istora Senayan,2024-07-31,Gold,217869,Hana Wacana,1,217869
+ORD00537034,Bernadya,Semarang,Sabuga,2024/02/13,Festival,127493,Irma Prayoga,3,382479
+,ardhito pramono,Makassar,istora senayan,2024-07-25,VIP,253466,"Adikara Hutagalung, M.Kom.",2,506932
+ORD00647511,ISYANA SARASVATI,Yogyakarta,GEDUNG KESENIAN JAKARTA,2024-09-10,VIP,253466,Hana Mansur,5,1267330
+ORD00647672,isyana sarasvati,Yogyakarta,gedung kesenian jakarta,2024-09-10,VIP,253466,Lukman Saputra,2,506932
+ORD00530211,ardhito pramono,Palembang,sabuga,2024-10-06,Silver,173669,"Jinawi Mansur, S.T.",,173669
+ORD00252286,Tiara Andini,Yogyakarta,Istora Senayan,2024/01/27,Silver,173669,Ajeng Lazuardi,5,868345
+ORD00738154,Pamungkas,Surabaya,Taman Budaya,2025/04/01,Silver,173669,"R.A. Ana Marbun, S.H.",2,347338
+ORD00605782,ARDHITO PRAMONO,Medan,TRANS STUDIO BANDUNG,2025/07/09,,173669,Bella Pertiwi,1,173669
+ORD00708701,KUNTO AJI,Semarang,LAPANGAN GASIBU,2024-01-05,Silver,173669,Rusman Kuswoyo,5,868345
+ORD00113174,Tulus,Semarang,Lapangan Gasibu,04-15-2024,Festival,127493,Raisa Oktaviani,2,254986
+,Nadin Amizah,Bandung,Ciwalk,2024-11-26,Silver,173669,KH. Perkasa Tarihoran,3,521007
+ORD00736427,Bernadya,Medan,Istora Senayan,2023-09-10,VIP,253466,Kariman Siregar,1,253466
+ORD00588627,Hindia,Yogyakarta,Taman Budaya,2024/04/20,Festival,127493,"Sutan Gaman Mangunsong, S.IP",1,127493
+ORD00555479,RAISA,Semarang,JOGJA EXPO CENTER,2024-11-19,Gold,217869,Prasetyo Firgantoro,3,653607
+ORD00106879,Sal Priadi,Denpasar,Istora Senayan,01-04-2025,Gold,217869,Icha Tarihoran,1,217869
+ORD00208068,YURA YUNITA,Surabaya,CIWALK,2024-06-05,Gold,217869,Michelle Pangestu,5,1089345
+ORD00349446,Tiara Andini,Bandung,Trans Studio Bandung,2025/07/08,Gold,217869,R.M. Cecep Melani,1,217869
+ORD00043878,Fiersa Besari,Bandung,Ciwalk,2023/09/18,Festival,127493,Daliman Pertiwi,4,509972
+ORD00189826,tulus,Bandung,istora senayan,2023/10/10,Silver,173669,R.M. Harjasa Nababan,3,521007
+ORD00383821,raisa,Bandung,istora senayan,2025-02-17,VIP,253466,"Caturangga Aryani, S.IP",1,253466
+ORD00591901,Isyana Sarasvati,Surabaya,Istora Senayan,2023-09-17,Gold,217869,Makara Mustofa,1,217869
+ORD00207983,yura yunita,Surabaya,ciwalk,2024-06-05,Gold,217869,Lalita Jailani,5,1089345
+,Tulus,Surabaya,Trans Studio Bandung,2024-06-22,Festival,127493,Rahman Prayoga,2,254986
+ORD00263591,ARDHITO PRAMONO,Jakarta,TRANS STUDIO BANDUNG,2024-10-05,Silver,173669,"Prasetya Sihotang, S.Gz",1,173669
+ORD00705410,Nadin Amizah,Yogyakarta,JCC,2024-11-19,Festival,127493,"Kasiyah Napitupulu, M.TI.",3,
+ORD00345847,Barasuara,Jakarta,Trans Studio Bandung,2025-06-02,,217869,Ilyas Ramadan,2,435738
+ORD00068286,Nadin Amizah,Yogyakarta,Trans Studio Bandung,2024-12-04,Festival,127493,Hasna Susanti,4,509972
+ORD00270569,Maliq & D'Essentials,Jakarta,Tennis Indoor Senayan,2024-01-31,VIP,253466,Cinthia Utama,1,253466
+ORD00642185,EFEK RUMAH KACA,Semarang,CIWALK,2023-10-06,,127493,Dalima Tamba,2,254986
+ORD00263095,Bernadya,Jakarta,Taman Budaya,2024-11-19,Festival,,Indah Kuswoyo,4,509972
+ORD00815458,SAL PRIADI,Jakarta,SABUGA,2024-08-24,VIP,,"Latika Wasita, M.M.",1,253466
+ORD00415560,NOAH,Makassar,CIWALK,2025-04-02,Gold,217869,Aslijan Adriansyah,2,435738
+ORD00295851,Tiara Andini,Jakarta,Tennis Indoor Senayan,2025-05-13,Gold,217869,Belinda Halim,4,871476
+ORD00531615,Fiersa Besari,,Trans Studio Bandung,2023-08-16,Silver,173669,Ira Dabukke,1,173669
+ORD00784189,fiersa besari,Bandung,tennis indoor senayan,2025-05-27,Festival,127493,Dwi Hardiansyah,5,637465
+ORD00657486,BARASUARA,Denpasar,ISTORA SENAYAN,2024-09-14,Silver,173669,Ganjaran Zulkarnain,5,868345
+ORD00071878,dewa 19,Medan,trans studio bandung,2024/04/02,Gold,217869,Ella Waluyo,4,871476
+,Raisa,Balikpapan,Trans Studio Bandung,2025/02/27,Festival,127493,drg. Kamidin Maryadi,2,254986
+ORD00320252,Fourtwnty,Denpasar,Tennis Indoor Senayan,2025-01-05,Festival,127493,R.M. Panji Megantara,3,382479
+ORD00636941,yura yunita,Balikpapan,taman budaya,07-29-2024,Festival,127493,"Dr. Puput Maryadi, S.Farm",2,254986
+ORD00688066,Pamungkas,Jakarta,JCC,2024/11/25,Festival,127493,Daniswara Samosir,1,127493
+ORD00307879,Tiara Andini,Palembang,Trans Studio Bandung,2025-06-10,Silver,173669,Laila Wasita,,868345
+ORD00455301,Pamungkas,Jakarta,Lapangan Gasibu,2025-04-08,Silver,173669,Kairav Jailani,1,173669
+ORD00104866,Sal Priadi,Semarang,Trans Studio Bandung,02-06-2024,VIP,253466,Hairyanto Latupono,,1013864
+ORD00387163,Nadin Amizah,Denpasar,Istora Senayan,2023-09-18,Gold,217869,Galak Kusmawati,5,1089345
+,pamungkas,Makassar,jcc,2023/09/22,Festival,127493,Mustofa Mansur,3,382479
+ORD00429728,Pamungkas,Yogyakarta,Jogja Expo Center,2023/08/30,Gold,217869,Umay Permata,2,435738
+ORD00479543,Fiersa Besari,Denpasar,Ciwalk,11-23-2024,Festival,127493,Jati Widodo,3,382479
+,Bernadya,Palembang,Istora Senayan,2025-03-13,VIP,253466,Zaenab Hasanah,1,253466
+ORD00338055,ARDHITO PRAMONO,Semarang,GEDUNG KESENIAN JAKARTA,2024-06-09,Silver,173669,Ade Rajasa,,347338
+ORD00104627,Isyana Sarasvati,Surabaya,Ciwalk,2024-09-08,Festival,127493,Harjo Namaga,2,254986
+ORD00391403,hindia,Jakarta,jogja expo center,,Silver,173669,Natalia Iswahyudi,3,521007
+ORD00210193,,Palembang,JCC,2024-06-01,Gold,217869,T. Kairav Pudjiastuti,2,435738
+ORD00083195,BARASUARA,Palembang,,2024-05-28,Festival,127493,Daniswara Nashiruddin,5,637465
+,Ardhito Pramono,Medan,Tennis Indoor Senayan,09-19-2023,Silver,173669,Bakiman Hasanah,3,521007
+ORD00455461,Pamungkas,Jakarta,Lapangan Gasibu,04-08-2025,Silver,173669,"Dwi Hidayat, S.Ked",2,
+ORD00356295,DEWA 19,,TENNIS INDOOR SENAYAN,2024-05-30,Festival,127493,Zizi Utama,1,127493
+ORD00229781,Noah,Surabaya,Tennis Indoor Senayan,2023/09/02,,1,Pardi Utama,5,637465
+ORD00651206,Fourtwnty,Surabaya,Sabuga,2024/07/12,Festival,127493,Mulyono Iswahyudi,1,127493
+ORD00339675,,Semarang,trans studio bandung,2025/02/15,Festival,127493,Ir. Julia Mandala,2,254986
+ORD00331398,Fiersa Besari,Balikpapan,Lapangan Gasibu,12-10-2023,Gold,217869,"Dinda Natsir, S.E.",2,435738
+ORD00319923,Yura Yunita,Balikpapan,Sabuga,2024-01-05,Silver,173669,"H. Dadi Kurniawan, S.Psi",5,868345
+ORD00023740,fiersa besari,Jakarta,jcc,04-11-2025,VIP,253466,Rahmi Haryanto,1,253466
+ORD00183153,ardhito pramono,Makassar,taman budaya,2024/06/24,Festival,127493,Daru Marpaung,1,127493
+ORD00085366,Kunto Aji,Bandung,Tennis Indoor Senayan,2024-07-16,Festival,127493,"Sutan Ajimat Pertiwi, S.E.I",2,254986
+ORD00560481,Kunto Aji,Makassar,Taman Budaya,2024/10/06,Festival,127493,"Mahdi Prasetyo, M.TI.",4,509972
+ORD00129165,efek rumah kaca,Medan,taman budaya,,Silver,99999999,Gangsar Yuniar,2,347338
+ORD00405300,Bernadya,Bandung,Jogja Expo Center,2024/10/10,Gold,500000000,Sabrina Novitasari,5,
+ORD00766082,Kunto Aji,Surabaya,Istora Senayan,2024/02/27,Gold,217869,Hj. Irma Mustofa,1,217869
+ORD00793161,Efek Rumah Kaca,Jakarta,Trans Studio Bandung,2024-07-03,Gold,217869,Bella Uwais,1,217869
+ORD00070972,fiersa besari,Semarang,trans studio bandung,2025-01-07,Festival,127493,Tgk. Ilsa Laksmiwati,4,
+ORD00303481,Tulus,Bandung,Ciwalk,2025-02-20,VIP,253466,"Ikhsan Namaga, M.Pd",1,253466
+ORD00355307,TULUS,Semarang,TENNIS INDOOR SENAYAN,2024-12-19,Gold,217869,"dr. Harjaya Santoso, S.H.",,653607
+ORD00469259,ARDHITO PRAMONO,Medan,CIWALK,,Festival,127493,Lantar Damanik,4,509972
+ORD00562802,YURA YUNITA,Bandung,TENNIS INDOOR SENAYAN,,Festival,127493,Jaeman Firgantoro,4,509972
+ORD00557490,Tulus,Makassar,Tennis Indoor Senayan,2023-11-01,,173669,Dimaz Najmudin,5,868345
+ORD00620117,maliq & d'essentials,Surabaya,ciwalk,2025-05-16,VIP,253466,"Sutan Dacin Hardiansyah, S.Sos",2,506932
+ORD00476876,dewa 19,Medan,gedung kesenian jakarta,02-26-2024,VIP,253466,Dadi Prasasta,2,506932
+ORD00156801,pamungkas,Semarang,jogja expo center,2025-06-23,Festival,127493,Paiman Purnawati,4,
+ORD00358913,Nadin Amizah,Jakarta,Trans Studio Bandung,2025/03/17,,173669,Bakidin Astuti,2,347338
+ORD00281169,Tiara Andini,Semarang,Trans Studio Bandung,12-22-2024,Festival,127493,,3,382479
+ORD00166625,kunto aji,Surabaya,gedung kesenian jakarta,2024/01/19,,217869,"Lidya Namaga, S.T.",3,653607
+ORD00674548,Fourtwnty,Makassar,Istora Senayan,2024-12-02,Festival,127493,"Cinthia Pratama, S.Ked",3,382479
+ORD00340875,Noah,Denpasar,Jogja Expo Center,02-03-2024,Silver,,Ir. Rahman Hasanah,2,347338
+ORD00151468,SAL PRIADI,Yogyakarta,JCC,2025-02-11,Silver,173669,Amelia Yuliarti,1,173669
+ORD00309655,Yura Yunita,Makassar,Ciwalk,2023-11-18,Silver,,Warsita Januar,5,868345
+ORD00664703,tiara andini,Makassar,sabuga,2023-10-12,VIP,253466,Ade Rahmawati,1,253466
+,nadin amizah,Bandung,sabuga,2023/11/26,VIP,253466,Padmi Januar,5,1267330
+ORD00562802,YURA YUNITA,Bandung,TENNIS INDOOR SENAYAN,,Festival,127493,Jaeman Firgantoro,4,509972
+ORD00514140,Banda Neira,Denpasar,Jogja Expo Center,2024-11-05,VIP,253466,Bakda Wasita,4,1013864
+ORD00523908,NADIN AMIZAH,Jakarta,GEDUNG KESENIAN JAKARTA,2025-05-08,Festival,127493,Endah Kusmawati,1,127493
+ORD00026650,Nadin Amizah,Bandung,Istora Senayan,2023-11-23,Festival,127493,Karya Hakim,1,127493
+ORD00366835,noah,Jakarta,jogja expo center,2024-02-13,Gold,217869,Murti Sitompul,3,653607
+ORD00404527,MALIQ & D'ESSENTIALS,Medan,GEDUNG KESENIAN JAKARTA,2024-11-15,Gold,217869,Nabila Nababan,4,871476
+ORD00156801,pamungkas,Semarang,jogja expo center,2025-06-23,Festival,127493,Paiman Purnawati,4,
+ORD00079666,,Bandung,GEDUNG KESENIAN JAKARTA,2024-10-08,VIP,253466,Dinda Agustina,3,760398
+ORD00793810,SAL PRIADI,Semarang,SABUGA,2023-09-04,Festival,,Drs. Nadia Zulaika,5,637465
+ORD00398132,NADIN AMIZAH,Bandung,ISTORA SENAYAN,03-11-2024,Gold,217869,Hamima Novitasari,5,1089345
+ORD00070693,Fourtwnty,Balikpapan,Taman Budaya,2024-01-12,Gold,217869,Timbul Wibowo,1,217869
+ORD00465816,Bernadya,Denpasar,,2024/09/23,VIP,253466,Ir. Paulin Tamba,1,253466
+ORD00295851,Tiara Andini,Jakarta,Tennis Indoor Senayan,2025-05-13,Gold,217869,Belinda Halim,4,871476
+ORD00247674,ARDHITO PRAMONO,Denpasar,,2024-03-27,Festival,127493,"Harimurti Sihombing, S.Kom",4,509972
+ORD00536973,Bernadya,Semarang,Sabuga,,Festival,127493,Danuja Pangestu,2,254986
+,Hindia,Yogyakarta,Lapangan Gasibu,2024-02-01,Festival,500000000,Mala Suwarno,1,127493
+ORD00041074,SAL PRIADI,Semarang,ISTORA SENAYAN,2024-11-17,,253466,"Marsudi Widiastuti, M.Kom.",4,1013864
+ORD00787554,ISYANA SARASVATI,Denpasar,JOGJA EXPO CENTER,2024-07-18,Festival,,R. Titin Pertiwi,3,382479
+,Raisa,Bandung,Sabuga,2024/07/29,Silver,173669,Dian Budiman,4,694676
+ORD00118230,Hindia,Medan,Gedung Kesenian Jakarta,2025/02/03,Festival,127493,Ir. Yusuf Tampubolon,2,254986
+ORD00579001,kunto aji,Denpasar,tennis indoor senayan,2025-01-12,Gold,217869,Emong Palastri,2,435738
+,Pamungkas,Yogyakarta,Trans Studio Bandung,2024/07/17,VIP,1,"Dt. Sakti Pranowo, M.Farm",2,506932
+ORD00784189,fiersa besari,Bandung,tennis indoor senayan,2025-05-27,Festival,127493,Dwi Hardiansyah,5,637465
+ORD00002337,Kunto Aji,Balikpapan,Trans Studio Bandung,2024-02-24,Gold,217869,"Ghaliyati Samosir, S.E.I",2,435738
+ORD00414665,isyana sarasvati,Semarang,trans studio bandung,08-26-2024,Festival,127493,R. Yance Mandasari,3,382479
+ORD00797766,hindia,Palembang,taman budaya,2025/07/15,Gold,217869,"Ade Widiastuti, S.I.Kom",3,653607
+ORD00313925,FOURTWNTY,Makassar,JCC,2023-11-18,Festival,127493,R. Jefri Habibi,2,254986
+ORD00778367,,Palembang,Istora Senayan,2024-06-01,Gold,217869,Kunthara Aryani,3,653607
+,Banda Neira,Denpasar,Istora Senayan,2024/11/10,Gold,217869,"Eko Anggriawan, S.Pt",1,217869
+ORD00797903,Hindia,Palembang,Taman Budaya,2025-07-15,Gold,217869,Nadine Thamrin,1,217869
+,Efek Rumah Kaca,Semarang,JCC,2025/02/25,Festival,127493,Gangsa Ramadan,4,509972
+ORD00094506,maliq & d'essentials,Palembang,tennis indoor senayan,2024/08/24,,127493,Rahayu Latupono,5,637465
+ORD00146470,BERNADYA,Balikpapan,CIWALK,2024/09/25,Festival,127493,Ciaobella Saragih,2,254986
+ORD00323449,SAL PRIADI,Balikpapan,CIWALK,2024-10-02,Festival,127493,"drg. Jaeman Rajata, S.IP",2,254986
+ORD00149776,,Balikpapan,Ciwalk,2025/07/16,VIP,253466,"Dewi Pudjiastuti, S.E.I",4,1013864
+ORD00358532,,Jakarta,Trans Studio Bandung,2025/03/17,Silver,173669,"Mala Simbolon, M.TI.",2,347338
+ORD00662614,DEWA 19,Surabaya,ISTORA SENAYAN,2025-03-07,Silver,173669,"Puti Nasyiah, S.I.Kom",3,521007
+ORD00377457,Dewa 19,Bandung,Gedung Kesenian Jakarta,2024-02-08,VIP,253466,"Dt. Bahuwarna Pertiwi, S.Gz",3,760398
+ORD00330218,TULUS,Yogyakarta,LAPANGAN GASIBU,2025-04-15,VIP,253466,Sutan Makara Uwais,5,1267330
+ORD00454045,Tulus,Jakarta,Taman Budaya,05-14-2025,Gold,217869,Pardi Widodo,2,435738
+ORD00813721,Ardhito Pramono,Denpasar,Lapangan Gasibu,2025-02-01,Gold,217869,Jamil Hidayanto,2,
+ORD00583423,efek rumah kaca,Jakarta,taman budaya,2025-05-16,Silver,173669,Dian Kusumo,4,
+ORD00117648,Raisa,Makassar,Sabuga,2025-06-05,VIP,253466,,2,506932
+ORD00167315,PAMUNGKAS,Surabaya,JOGJA EXPO CENTER,2023-09-16,Festival,127493,"Melinda Aryani, S.E.",1,127493
+ORD00208068,YURA YUNITA,Surabaya,CIWALK,2024-06-05,Gold,217869,Michelle Pangestu,5,1089345
+ORD00601913,maliq & d'essentials,Surabaya,jcc,2024/06/28,Festival,127493,Danu Rahayu,2,254986
+ORD00475970,Dewa 19,Medan,Gedung Kesenian Jakarta,2024-02-26,VIP,253466,"Puti Kamila Marbun, S.Kom",1,
+ORD00749059,Ardhito Pramono,Denpasar,Trans Studio Bandung,2024/11/01,Silver,173669,Kasiyah Situmorang,,173669
+ORD00297836,Maliq & D'Essentials,Palembang,Gedung Kesenian Jakarta,2025-04-30,Festival,127493,Ami Lazuardi,1,127493
+ORD00189999,RAISA,Balikpapan,GEDUNG KESENIAN JAKARTA,2023-09-11,Festival,127493,"Kezia Usada, S.IP",1,
+ORD00338891,Banda Neira,Bandung,Sabuga,04-09-2025,Festival,127493,Gangsar Habibi,4,509972
+ORD00383821,raisa,Bandung,istora senayan,2025-02-17,VIP,253466,"Caturangga Aryani, S.IP",1,253466
+ORD00768681,Banda Neira,Denpasar,Taman Budaya,2025-04-18,Gold,1,Vera Usamah,1,217869
+ORD00699018,Nadin Amizah,Surabaya,Jogja Expo Center,2024-09-03,Gold,217869,Cut Nova Marpaung,,217869
+ORD00182384,Barasuara,Yogyakarta,Taman Budaya,10-09-2023,Gold,217869,Betania Mustofa,1,217869
+ORD00070496,FOURTWNTY,Balikpapan,TAMAN BUDAYA,2024/01/12,Gold,217869,Usman Usamah,2,
+ORD00072592,Bernadya,Palembang,Istora Senayan,2025-03-13,VIP,253466,drg. Elvina Suryatmi,1,253466
+ORD00677964,Ardhito Pramono,Denpasar,Trans Studio Bandung,2025-06-02,Silver,173669,"Yance Wijayanti, S.Sos",2,347338
+ORD00568623,yura yunita,Jakarta,ciwalk,2025/03/21,Gold,217869,Violet Haryanto,2,435738
+ORD00224655,NOAH,Jakarta,ISTORA SENAYAN,2023/09/09,Silver,173669,Kemba Hasanah,3,521007
+ORD00491604,Isyana Sarasvati,Makassar,Tennis Indoor Senayan,2025-01-15,Festival,127493,Eka Nainggolan,2,254986
+ORD00222456,Tiara Andini,Palembang,Ciwalk,2023-11-23,Gold,217869,Lili Safitri,3,653607
+ORD00608478,Fourtwnty,Semarang,Gedung Kesenian Jakarta,07-21-2024,Gold,217869,Joko Purwanti,5,1089345
+ORD00071878,dewa 19,Medan,trans studio bandung,2024/04/02,Gold,217869,Ella Waluyo,4,871476
+ORD00577986,kunto aji,Palembang,lapangan gasibu,2024-10-27,Gold,217869,"Ajeng Uyainah, S.Sos",2,435738
+ORD00442432,RAISA,Balikpapan,TENNIS INDOOR SENAYAN,07-30-2023,,253466,"R. Intan Hariyah, S.Kom",3,760398
+ORD00389602,pamungkas,Semarang,trans studio bandung,12-22-2024,Gold,500000000,Koko Maulana,2,435738
+ORD00370921,kunto aji,Semarang,gedung kesenian jakarta,2025-03-27,Silver,173669,Joko Salahudin,3,521007
+ORD00270048,Pamungkas,Bandung,Gedung Kesenian Jakarta,2025-06-07,VIP,253466,Gilang Permata,4,1013864
+ORD00676594,Fiersa Besari,Balikpapan,Taman Budaya,08-10-2024,Festival,127493,Gaduh Megantara,1,127493
